@@ -3,8 +3,8 @@
 2 VERS 3.15
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
-1 DATE 9 SEP 2020
-2 TIME 19:59:15
+1 DATE 11 SEP 2020
+2 TIME 22:23:50
 1 SUBM @SUBM@
 1 FILE ofb-hamm.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I137@
-1 _HOME @I137@
+2 _NAVI @I169@
+1 _HOME @I169@
 0 @I1@ INDI
 1 RIN AB:I1
 1 _UID 4EB661D5ACFE49AAAB528691A2E80DB03210
@@ -787,13 +787,14 @@
 1 NAME Elisabeth /Schreiber/
 2 SURN Schreiber
 2 GIVN Elisabeth
+2 NOTE alternativer Nachname: SREIBERS
 1 SEX F
 1 FAMS @F16@
 1 BIRT Y
 1 DEAT Y
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 18:47:48
+2 DATE 11 SEP 2020
+3 TIME 22:15:42
 0 @I44@ INDI
 1 RIN AB:I44
 1 _UID 0C7F123A1017461A92A9CD27CCE85914AEF0
@@ -1508,13 +1509,14 @@
 1 NAME Elsa /Nachtkamps/
 2 SURN Nachtkamps
 2 GIVN Elsa
+2 NOTE alternativer Nachname: NACHTKAMPF
 1 SEX F
 1 FAMS @F31@
 1 BIRT Y
 1 DEAT Y
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 22:41:35
+2 DATE 11 SEP 2020
+3 TIME 22:04:44
 0 @I84@ INDI
 1 RIN AB:I84
 1 _UID 44341758FD2A4731A49B1C3DE13EA8260B19
@@ -2531,6 +2533,614 @@
 1 CHAN
 2 DATE 9 SEP 2020
 3 TIME 19:55:53
+0 @I138@ INDI
+1 RIN AB:I138
+1 _UID A453FFA40CE146479349E163A4846BAB7242
+1 NAME Theodorus /Deese/
+2 SURN Deese
+2 GIVN Theodorus
+1 SEX M
+1 BIRT Y
+1 RELI
+2 SOUR k
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+1 FAMC @F49@
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+2 DATE 1 FEB 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Paten: Ditherich Rahman, Anna ..lthoff
+1 CHAN
+2 DATE 9 SEP 2020
+3 TIME 22:30:31
+0 @I139@ INDI
+1 RIN AB:I139
+1 _UID 58D3528BD07D47F9AB584EC008A1FFBB091E
+1 NAME Ditherich /Deese/
+2 SURN Deese
+2 GIVN Ditherich
+1 SEX M
+1 FAMS @F49@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 9 SEP 2020
+3 TIME 22:31:05
+0 @I140@ INDI
+1 RIN AB:I140
+1 _UID 71C83F5F555049E3A19A79CDF308F0081C2F
+1 NAME Anna /Botterbrodt/
+2 SURN Botterbrodt
+2 GIVN Anna
+1 SEX F
+1 FAMS @F49@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 9 SEP 2020
+3 TIME 22:31:11
+0 @I141@ INDI
+1 RIN AB:I141
+1 _UID E1DBCFB293C24043867A9EDD18A3214EBABA
+1 NAME Christina Elisabeth /Kettrup/
+2 SURN Kettrup
+2 GIVN Christina Elisabeth
+1 SEX F
+1 BIRT Y
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+1 FAMC @F50@
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+2 DATE 2 MAR 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Paten: Christina Elisabeth Lobach, Johan Tilman
+1 CHAN
+2 DATE 9 SEP 2020
+3 TIME 22:35:09
+0 @I142@ INDI
+1 RIN AB:I142
+1 _UID 78FE2C81CF24433D915680F509707A6146CE
+1 NAME Ditehrich /Kettrup/
+2 SURN Kettrup
+2 GIVN Ditehrich
+1 SEX M
+1 FAMS @F50@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 9 SEP 2020
+3 TIME 22:35:32
+0 @I143@ INDI
+1 RIN AB:I143
+1 _UID 30EAF38B8C5F4AC1AE2CAC561077703FA07F
+1 NAME Anna /Löhrs/
+2 SURN Löhrs
+2 GIVN Anna
+1 SEX F
+1 FAMS @F50@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 9 SEP 2020
+3 TIME 22:35:38
+0 @I144@ INDI
+1 RIN AB:I144
+1 _UID 0649C3CB482C42C99AB7507790F9578EE2F4
+1 NAME Gerhardus /Eilings/
+2 SURN Eilings
+2 GIVN Gerhardus
+1 SEX M
+1 FAMC @F28@
+1 BIRT Y
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+1 CHR
+2 DATE 4 MAR 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+2 _GODP Paten: Gert Knippenkötter, Ermeke Linnemans
+1 CHAN
+2 DATE 11 SEP 2020
+3 TIME 21:39:34
+0 @I145@ INDI
+1 RIN AB:I145
+1 _UID E6593F752DC4453E871D6C6AC85714A6BAF2
+1 NAME Clara /Reckers gen. Kumptman/
+2 SURN Reckers gen. Kumptman
+2 GIVN Clara
+1 SEX F
+1 BIRT Y
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+1 FAMC @F51@
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+2 DATE 4 MAR 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Paten: Clara Frielickman, Johan Dabroick
+1 CHAN
+2 DATE 11 SEP 2020
+3 TIME 21:50:28
+0 @I146@ INDI
+1 RIN AB:I146
+1 _UID 83D6F7D1BD0B45648A52E4F60B49C6F557A0
+1 NAME Ditherich /Reckers gen. Kumptman/
+2 SURN Reckers gen. Kumptman
+2 GIVN Ditherich
+1 SEX M
+1 FAMS @F51@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 11 SEP 2020
+3 TIME 21:50:58
+0 @I147@ INDI
+1 RIN AB:I147
+1 _UID D01EB6F94B0D49F6900C44F9DDD49E308C93
+1 NAME Anna /Reckers/
+2 SURN Reckers
+2 GIVN Anna
+1 SEX F
+1 FAMS @F51@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 11 SEP 2020
+3 TIME 21:51:03
+0 @I148@ INDI
+1 RIN AB:I148
+1 _UID 965885F072E04F6C9758385C789FA02BD53C
+1 NAME Henrich /Schulte Heimann/
+2 SURN Schulte Heimann
+2 GIVN Henrich
+1 SEX M
+1 BIRT Y
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+1 FAMC @F52@
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+2 DATE 18 MAR 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Paten: Hen. Frilickman, Elsa Fischers
+1 CHAN
+2 DATE 11 SEP 2020
+3 TIME 21:53:21
+0 @I149@ INDI
+1 RIN AB:I149
+1 _UID 8A4A5D94A7164257BC8F61C0B20620F251D4
+1 NAME Wennemar /Schulte Heimann gen. Schulte im Hospital/
+2 SURN Schulte Heimann gen. Schulte im Hospital
+2 GIVN Wennemar
+1 SEX M
+1 FAMS @F52@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 11 SEP 2020
+3 TIME 21:53:39
+0 @I150@ INDI
+1 RIN AB:I150
+1 _UID 6A3D6DA291CB4A309352515CA633A0D9704E
+1 NAME Trina /Frilickmans/
+2 SURN Frilickmans
+2 GIVN Trina
+1 SEX F
+1 FAMS @F52@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 11 SEP 2020
+3 TIME 21:53:44
+0 @I151@ INDI
+1 RIN AB:I151
+1 _UID 67B26B6FB9AF423591086284D867F8941CB6
+1 NAME Joannes /Bleckman/
+2 SURN Bleckman
+2 GIVN Joannes
+1 SEX M
+1 BIRT Y
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+1 FAMC @F53@
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+2 DATE 16 APR 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Paten: Johan Beckman, Anna Bleckman
+1 CHAN
+2 DATE 11 SEP 2020
+3 TIME 21:55:28
+0 @I152@ INDI
+1 RIN AB:I152
+1 _UID CA9E5A1F13E94925A65BE8B4202A8A4C086E
+1 NAME Adam /Bleckman/
+2 SURN Bleckman
+2 GIVN Adam
+1 SEX M
+1 FAMS @F53@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 11 SEP 2020
+3 TIME 21:55:46
+0 @I153@ INDI
+1 RIN AB:I153
+1 _UID 8EB2729AEB294308BF4585088A8D7FAD7FA4
+1 NAME Hardewigs /Beckman/
+2 SURN Beckman
+2 GIVN Hardewigs
+1 SEX F
+1 FAMS @F53@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 11 SEP 2020
+3 TIME 21:56:02
+0 @I154@ INDI
+1 RIN AB:I154
+1 _UID E6CE0AEF87834AD6AC4CFC521648DC4CA3AA
+1 NAME Joes /Ridder/
+2 SURN Ridder
+2 GIVN Joes
+1 SEX M
+1 BIRT Y
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+1 FAMC @F54@
+1 CHR
+2 DATE 29 APR 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+2 _GODP Paten: Johan Friedrich von Beverforde, Elsa Kocks
+1 CHAN
+2 DATE 11 SEP 2020
+3 TIME 21:58:26
+0 @I155@ INDI
+1 RIN AB:I155
+1 _UID 5B8A1240F37D450CA7A5E2D5FBCF66FB2633
+1 NAME Mertin /Ridder/
+2 SURN Ridder
+2 GIVN Mertin
+1 SEX M
+1 FAMS @F54@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 11 SEP 2020
+3 TIME 21:58:55
+0 @I156@ INDI
+1 RIN AB:I156
+1 _UID B5356129A85F402DBDAA2766662DCEAEEBB7
+1 NAME Gerdrud /Thillingbergs/
+2 SURN Thillingbergs
+2 GIVN Gerdrud
+1 SEX F
+1 FAMS @F54@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 11 SEP 2020
+3 TIME 21:58:59
+0 @I157@ INDI
+1 RIN AB:I157
+1 _UID F6E7F6F742FA446A86436BA83FC1D2288AFA
+1 NAME Clara /Knippenkötter/
+2 SURN Knippenkötter
+2 GIVN Clara
+1 SEX F
+1 BIRT Y
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+1 FAMC @F55@
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+2 DATE 10 MAY 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Paten: Clara Haamans, Gert Knippenkötter
+1 CHAN
+2 DATE 11 SEP 2020
+3 TIME 22:00:39
+0 @I158@ INDI
+1 RIN AB:I158
+1 _UID B401F0E8F8C742C9904B009BDE96F8EA23B1
+1 NAME Joan /Knippenkötter/
+2 SURN Knippenkötter
+2 GIVN Joan
+1 SEX M
+1 FAMS @F55@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 11 SEP 2020
+3 TIME 22:00:55
+0 @I159@ INDI
+1 RIN AB:I159
+1 _UID 0B651CB9CEE6433DBC6FB9A656DE61E078E6
+1 NAME Trina /Kölings/
+2 SURN Kölings
+2 GIVN Trina
+1 SEX F
+1 FAMS @F55@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 11 SEP 2020
+3 TIME 22:00:59
+0 @I160@ INDI
+1 RIN AB:I160
+1 _UID A6602FF96EF04D978FC793E6D3895B2E24A4
+1 NAME Elsa /Steimann/
+2 SURN Steimann
+2 GIVN Elsa
+1 SEX F
+1 FAMC @F31@
+1 BIRT Y
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+2 DATE 27 MAY 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Paten: Ditherich Doerholt, Elsa Hausman
+1 CHAN
+2 DATE 11 SEP 2020
+3 TIME 22:04:03
+0 @I161@ INDI
+1 RIN AB:I161
+1 _UID 0BC8E5DB77AD41B9A96ED439834740D4B3AF
+1 NAME Clamerus /Peters gen. Knufman/
+2 SURN Peters gen. Knufman
+2 GIVN Clamerus
+1 SEX M
+1 BIRT Y
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+1 FAMC @F56@
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+2 DATE 8 JUL 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Paten: Clamer Hölscher, Elsa Fischer gen. Kock 
+1 CHAN
+2 DATE 11 SEP 2020
+3 TIME 22:06:40
+0 @I162@ INDI
+1 RIN AB:I162
+1 _UID F6CA129D65D34439BCDEFDF908269984FFA6
+1 NAME Arnt /Peters gen. Knufman/
+2 SURN Peters gen. Knufman
+2 GIVN Arnt
+1 SEX M
+1 FAMS @F56@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 11 SEP 2020
+3 TIME 22:06:56
+0 @I163@ INDI
+1 RIN AB:I163
+1 _UID 934948301667407AA26AE0F941210A97733B
+1 NAME Trina /Linnenhaus/
+2 SURN Linnenhaus
+2 GIVN Trina
+1 SEX F
+1 FAMS @F56@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 11 SEP 2020
+3 TIME 22:07:01
+0 @I164@ INDI
+1 RIN AB:I164
+1 _UID 59AFC07791F94C6196AB788947249F4E102A
+1 NAME Bernardus /Finsterstern/
+2 SURN Finsterstern
+2 GIVN Bernardus
+1 SEX M
+1 BIRT Y
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+1 FAMC @F57@
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+2 DATE 8 JUL 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Paten: Bernd Röhmer, Elsa thom Bockumb
+1 CHAN
+2 DATE 11 SEP 2020
+3 TIME 22:11:56
+0 @I165@ INDI
+1 RIN AB:I165
+1 _UID 0ADB7722323F418D833C0C7A2370B7CA16B7
+1 NAME Herman /Finsterstern/
+2 SURN Finsterstern
+2 GIVN Herman
+1 SEX M
+1 FAMS @F57@
+1 BIRT Y
+1 DEAT Y
+1 FAMC @F58@
+1 CHAN
+2 DATE 11 SEP 2020
+3 TIME 22:12:16
+0 @I166@ INDI
+1 RIN AB:I166
+1 _UID 6288E0D6EC994C94B988BFB48BA95DD41E38
+1 NAME Trina /.../
+2 SURN ...
+2 GIVN Trina
+1 SEX F
+1 FAMS @F58@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 11 SEP 2020
+3 TIME 22:12:22
+0 @I167@ INDI
+1 RIN AB:I167
+1 _UID 46920BF740EC436D88474088907D9E433B39
+1 NAME Josina /Lobach/
+2 SURN Lobach
+2 GIVN Josina
+1 SEX F
+1 FAMC @F16@
+1 BIRT Y
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+2 DATE 8 JUL 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Paten: Josina von Reck zu Heessen, Herman Steffgens
+1 CHAN
+2 DATE 11 SEP 2020
+3 TIME 22:14:59
+0 @I168@ INDI
+1 RIN AB:I168
+1 _UID 3EE6AF3ACFD24E088DE78177CE4DEF51CB4C
+1 NAME Theodorus /Schweher/
+2 SURN Schweher
+2 GIVN Theodorus
+1 SEX M
+1 BIRT Y
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+1 FAMC @F59@
+1 CHR
+2 DATE 22 JUL 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Paten: Ditherich Deese, Gerdruit Linnenhaus
+2 SOUR http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+1 CHAN
+2 DATE 11 SEP 2020
+3 TIME 22:23:19
+0 @I169@ INDI
+1 RIN AB:I169
+1 _UID E75A8F67CC0E4144A73DD56619D0817F9E0F
+1 NAME Joan /Schweher/
+2 SURN Schweher
+2 GIVN Joan
+1 SEX M
+1 FAMS @F59@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 11 SEP 2020
+3 TIME 22:23:26
 0 @S1@ SOUR
 1 TITL Matricula
 0 @S2@ SOUR
@@ -2590,6 +3200,7 @@
 1 HUSB @I42@
 1 CHIL @I40@
 1 WIFE @I43@
+1 CHIL @I167@
 0 @F17@ FAM
 1 HUSB @I35@
 1 CHIL @I34@
@@ -2640,6 +3251,7 @@
 1 HUSB @I72@
 1 CHIL @I71@
 1 WIFE @I73@
+1 CHIL @I144@
 0 @F29@ FAM
 1 HUSB @I75@
 1 CHIL @I74@
@@ -2653,6 +3265,7 @@
 1 HUSB @I82@
 1 CHIL @I81@
 1 WIFE @I83@
+1 CHIL @I160@
 0 @F32@ FAM
 1 HUSB @I85@
 1 CHIL @I84@
@@ -2719,6 +3332,47 @@
 1 HUSB @I136@
 1 CHIL @I135@
 1 WIFE @I137@
+0 @F49@ FAM
+1 HUSB @I139@
+1 CHIL @I138@
+1 WIFE @I140@
+0 @F50@ FAM
+1 HUSB @I142@
+1 CHIL @I141@
+1 WIFE @I143@
+0 @F51@ FAM
+1 HUSB @I146@
+1 CHIL @I145@
+1 WIFE @I147@
+0 @F52@ FAM
+1 HUSB @I149@
+1 CHIL @I148@
+1 WIFE @I150@
+0 @F53@ FAM
+1 HUSB @I152@
+1 CHIL @I151@
+1 WIFE @I153@
+0 @F54@ FAM
+1 HUSB @I155@
+1 CHIL @I154@
+1 WIFE @I156@
+0 @F55@ FAM
+1 HUSB @I158@
+1 CHIL @I157@
+1 WIFE @I159@
+0 @F56@ FAM
+1 HUSB @I162@
+1 CHIL @I161@
+1 WIFE @I163@
+0 @F57@ FAM
+1 HUSB @I165@
+1 CHIL @I164@
+0 @F58@ FAM
+1 WIFE @I166@
+1 CHIL @I165@
+0 @F59@ FAM
+1 HUSB @I169@
+1 CHIL @I168@
 0 @SUBM@ SUBM
 1 NAME Michael Johne
 1 ADDR Michael Johne
