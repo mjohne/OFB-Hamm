@@ -3,8 +3,8 @@
 2 VERS 3.15
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
-1 DATE 12 SEP 2020
-2 TIME 7:30:09
+1 DATE 13 SEP 2020
+2 TIME 13:43:39
 1 SUBM @SUBM@
 1 FILE ofb-hamm.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I128@
-1 _HOME @I128@
+2 _NAVI @I37@
+1 _HOME @I37@
 0 @I1@ INDI
 1 RIN AB:I1
 1 _UID 4EB661D5ACFE49AAAB528691A2E80DB03210
@@ -21,12 +21,19 @@
 2 SURN Krantz gen. Mörder
 2 GIVN Othmar
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=3
 1 FAMC @F1@
+1 BIRT
+2 DATE BEF 26 DEC 1641
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 DATE 26 DEC 1641
 2 PLAC Heessen, Hamm, Nordrhein-Westfalen
@@ -37,8 +44,8 @@
 2 RELI katholisch
 2 _GODP Paten: Othmer Rogge, Elsa Hardinghaus
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 18:02:34
+2 DATE 13 SEP 2020
+3 TIME 12:09:25
 0 @I2@ INDI
 1 RIN AB:I2
 1 _UID F085BF3991204C508707F50DC43BF0B7F0D6
@@ -72,12 +79,19 @@
 2 SURN Schroeher gen. Dorst
 2 GIVN Henrich
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=3
 1 FAMC @F2@
+1 BIRT
+2 DATE BEF 19 JAN 1642
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 DATE 19 JAN 1642
 2 PLAC Heessen, Hamm, Nordrhein-Westfalen
@@ -90,8 +104,8 @@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=3
 2 _GODP Paten: Henrich Dorst, Elsa Fischers
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 18:08:32
+2 DATE 13 SEP 2020
+3 TIME 12:06:51
 0 @I5@ INDI
 1 RIN AB:I5
 1 _UID 6ABB33A871B94DC48E4830665F65D51757FE
@@ -125,13 +139,20 @@
 2 SURN Römer gen. Wilms
 2 GIVN Anna Catharina
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=3
 1 FAMC @F3@
+1 BIRT
+2 DATE BEF 16 MAR 1642
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=3
@@ -144,8 +165,8 @@
 2 RELI katholisch
 2 _GODP Paten: Johan Wilmes, Anna Tonies
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 18:10:51
+2 DATE 13 SEP 2020
+3 TIME 12:07:30
 0 @I8@ INDI
 1 RIN AB:I8
 1 _UID 1BB212BBCB6B4898921C2096AA45F6CFC812
@@ -166,13 +187,20 @@
 2 SURN Vettinck
 2 GIVN Stephanus
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=3
 1 FAMC @F5@
+1 BIRT
+2 DATE BEF 6 APR 1642
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=3
@@ -185,8 +213,8 @@
 2 RELI katholisch
 2 _GODP Paten: Stephan Botterbroidt, Barbara Hoennes
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 18:13:26
+2 DATE 13 SEP 2020
+3 TIME 12:05:58
 0 @I11@ INDI
 1 RIN AB:I11
 1 _UID 5A0A3A5B2786425991E958E2B255A042DEF6
@@ -220,13 +248,20 @@
 2 SURN Kock
 2 GIVN Theodorus
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=3
 1 FAMC @F6@
+1 BIRT
+2 DATE BEF 29 JUN 1642
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=3
@@ -239,8 +274,8 @@
 2 RELI katholisch
 2 _GODP Paten: Ditherich Bogets, Greta Horbers
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 18:15:59
+2 DATE 13 SEP 2020
+3 TIME 12:09:28
 0 @I14@ INDI
 1 RIN AB:I14
 1 _UID CF66D97C7E7E4C7BBDE7AD346926B8B5CE37
@@ -262,6 +297,11 @@
 2 GIVN Fischers
 1 SEX F
 1 FAMS @F6@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 13 SEP 2020
+3 TIME 12:10:54
 0 @I16@ INDI
 1 RIN AB:I16
 1 _UID 29B6495F663649C0B71F02748CAE8A417D2F
@@ -269,13 +309,20 @@
 2 SURN Schmit
 2 GIVN Anna
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=3
 1 FAMC @F7@
+1 BIRT
+2 DATE BEF 26 SEP 1642
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=3
@@ -288,8 +335,8 @@
 2 RELI katholisch
 2 _GODP Paten: Arnt Beckmans, Anna Volmers
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 18:19:33
+2 DATE 13 SEP 2020
+3 TIME 12:07:08
 0 @I17@ INDI
 1 RIN AB:I17
 1 _UID 909CB008B1A54E61B8CADFD23E937AE9502C
@@ -324,13 +371,20 @@
 2 SURN Dorst
 2 GIVN Maria
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=3
 1 FAMC @F8@
+1 BIRT
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 DATE BEF 26 OCT 1642
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=3
@@ -343,8 +397,8 @@
 2 RELI katholisch
 2 _GODP Paten: Henrich Frielickman, Maria Dorst
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 18:25:19
+2 DATE 13 SEP 2020
+3 TIME 12:11:31
 0 @I20@ INDI
 1 RIN AB:I20
 1 _UID 929F2E3A395447DD99A29D4D3E21005725D1
@@ -378,13 +432,20 @@
 2 SURN Fischer gen. Tilman
 2 GIVN Christina Elisabeth
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=3
 1 FAMC @F10@
+1 BIRT
+2 DATE BEF 26 OCT 1642
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=3
@@ -397,8 +458,8 @@
 2 RELI katholisch
 2 _GODP Paten: Henrich Middendorpfs, Christina Elisabeth Lobachs
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 18:28:04
+2 DATE 13 SEP 2020
+3 TIME 12:11:12
 0 @I23@ INDI
 1 RIN AB:I23
 1 _UID 647ED85CCDD14E9DA573AADD354E09B98369
@@ -432,13 +493,20 @@
 2 SURN Saurman
 2 GIVN Henrich
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=3
 1 FAMC @F69@
+1 BIRT
+2 DATE BEF 8 FEB 1643
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=3
@@ -451,8 +519,8 @@
 2 RELI katholisch
 2 _GODP Paten: Henrich Middendorpff, Maria Dorst
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 7:25:13
+2 DATE 13 SEP 2020
+3 TIME 12:07:20
 0 @I26@ INDI
 1 RIN AB:I26
 1 _UID A428832E432A4FDB9DF6F056A0368D247423
@@ -475,21 +543,28 @@
 2 SURN Miles
 2 GIVN Wernerus
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 FAMC @F13@
+1 BIRT
+2 DATE BEF 11 FEB 1643
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 2 DATE 11 FEB 1643
 2 _GODP Paten: Werner Sievers, Anna Reckers
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 18:33:07
+2 DATE 13 SEP 2020
+3 TIME 12:08:25
 0 @I29@ INDI
 1 RIN AB:I29
 1 _UID 9BC9ED87698A4D39B49F48C7FE0A819EDA67
@@ -523,13 +598,20 @@
 2 SURN Pukamp (?)
 2 GIVN Clara
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 FAMC @F15@
+1 BIRT
+2 DATE BEF 8 MAR 1643
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 DATE 8 MAR 1643
 2 PLAC Heessen, Hamm, Nordrhein-Westfalen
@@ -540,8 +622,8 @@
 2 RELI katholisch
 2 _GODP Paten: Dietherich Kampmann, Clara Frielickmans
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 18:35:35
+2 DATE 13 SEP 2020
+3 TIME 12:07:49
 0 @I32@ INDI
 1 RIN AB:I32
 1 _UID 48E64AB25D1D472D8215B123C83B4726F303
@@ -575,17 +657,24 @@
 2 SURN Hummeke
 2 GIVN Maria
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 FAMC @F17@
+1 BIRT
+2 DATE BEF 8 MAR 1643
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
-2 DATE 8 MAR 143
+2 DATE 8 MAR 1643
 2 PLAC Heessen, Hamm, Nordrhein-Westfalen
 3 _LOC @L1@
 3 MAP
@@ -594,8 +683,8 @@
 2 RELI katholisch
 2 _GODP Paten: Bernt Sievert, Maria Drese.
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 18:37:39
+2 DATE 13 SEP 2020
+3 TIME 12:10:00
 0 @I35@ INDI
 1 RIN AB:I35
 1 _UID 45752898B1154C95AF4E11E22776297148A6
@@ -629,13 +718,20 @@
 2 SURN ... linck
 2 GIVN Clara
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 FAMC @F19@
+1 BIRT
+2 DATE BEF 6 APR 1643
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
@@ -648,8 +744,8 @@
 2 RELI katholisch
 2 _GODP Paten: Gerd Winckhoff, Clara Gerdes
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 18:39:48
+2 DATE 13 SEP 2020
+3 TIME 12:12:38
 0 @I38@ INDI
 1 RIN AB:I38
 1 _UID 1F9443A1F1C9407791DBBE1499A198405825
@@ -683,13 +779,20 @@
 2 SURN Lobach
 2 GIVN Anna Alheidis
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 FAMC @F16@
+1 BIRT
+2 DATE BEF 19 APR 1643
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 _ASSO @I41@
 3 RELA Godparent
@@ -704,8 +807,8 @@
 2 RELI katholisch
 2 _GODP Paten: Christian Kegenhoff, Wendelina Viertenhalben
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 18:47:06
+2 DATE 13 SEP 2020
+3 TIME 12:09:04
 0 @I41@ INDI
 1 RIN AB:I41
 1 _UID 04104A7E58EB424BB4CCCBD5C3F799032257
@@ -776,13 +879,20 @@
 2 SURN Wilmes
 2 GIVN Clara
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 FAMC @F18@
+1 BIRT
+2 DATE BEF 19 APR 1643
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
@@ -795,8 +905,8 @@
 2 RELI katholisch
 2 _GODP Paten: Bernt Sievers, Clara Huge
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 18:53:01
+2 DATE 13 SEP 2020
+3 TIME 12:05:49
 0 @I45@ INDI
 1 RIN AB:I45
 1 _UID 71B9E5F4256F49D8AD11C9489246609C5B37
@@ -830,13 +940,20 @@
 2 SURN Marqui
 2 GIVN Wendelina
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 FAMC @F20@
+1 BIRT
+2 DATE BEF 3 MAY 1643
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
@@ -849,8 +966,8 @@
 2 RELI katholisch
 2 _GODP Paten: Johan Boärbein (?), Wendel Viertelhalben
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 18:56:00
+2 DATE 13 SEP 2020
+3 TIME 12:08:39
 0 @I48@ INDI
 1 RIN AB:I48
 1 _UID A41B8BBF01974B1FA9E42F3B2075BEE63BB6
@@ -885,13 +1002,20 @@
 2 SURN Hulskamp
 2 GIVN Hermannus
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 FAMC @F21@
+1 BIRT
+2 DATE BEF 1 JUL 1643
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
@@ -904,8 +1028,8 @@
 2 RELI katholisch
 2 _GODP Paten: Hermann Dickmann, Elsa Fischer
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 18:58:12
+2 DATE 13 SEP 2020
+3 TIME 12:10:03
 0 @I51@ INDI
 1 RIN AB:I51
 1 _UID 050D4C9C2FD045A889B7619CD5AFFB14B6EB
@@ -926,13 +1050,20 @@
 2 SURN Vettinck
 2 GIVN Angelina
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 FAMC @F22@
+1 BIRT
+2 DATE BEF 13 SEP 1643
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
@@ -945,8 +1076,8 @@
 2 RELI katholisch
 2 _GODP Paten: Johan Hesselmans, Engel Vettinck gen. Winckhaussche
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 19:00:45
+2 DATE 13 SEP 2020
+3 TIME 12:06:02
 0 @I53@ INDI
 1 RIN AB:I53
 1 _UID 17DA3E2DDDE44EE9BF3ECC4027C5DE7EA51F
@@ -980,13 +1111,20 @@
 2 SURN Deese
 2 GIVN Catharina
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 FAMC @F23@
+1 BIRT
+2 DATE BEF 17 SEP 1643
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
@@ -999,8 +1137,8 @@
 2 RELI katholisch
 2 _GODP Paten: Johan Tilman, Trina Deese
 1 CHAN
-2 DATE 9 SEP 2020
-3 TIME 19:51:36
+2 DATE 13 SEP 2020
+3 TIME 12:11:51
 0 @I56@ INDI
 1 RIN AB:I56
 1 _UID D4926981EF8249AF8B6B1C7708283E11C149
@@ -1023,13 +1161,20 @@
 2 SURN Vos
 2 GIVN Elsa
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 FAMC @F24@
+1 BIRT
+2 DATE BEF 27 SEP 1643
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
@@ -1042,8 +1187,8 @@
 2 RELI katholisch
 2 _GODP Paten: Henrich Mörder, Elsa Honhövel
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 19:05:33
+2 DATE 13 SEP 2020
+3 TIME 12:05:54
 0 @I59@ INDI
 1 RIN AB:I59
 1 _UID 9283975DE907498ABF3C5DE3EFD9D5A84C87
@@ -1077,13 +1222,20 @@
 2 SURN Holtmans
 2 GIVN Theodorus
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 FAMC @F25@
+1 BIRT
+2 DATE BEF 4 OCT 1643
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
@@ -1096,8 +1248,8 @@
 2 RELI katholisch
 2 _GODP Paten: Dirck Kock, Anna Rahmans
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 19:08:02
+2 DATE 13 SEP 2020
+3 TIME 12:10:06
 0 @I62@ INDI
 1 RIN AB:I62
 1 _UID CDBD69524CD04AD4A7294E0781B3C0A43C32
@@ -1132,12 +1284,19 @@
 2 GIVN Everhardus
 1 SEX M
 1 FAMC @F25@
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
+1 BIRT
+2 DATE BEF 4 OCT 1643
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
@@ -1150,8 +1309,8 @@
 2 RELI katholisch
 2 _GODP Paten: Everhard Schweher , Elas Linnenhaus gen. Schwehersche
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 19:10:14
+2 DATE 13 SEP 2020
+3 TIME 12:10:10
 0 @I65@ INDI
 1 RIN AB:I65
 1 _UID E10BF59EDDEB4A26A8E891D8928D46B9CE3A
@@ -1159,13 +1318,20 @@
 2 SURN Morder
 2 GIVN Bernart
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 FAMC @F26@
+1 BIRT
+2 DATE BEF 8 NOV 1643
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
@@ -1178,8 +1344,8 @@
 2 RELI katholisch
 2 _GODP Paten: Berndt Röhmer, Ehefauu Jodocus Möllers
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 19:13:07
+2 DATE 13 SEP 2020
+3 TIME 12:08:22
 0 @I66@ INDI
 1 RIN AB:I66
 1 _UID 129DF85E558345AF9328F52BD236786490A2
@@ -1208,13 +1374,20 @@
 2 SURN Buschmann
 2 GIVN Elsa
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 FAMC @F27@
+1 BIRT
+2 DATE BEF 22 NOV 1643
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 DATE 22 NOV 1643
 2 PLAC Heessen, Hamm, Nordrhein-Westfalen
@@ -1226,8 +1399,8 @@
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 19:15:11
+2 DATE 13 SEP 2020
+3 TIME 12:12:10
 0 @I69@ INDI
 1 RIN AB:I69
 1 _UID 66CC3732D47245149BF313C95A688C8E803E
@@ -1261,13 +1434,20 @@
 2 SURN Eilings
 2 GIVN Stephanus
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 FAMC @F28@
+1 BIRT
+2 DATE BEF 6 MAR 1644
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
@@ -1280,8 +1460,8 @@
 2 RELI katholisch
 2 _GODP Paten: Stephan (?) Botterbrod, Engel Fischers
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 22:33:36
+2 DATE 13 SEP 2020
+3 TIME 12:11:19
 0 @I72@ INDI
 1 RIN AB:I72
 1 _UID 577585C2CEA5450990736B5BEB09C1DD2F41
@@ -1315,13 +1495,20 @@
 2 SURN Drese
 2 GIVN Wenemar
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 FAMC @F29@
+1 BIRT
+2 DATE BEF 3 APR 1644
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 DATE 3 APR 1644
 2 PLAC Heessen, Hamm, Nordrhein-Westfalen
@@ -1334,8 +1521,8 @@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 2 _GODP Paten: Wenemar Heimans, Barbara Saamans gen. Kölinck
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 22:36:33
+2 DATE 13 SEP 2020
+3 TIME 12:11:25
 0 @I75@ INDI
 1 RIN AB:I75
 1 _UID 1866ECE9206349F7A7241AD761A74786A711
@@ -1376,6 +1563,14 @@
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 NOTE Zwilling - ohne Namen
+1 BIRT
+2 DATE BEF 3 APR 1644
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
@@ -1387,8 +1582,8 @@
 4 LONG E7.83
 2 RELI katholisch
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 22:37:59
+2 DATE 13 SEP 2020
+3 TIME 12:11:28
 0 @I78@ INDI
 1 RIN AB:I78
 1 _UID CAEDD493F9E04BED9D92C12D8CEA9B78D50A
@@ -1396,21 +1591,28 @@
 2 SURN Stricker
 2 GIVN Margareta
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 FAMC @F30@
+1 BIRT
+2 DATE BEF 3 APR 1644
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 2 DATE 3 APR 1644
 2 _GODP Paten: Greta Nordhoffs, Dietherich Kock
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 22:39:17
+2 DATE 13 SEP 2020
+3 TIME 12:06:09
 0 @I79@ INDI
 1 RIN AB:I79
 1 _UID DFE04391B546452C91512B4015EC1E4BB673
@@ -1444,13 +1646,20 @@
 2 SURN Steimann
 2 GIVN Margareta
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 FAMC @F31@
+1 BIRT
+2 DATE BEF 17 APR 1644
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 DATE 17 APR 1644
 2 PLAC Heessen, Hamm, Nordrhein-Westfalen
@@ -1463,8 +1672,8 @@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 2 _GODP Paten: Johan Heggeman, Anna Krealmans
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 22:41:09
+2 DATE 13 SEP 2020
+3 TIME 12:06:19
 0 @I82@ INDI
 1 RIN AB:I82
 1 _UID 909867D1F9F3473FBA60266A9BC2F61CEB61
@@ -1499,12 +1708,19 @@
 2 SURN Hering
 2 GIVN Georgius
 1 SEX M
-1 BIRT Y
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 FAMC @F32@
+1 BIRT
+2 DATE BEF 1 MAY 1644
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
@@ -1517,8 +1733,8 @@
 2 RELI katholisch
 2 _GODP Paten: Johan Schepers, Elisabeth Vogedes
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 22:46:30
+2 DATE 13 SEP 2020
+3 TIME 12:10:19
 0 @I85@ INDI
 1 RIN AB:I85
 1 _UID 940290510C8D46AD819E77AD87A8F4B72003
@@ -1552,13 +1768,20 @@
 2 SURN Scheper
 2 GIVN Ermegardis
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 FAMC @F64@
+1 BIRT
+2 DATE BEF 19 JUL 1644
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 DATE 19 JUL 1644
 2 PLAC Heessen, Hamm, Nordrhein-Westfalen
@@ -1571,8 +1794,8 @@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 2 _GODP Paten: Henrich Suleke, Arneke Ehefrau Speckamp
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 6:03:55
+2 DATE 13 SEP 2020
+3 TIME 12:07:12
 0 @I88@ INDI
 1 RIN AB:I88
 1 _UID 2E98B05A79834FF0906D155002D2AFBFAFF1
@@ -1580,13 +1803,20 @@
 2 SURN Martin
 2 GIVN Theodorus
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 FAMC @F33@
+1 BIRT
+2 DATE BEF 9 JUL 1644
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
@@ -1599,8 +1829,8 @@
 2 RELI katholisch
 2 _GODP Paten: Ditherich Kock, Catharina Condermans
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 23:00:32
+2 DATE 13 SEP 2020
+3 TIME 12:08:35
 0 @I89@ INDI
 1 RIN AB:I89
 1 _UID 76CD3A33F3C64E658B80DFABD15B492F5524
@@ -1634,13 +1864,20 @@
 2 SURN Bauwerrick gen. Broickman
 2 GIVN Henrich
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 FAMC @F34@
+1 BIRT
+2 DATE BEF 7 AUG 1644
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
@@ -1653,8 +1890,8 @@
 2 RELI katholisch
 2 _GODP Paten: Henrich Nigges, Margrete Meiners
 1 CHAN
-2 DATE 9 SEP 2020
-3 TIME 18:37:12
+2 DATE 13 SEP 2020
+3 TIME 12:12:25
 0 @I92@ INDI
 1 RIN AB:I92
 1 _UID C35A3F5C25DF4A6FB8F166A81102B6C1B62A
@@ -1688,13 +1925,20 @@
 2 SURN Üdinghoff
 2 GIVN Gertrudis
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 FAMC @F35@
+1 BIRT
+2 DATE BEF 11 SEP 1644
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
@@ -1707,8 +1951,8 @@
 2 RELI katholisch
 2 _GODP Paten: Ditherich Winckhoff gen. Dörholt, Gerdruit Oleschläger
 1 CHAN
-2 DATE 9 SEP 2020
-3 TIME 18:40:10
+2 DATE 13 SEP 2020
+3 TIME 12:06:04
 0 @I95@ INDI
 1 RIN AB:I95
 1 _UID 8CAD71995D7442E49D524452E9F687E00592
@@ -1742,12 +1986,19 @@
 2 SURN Cordes
 2 GIVN Anna
 1 SEX F
-1 BIRT Y
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 FAMC @F36@
+1 BIRT
+2 DATE BEF 18 SEP 1644
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
@@ -1760,8 +2011,8 @@
 2 RELI katholisch
 2 _GODP Paten: Bernt Bruninck, Anna Straters
 1 CHAN
-2 DATE 9 SEP 2020
-3 TIME 18:43:52
+2 DATE 13 SEP 2020
+3 TIME 12:12:02
 0 @I98@ INDI
 1 RIN AB:I98
 1 _UID 4514EAD5DCFB42FD9A01FC4FDE377A37DA3D
@@ -1798,12 +2049,19 @@
 2 SURN Nottebaum gen. Damberg
 2 GIVN Jodocus
 1 SEX M
-1 BIRT Y
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 FAMC @F37@
+1 BIRT
+2 DATE BEF 23 OCT 1644
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 DATE 23 OCT 1644
 2 PLAC Heessen, Hamm, Nordrhein-Westfalen
@@ -1816,8 +2074,8 @@
 2 RELI katholisch
 2 _GODP Paten: Jost Deese, Anna Butterbrodt
 1 CHAN
-2 DATE 9 SEP 2020
-3 TIME 18:46:00
+2 DATE 13 SEP 2020
+3 TIME 12:08:00
 0 @I101@ INDI
 1 RIN AB:I101
 1 _UID FC9D82983D51485BA45F507EFA9CC55666CC
@@ -1851,12 +2109,19 @@
 2 SURN Rahmers
 2 GIVN Elsa
 1 SEX F
-1 BIRT Y
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 FAMC @F38@
+1 BIRT
+2 DATE BEF 4 DEC 1644
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 DATE 4 DEC 1644
 2 PLAC Heessen, Hamm, Nordrhein-Westfalen
@@ -1869,8 +2134,8 @@
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=4
 1 CHAN
-2 DATE 9 SEP 2020
-3 TIME 19:03:23
+2 DATE 13 SEP 2020
+3 TIME 12:07:45
 0 @I104@ INDI
 1 RIN AB:I104
 1 _UID 6BF1DB1008FF4E92B6FE95692F46632DE5CA
@@ -1904,13 +2169,20 @@
 2 SURN Fischer
 2 GIVN Joannes
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 FAMC @F39@
+1 BIRT
+2 DATE BEF 15 JAN 1645
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
@@ -1923,8 +2195,8 @@
 2 RELI katholisch
 2 _GODP Paten: Johan Tilman, Engel Fischers
 1 CHAN
-2 DATE 9 SEP 2020
-3 TIME 19:06:28
+2 DATE 13 SEP 2020
+3 TIME 12:11:04
 0 @I107@ INDI
 1 RIN AB:I107
 1 _UID B8C8B55DE70044AEA462EAE65F0CF0892542
@@ -1958,13 +2230,20 @@
 2 SURN Piper
 2 GIVN Elsa
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 FAMC @F40@
+1 BIRT
+2 DATE BEF 17 JAN 1645
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
@@ -1977,8 +2256,8 @@
 2 RELI katholisch
 2 _GODP Paten: Anna Pipers, Schwester der Mutter
 1 CHAN
-2 DATE 9 SEP 2020
-3 TIME 19:09:41
+2 DATE 13 SEP 2020
+3 TIME 12:07:52
 0 @I110@ INDI
 1 RIN AB:I110
 1 _UID BB01FFF9130141FBAA9ADFA002D5236223B1
@@ -1999,7 +2278,6 @@
 2 SURN Schmit
 2 GIVN Margareta
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
@@ -2007,6 +2285,14 @@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 FAMC @F7@
 1 NOTE Zwillingsschwester von Elisabth Schmit (getauft am 28.1.1645)
+1 BIRT
+2 DATE BEF 28 JAN 1645
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
@@ -2019,8 +2305,8 @@
 2 RELI katholisch
 2 _GODP Paten: Adam Hohnhövels, Greta Noltz
 1 CHAN
-2 DATE 9 SEP 2020
-3 TIME 19:15:08
+2 DATE 13 SEP 2020
+3 TIME 12:06:57
 0 @I112@ INDI
 1 RIN AB:I112
 1 _UID 668CFD4B49A34EC8A1AA7D5223BD268FEB8E
@@ -2029,13 +2315,20 @@
 2 GIVN Elisabeth
 1 SEX F
 1 FAMC @F7@
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 NOTE Zwillingsschwester von Margareta Schmit (getauft am 28.1.1645)
+1 BIRT
+2 DATE BEF 28 JAN 1645
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 DATE 28 JAN 1645
 2 PLAC Heessen, Hamm, Nordrhein-Westfalen
@@ -2047,8 +2340,8 @@
 2 _GODP Paten: Bernt Röhmer gen. Wilmes, Elisabeth Schürmans
 2 SOUR http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 CHAN
-2 DATE 9 SEP 2020
-3 TIME 19:16:32
+2 DATE 13 SEP 2020
+3 TIME 12:07:05
 0 @I113@ INDI
 1 RIN AB:I113
 1 _UID 80DE4D19535044B5BE920A8F8746C4421C83
@@ -2056,13 +2349,20 @@
 2 SURN Saurman
 2 GIVN Herman
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 FAMC @F69@
+1 BIRT
+2 DATE BEF 19 FEB 1645
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
@@ -2075,8 +2375,8 @@
 2 RELI katholisch
 2 _GODP Paten: Herman Saurman, Elsa Fischer
 1 CHAN
-2 DATE 9 SEP 2020
-3 TIME 19:18:01
+2 DATE 13 SEP 2020
+3 TIME 12:07:18
 0 @I116@ INDI
 1 RIN AB:I116
 1 _UID 27F398DCF1F9452F8DD0249C6A0BD49DEF8B
@@ -2084,13 +2384,20 @@
 2 SURN Sprekamp
 2 GIVN Johan
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 FAMC @F42@
+1 BIRT
+2 DATE 1645
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
@@ -2103,8 +2410,8 @@
 2 RELI katholisch
 2 _GODP Paten: Johan Knippenkötter gen. Kölinck, Anna Reckers
 1 CHAN
-2 DATE 9 SEP 2020
-3 TIME 19:20:16
+2 DATE 13 SEP 2020
+3 TIME 12:06:26
 0 @I117@ INDI
 1 RIN AB:I117
 1 _UID 6C21FD01B4504E9A8F5FDA950C9DE933990A
@@ -2138,12 +2445,19 @@
 2 SURN Fischer
 2 GIVN Theodorus
 1 SEX M
-1 BIRT Y
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 FAMC @F43@
+1 BIRT
+2 DATE BEF 19 MAR 1645
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
@@ -2156,8 +2470,8 @@
 2 RELI katholisch
 2 _GODP Paten: Ditherich Deese, Stina Pferdehirte
 1 CHAN
-2 DATE 9 SEP 2020
-3 TIME 19:23:43
+2 DATE 13 SEP 2020
+3 TIME 12:10:59
 0 @I120@ INDI
 1 RIN AB:I120
 1 _UID 8456FBB2A7774FEDADC9664C77FA3F4D06C6
@@ -2191,12 +2505,19 @@
 2 SURN Nigges
 2 GIVN Stephanus
 1 SEX M
-1 BIRT Y
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 FAMC @F44@
+1 BIRT
+2 DATE BEF 18 APR 1645
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 DATE 18 APR 1645
 2 PLAC Heessen, Hamm, Nordrhein-Westfalen
@@ -2209,8 +2530,8 @@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 2 _GODP Paten: Steffen Sagemeister, Greta Northoff
 1 CHAN
-2 DATE 9 SEP 2020
-3 TIME 19:26:48
+2 DATE 13 SEP 2020
+3 TIME 12:08:02
 0 @I123@ INDI
 1 RIN AB:I123
 1 _UID 7125DCC3D8124083BB3E0ABD9EB82BEC0F84
@@ -2232,12 +2553,19 @@
 2 SURN Luckman
 2 GIVN Gerdrud
 1 SEX F
-1 BIRT Y
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 FAMC @F46@
+1 BIRT
+2 DATE BEF 20 AUG 1645
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
@@ -2250,8 +2578,8 @@
 2 RELI katholisch
 2 _GODP Paten: Joahn Romeier, Gerd Rietfrey
 1 CHAN
-2 DATE 9 SEP 2020
-3 TIME 19:29:45
+2 DATE 13 SEP 2020
+3 TIME 12:08:51
 0 @I127@ INDI
 1 RIN AB:I127
 1 _UID 096F61EB8E194E3BB7AC4CC380920F39C038
@@ -2287,13 +2615,20 @@
 2 SURN Kock
 2 GIVN Christianus
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 FAMC @F47@
+1 BIRT
+2 DATE BEF 6 OCT 1645
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 _ASSO @I41@
 3 RELA Godparent
@@ -2308,8 +2643,8 @@
 2 RELI katholisch
 2 _GODP Paten: Christian Kegenhoff, Hardewig v. Aschebroch 
 1 CHAN
-2 DATE 9 SEP 2020
-3 TIME 19:32:44
+2 DATE 13 SEP 2020
+3 TIME 12:09:32
 0 @I130@ INDI
 1 RIN AB:I130
 1 _UID 299AC37D2A0C4AF285433D1F25B7B4ED168F
@@ -2343,7 +2678,6 @@
 2 SURN Deese
 2 GIVN Maria
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
@@ -2351,6 +2685,14 @@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 FAMC @F23@
 1 NOTE Zwillingsschwester von Elsa Deese (getauft am 23.12.1645)
+1 BIRT
+2 DATE BEF 23 DEC 1645
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 DATE 23 DEC 1645
 2 PLAC Heessen, Hamm, Nordrhein-Westfalen
@@ -2363,8 +2705,8 @@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 2 _GODP Paten: Johan Schnitker gen. Pölman, Maria Deese 
 1 CHAN
-2 DATE 9 SEP 2020
-3 TIME 19:52:31
+2 DATE 13 SEP 2020
+3 TIME 12:11:42
 0 @I133@ INDI
 1 RIN AB:I133
 1 _UID 3EF0E8078DDD4AA19EE79E5550A213BCAB49
@@ -2373,13 +2715,20 @@
 2 GIVN Elsa
 1 SEX F
 1 FAMC @F23@
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 NOTE Zwillingsschwester von Maria Deese (getauft am 23.12.1645)
+1 BIRT
+2 DATE BEF 23 DEC 1645
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
@@ -2392,8 +2741,8 @@
 2 RELI katholisch
 2 _GODP Paten: Johan Schnacher (?) gen. Deese, Elsa Fischers gen. Kocks
 1 CHAN
-2 DATE 9 SEP 2020
-3 TIME 19:54:10
+2 DATE 13 SEP 2020
+3 TIME 12:11:47
 0 @I134@ INDI
 1 RIN AB:I134
 1 _UID 9889F8A147AB451F90C3153C3BE6BEAA3DFD
@@ -2415,12 +2764,19 @@
 2 SURN Funnegradt
 2 GIVN Johannes
 1 SEX M
-1 BIRT Y
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 FAMC @F48@
+1 BIRT
+2 DATE BEF 26 DEC 1645
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
@@ -2433,8 +2789,8 @@
 2 RELI katholisch
 2 _GODP Paten: Johan Vettinck, Gerdruit Knepper
 1 CHAN
-2 DATE 9 SEP 2020
-3 TIME 19:55:30
+2 DATE 13 SEP 2020
+3 TIME 12:10:30
 0 @I136@ INDI
 1 RIN AB:I136
 1 _UID CE83ECDDD43A46FBB4E0B32C729205B297B3
@@ -2468,7 +2824,6 @@
 2 SURN Deese
 2 GIVN Theodorus
 1 SEX M
-1 BIRT Y
 1 RELI
 2 SOUR k
 1 DEAT Y
@@ -2476,6 +2831,14 @@
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 FAMC @F49@
+1 BIRT
+2 DATE BEF 1 FEB 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
@@ -2488,8 +2851,8 @@
 2 RELI katholisch
 2 _GODP Paten: Ditherich Rahman, Anna ..lthoff
 1 CHAN
-2 DATE 9 SEP 2020
-3 TIME 22:30:31
+2 DATE 13 SEP 2020
+3 TIME 12:11:38
 0 @I139@ INDI
 1 RIN AB:I139
 1 _UID 58D3528BD07D47F9AB584EC008A1FFBB091E
@@ -2523,13 +2886,20 @@
 2 SURN Kettrup
 2 GIVN Christina Elisabeth
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 FAMC @F50@
+1 BIRT
+2 DATE BEF 2 MAR 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
@@ -2542,8 +2912,8 @@
 2 RELI katholisch
 2 _GODP Paten: Christina Elisabeth Lobach, Johan Tilman
 1 CHAN
-2 DATE 9 SEP 2020
-3 TIME 22:35:09
+2 DATE 13 SEP 2020
+3 TIME 12:09:56
 0 @I142@ INDI
 1 RIN AB:I142
 1 _UID 78FE2C81CF24433D915680F509707A6146CE
@@ -2578,12 +2948,19 @@
 2 GIVN Gerhardus
 1 SEX M
 1 FAMC @F28@
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+1 BIRT
+2 DATE BEF 4 MAR 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 DATE 4 MAR 1646
 2 PLAC Heessen, Hamm, Nordrhein-Westfalen
@@ -2595,8 +2972,8 @@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 2 _GODP Paten: Gert Knippenkötter, Ermeke Linnemans
 1 CHAN
-2 DATE 11 SEP 2020
-3 TIME 21:39:34
+2 DATE 13 SEP 2020
+3 TIME 12:11:22
 0 @I145@ INDI
 1 RIN AB:I145
 1 _UID E6593F752DC4453E871D6C6AC85714A6BAF2
@@ -2604,13 +2981,20 @@
 2 SURN Reckers gen. Kumptman
 2 GIVN Clara
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 FAMC @F51@
+1 BIRT
+2 DATE BEF 4 MAR 1643
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
@@ -2623,8 +3007,8 @@
 2 RELI katholisch
 2 _GODP Paten: Clara Frielickman, Johan Dabroick
 1 CHAN
-2 DATE 11 SEP 2020
-3 TIME 21:50:28
+2 DATE 13 SEP 2020
+3 TIME 12:07:41
 0 @I146@ INDI
 1 RIN AB:I146
 1 _UID 83D6F7D1BD0B45648A52E4F60B49C6F557A0
@@ -2658,13 +3042,20 @@
 2 SURN Schulte Heimann
 2 GIVN Henrich
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 FAMC @F52@
+1 BIRT
+2 DATE BEF 18 MAR 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
@@ -2677,8 +3068,8 @@
 2 RELI katholisch
 2 _GODP Paten: Hen. Frilickman, Elsa Fischers
 1 CHAN
-2 DATE 11 SEP 2020
-3 TIME 21:53:21
+2 DATE 13 SEP 2020
+3 TIME 12:06:47
 0 @I149@ INDI
 1 RIN AB:I149
 1 _UID 8A4A5D94A7164257BC8F61C0B20620F251D4
@@ -2712,13 +3103,20 @@
 2 SURN Bleckman
 2 GIVN Joannes
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 FAMC @F53@
+1 BIRT
+2 DATE BEF 16 APR 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
@@ -2731,8 +3129,8 @@
 2 RELI katholisch
 2 _GODP Paten: Johan Beckman, Anna Bleckman
 1 CHAN
-2 DATE 11 SEP 2020
-3 TIME 21:55:28
+2 DATE 13 SEP 2020
+3 TIME 12:12:19
 0 @I152@ INDI
 1 RIN AB:I152
 1 _UID CA9E5A1F13E94925A65BE8B4202A8A4C086E
@@ -2766,13 +3164,20 @@
 2 SURN Ridder
 2 GIVN Joes
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 FAMC @F54@
+1 BIRT
+2 DATE BEF 29 APR 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 DATE 29 APR 1646
 2 PLAC Heessen, Hamm, Nordrhein-Westfalen
@@ -2785,8 +3190,8 @@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 2 _GODP Paten: Johan Friedrich von Beverforde, Elsa Kocks
 1 CHAN
-2 DATE 11 SEP 2020
-3 TIME 21:58:26
+2 DATE 13 SEP 2020
+3 TIME 12:07:34
 0 @I155@ INDI
 1 RIN AB:I155
 1 _UID 5B8A1240F37D450CA7A5E2D5FBCF66FB2633
@@ -2820,12 +3225,19 @@
 2 SURN Knippenkötter
 2 GIVN Clara
 1 SEX F
-1 BIRT Y
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 FAMC @F55@
+1 BIRT
+2 DATE BEF 10 MAY 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
@@ -2838,8 +3250,8 @@
 2 RELI katholisch
 2 _GODP Paten: Clara Haamans, Gert Knippenkötter
 1 CHAN
-2 DATE 11 SEP 2020
-3 TIME 22:00:39
+2 DATE 13 SEP 2020
+3 TIME 12:09:36
 0 @I158@ INDI
 1 RIN AB:I158
 1 _UID B401F0E8F8C742C9904B009BDE96F8EA23B1
@@ -2876,11 +3288,18 @@
 2 GIVN Elsa
 1 SEX F
 1 FAMC @F31@
-1 BIRT Y
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+1 BIRT
+2 DATE BEF 27 MAY 1645
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
@@ -2893,8 +3312,8 @@
 2 RELI katholisch
 2 _GODP Paten: Ditherich Doerholt, Elsa Hausman
 1 CHAN
-2 DATE 11 SEP 2020
-3 TIME 22:04:03
+2 DATE 13 SEP 2020
+3 TIME 12:06:23
 0 @I161@ INDI
 1 RIN AB:I161
 1 _UID 0BC8E5DB77AD41B9A96ED439834740D4B3AF
@@ -2902,13 +3321,20 @@
 2 SURN Peters gen. Knufman
 2 GIVN Clamerus
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 FAMC @F56@
+1 BIRT
+2 DATE BEF 8 JUL 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
@@ -2921,8 +3347,8 @@
 2 RELI katholisch
 2 _GODP Paten: Clamer Hölscher, Elsa Fischer gen. Kock 
 1 CHAN
-2 DATE 11 SEP 2020
-3 TIME 22:06:40
+2 DATE 13 SEP 2020
+3 TIME 12:07:56
 0 @I162@ INDI
 1 RIN AB:I162
 1 _UID F6CA129D65D34439BCDEFDF908269984FFA6
@@ -2956,13 +3382,20 @@
 2 SURN Finsterstern
 2 GIVN Bernardus
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 FAMC @F57@
+1 BIRT
+2 DATE BEF 8 JUL 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
@@ -2975,8 +3408,8 @@
 2 RELI katholisch
 2 _GODP Paten: Bernd Röhmer, Elsa thom Bockumb
 1 CHAN
-2 DATE 11 SEP 2020
-3 TIME 22:11:56
+2 DATE 13 SEP 2020
+3 TIME 12:11:16
 0 @I165@ INDI
 1 RIN AB:I165
 1 _UID 0ADB7722323F418D833C0C7A2370B7CA16B7
@@ -2998,11 +3431,18 @@
 2 GIVN Josina
 1 SEX F
 1 FAMC @F16@
-1 BIRT Y
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
+1 BIRT
+2 DATE BEF 8 JUL 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
@@ -3015,8 +3455,8 @@
 2 RELI katholisch
 2 _GODP Paten: Josina von Reck zu Heessen, Herman Steffgens
 1 CHAN
-2 DATE 11 SEP 2020
-3 TIME 22:14:59
+2 DATE 13 SEP 2020
+3 TIME 12:09:01
 0 @I168@ INDI
 1 RIN AB:I168
 1 _UID 3EE6AF3ACFD24E088DE78177CE4DEF51CB4C
@@ -3024,13 +3464,20 @@
 2 SURN Schweher
 2 GIVN Theodorus
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 FAMC @F59@
+1 BIRT
+2 DATE BEF 22 JUL 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 DATE 22 JUL 1646
 2 PLAC Heessen, Hamm, Nordrhein-Westfalen
@@ -3042,8 +3489,8 @@
 2 _GODP Paten: Ditherich Deese, Gerdruit Linnenhaus
 2 SOUR http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 CHAN
-2 DATE 11 SEP 2020
-3 TIME 22:23:19
+2 DATE 13 SEP 2020
+3 TIME 12:06:39
 0 @I169@ INDI
 1 RIN AB:I169
 1 _UID E75A8F67CC0E4144A73DD56619D0817F9E0F
@@ -3064,13 +3511,20 @@
 2 SURN Cordes
 2 GIVN Bernhardt
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 FAMC @F36@
+1 BIRT
+2 DATE BEF 29 SEP 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
@@ -3083,8 +3537,8 @@
 2 RELI katholisch
 2 _GODP Paten: Bernt Röhmer, Nelle Wrilincks gen. Beckmans
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 5:28:04
+2 DATE 13 SEP 2020
+3 TIME 12:11:57
 0 @I171@ INDI
 1 RIN AB:I171
 1 _UID 276B33933E174B95B8DD611B85B50914F5F7
@@ -3092,13 +3546,20 @@
 2 SURN Dasbecke
 2 GIVN Catharina Elisabetha
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 FAMC @F60@
+1 BIRT
+2 DATE BEF 12 AUG 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
@@ -3111,8 +3572,8 @@
 2 RELI katholisch
 2 _GODP Paten: Johan Fischer [*], Elsabein ...ling; [*] mit dem Zusatz "opilio", d.i. "Schäfer, Hirte"
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 5:36:17
+2 DATE 13 SEP 2020
+3 TIME 12:11:54
 0 @I172@ INDI
 1 RIN AB:I172
 1 _UID 245C1572B50446D88C733CE5B205D6A02B19
@@ -3146,13 +3607,20 @@
 2 SURN Göcke
 2 GIVN Stephanus
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
 1 FAMC @F61@
+1 BIRT
+2 DATE BEF 26 AUG 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=5
@@ -3165,8 +3633,8 @@
 2 RELI katholisch
 2 _GODP Paten: Steffen Sagemühler, Trina Frilickmans [*]; [*] = "meresche in hospitali", gemeint ist Meistersche im früheren Nordenhospital in der Nordenfeldmark der Stadt Hamm (https://www.hammwiki.info/wiki/Nordenhospital)
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 5:42:50
+2 DATE 13 SEP 2020
+3 TIME 12:10:23
 0 @I175@ INDI
 1 RIN AB:I175
 1 _UID A48C3746F3E0466890BD67E15597660015CB
@@ -3200,13 +3668,20 @@
 2 SURN Steltigh
 2 GIVN Clara
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
 1 FAMC @F62@
+1 BIRT
+2 DATE BEF 9 SEP 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
@@ -3219,8 +3694,8 @@
 2 RELI katholisch
 2 _GODP Paten: Ditherich Reckert gen. Kumptman, Clara Frilikmans
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 5:47:50
+2 DATE 13 SEP 2020
+3 TIME 12:06:16
 0 @I178@ INDI
 1 RIN AB:I178
 1 _UID 4AD65DB1139A44EABBA55B102CEA1478767C
@@ -3254,13 +3729,20 @@
 2 SURN Mertin
 2 GIVN Anna
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
 1 FAMC @F63@
+1 BIRT
+2 DATE BEF 28 OCT 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
@@ -3273,8 +3755,8 @@
 2 RELI katholisch
 2 _GODP Paten: Ditherich Reckert; Anna, Ehefrau Trauens (?)
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 5:49:41
+2 DATE 13 SEP 2020
+3 TIME 12:08:31
 0 @I181@ INDI
 1 RIN AB:I181
 1 _UID 6C85685C14BD4CD280478DDA46BB2D7D7DF1
@@ -3308,12 +3790,19 @@
 2 SURN Marqui
 2 GIVN Catharina
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
 1 FAMC @F20@
+1 BIRT
+2 DATE BEF 16 DEC 1646
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
@@ -3328,8 +3817,8 @@
 1 DEAT
 2 DATE 19 DEC 1646
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 5:53:12
+2 DATE 13 SEP 2020
+3 TIME 12:08:45
 0 @I184@ INDI
 1 RIN AB:I184
 1 _UID A06A6414B36D4E3589E298B874B6C613E3DD
@@ -3403,13 +3892,20 @@
 2 SURN Knippenkötter
 2 GIVN Anna
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
 1 FAMC @F65@
+1 BIRT
+2 DATE BEF 6 JAN 1647
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
@@ -3422,8 +3918,8 @@
 2 RELI katholisch
 2 _GODP Paten: Steffen Göecke, Anna Wackers
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 6:08:53
+2 DATE 13 SEP 2020
+3 TIME 12:09:41
 0 @I191@ INDI
 1 RIN AB:I191
 1 _UID 7409E36B077F40E2B1DDF91CABD60FDD83F9
@@ -3457,13 +3953,20 @@
 2 SURN Broickman
 2 GIVN Joannes
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
 1 FAMC @F66@
+1 BIRT
+2 DATE BEF 4 FEB 1647
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
@@ -3476,8 +3979,8 @@
 2 RELI katholisch
 2 _GODP Paten: Joan Hummeke, Beruf:  Gärtner; Elsa Fischer gen. Kock
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 6:11:53
+2 DATE 13 SEP 2020
+3 TIME 12:12:14
 0 @I194@ INDI
 1 RIN AB:I194
 1 _UID 968C6D65B567457194C5D7D7AF5D0DB49A20
@@ -3511,13 +4014,20 @@
 2 SURN Luckman
 2 GIVN Henrich
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
 1 FAMC @F46@
+1 BIRT
+2 DATE BEF 17 FEB 1647
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 DATE 17 FEB 1647
 2 PLAC Heessen, Hamm, Nordrhein-Westfalen
@@ -3530,8 +4040,8 @@
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 6:17:36
+2 DATE 13 SEP 2020
+3 TIME 12:08:48
 0 @I197@ INDI
 1 RIN AB:I197
 1 _UID 1C361D025DA640ADB242109E044922C83A78
@@ -3539,13 +4049,20 @@
 2 SURN Clasing gen. Peter
 2 GIVN Elsa
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
 1 FAMC @F67@
+1 BIRT
+2 DATE BEF 10 MAR 1647
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
@@ -3558,8 +4075,8 @@
 2 RELI katholisch
 2 _GODP Paten: Johan Vettinck, Elsa Fischer jetzt Kock
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 6:19:52
+2 DATE 13 SEP 2020
+3 TIME 12:12:05
 0 @I198@ INDI
 1 RIN AB:I198
 1 _UID 2E9D2657E858496C9C3A05E164ACEE0A0153
@@ -3593,13 +4110,20 @@
 2 SURN Schmit
 2 GIVN Henrich
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
 1 FAMC @F7@
+1 BIRT
+2 DATE BEF 28 APR 1647
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
@@ -3612,8 +4136,8 @@
 2 RELI katholisch
 2 _GODP Paten: Henrich im Kotten, Anna Schmeddes
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 6:22:27
+2 DATE 13 SEP 2020
+3 TIME 12:07:00
 0 @I201@ INDI
 1 RIN AB:I201
 1 _UID 0254DCF51B5B46E6B15A1C7F9BD657255C66
@@ -3621,13 +4145,20 @@
 2 SURN Linnenhoff
 2 GIVN Ermegard
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
 1 FAMC @F68@
+1 BIRT
+2 DATE BEF 19 MAY 1647
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 DATE 19 MAY 1647
 2 PLAC Heessen, Hamm, Nordrhein-Westfalen
@@ -3639,8 +4170,8 @@
 2 _GODP Paten: Ditherich Rahman, Ermeke Speckamps
 2 SOUR http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 6:26:36
+2 DATE 13 SEP 2020
+3 TIME 12:09:13
 0 @I202@ INDI
 1 RIN AB:I202
 1 _UID 1A157C933D9A4F4CBC6FEF8E7681C36779E7
@@ -3674,13 +4205,20 @@
 2 SURN Saurman
 2 GIVN Theodorus
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
 1 FAMC @F69@
+1 BIRT
+2 DATE BEF 12 JUN 1647
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
@@ -3693,8 +4231,8 @@
 2 RELI katholisch
 2 _GODP Paten: Ditherich Deese, Grete Northoff
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 7:25:33
+2 DATE 13 SEP 2020
+3 TIME 12:07:14
 0 @I206@ INDI
 1 RIN AB:I206
 1 _UID ED890C278E37464C93BD34D7D6173937B85B
@@ -3715,13 +4253,20 @@
 2 SURN Deese
 2 GIVN Theodorus
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
 1 FAMC @F70@
+1 BIRT
+2 DATE BEF 7 SEP 1647
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
@@ -3734,8 +4279,8 @@
 2 RELI katholisch
 2 _GODP Paten: Ditherich Rahman; Anna Disselkamp, Ehefrau Fischers
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 6:30:23
+2 DATE 13 SEP 2020
+3 TIME 12:11:35
 0 @I208@ INDI
 1 RIN AB:I208
 1 _UID D6322213144649F499D447D772769E9F84F7
@@ -3769,13 +4314,20 @@
 2 SURN Lippes
 2 GIVN Henrich
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
 1 FAMC @F71@
+1 BIRT
+2 DATE BEF 8 SEP 1647
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
@@ -3788,8 +4340,8 @@
 2 RELI katholisch
 2 _GODP Paten: Hen. Pferdehirte, Clara Reckers
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 6:33:44
+2 DATE 13 SEP 2020
+3 TIME 12:09:09
 0 @I211@ INDI
 1 RIN AB:I211
 1 _UID BBC7FCEEF7F246EFBFB0D1F726D08DA7EB9E
@@ -3823,13 +4375,20 @@
 2 SURN Kleist gen. Holtman
 2 GIVN Theodorus
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
 1 FAMC @F72@
+1 BIRT
+2 DATE BEF 22 SEP 1647
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
@@ -3842,8 +4401,8 @@
 2 RELI katholisch
 2 _GODP Paten: Ditherich Lückmans, Trineke Nachtkamps
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 6:37:42
+2 DATE 13 SEP 2020
+3 TIME 12:09:52
 0 @I214@ INDI
 1 RIN AB:I214
 1 _UID 0A1E1B3C9DE746B591E17F59BA171724542F
@@ -3877,13 +4436,20 @@
 2 SURN Lachtenecke gen. Tranes
 2 GIVN Christina
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
 1 FAMC @F73@
+1 BIRT
+2 DATE BEF 29 SEP 1647
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
@@ -3896,8 +4462,8 @@
 2 RELI katholisch
 2 _GODP Paten: Johan Ontrop zu Lüdinghausen, Stina Lachtenecke
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 6:47:22
+2 DATE 13 SEP 2020
+3 TIME 12:09:19
 0 @I217@ INDI
 1 RIN AB:I217
 1 _UID A76C5A030DC54081BDA2C5E07D4818563A99
@@ -3931,13 +4497,20 @@
 2 SURN Hoilman gen. Rahman
 2 GIVN Lambertus
 1 SEX M
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
 1 FAMC @F74@
+1 BIRT
+2 DATE BEF 6 OCT 1647
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
@@ -3950,8 +4523,8 @@
 2 RELI katholisch
 2 _GODP Paten: Lambert Wilmes
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 6:50:19
+2 DATE 13 SEP 2020
+3 TIME 12:10:13
 0 @I220@ INDI
 1 RIN AB:I220
 1 _UID 2F13D6686CC34EE0B3A032F3C7AF78327594
@@ -3999,12 +4572,19 @@
 2 GIVN Catharina
 1 SEX F
 1 FAMC @F44@
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=7
+1 BIRT
+2 DATE BEF 1 NOV 1650
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=7
@@ -4017,8 +4597,8 @@
 2 RELI katholisch
 2 _GODP Paten: Johan Becker (aus Hövel), Catharina Kölinck
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 7:02:56
+2 DATE 13 SEP 2020
+3 TIME 12:08:11
 0 @I224@ INDI
 1 RIN AB:I224
 1 _UID 481ED33430004329B08F16E72C63C210A69C
@@ -4027,12 +4607,19 @@
 2 GIVN Christianus
 1 SEX M
 1 FAMC @F20@
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
+1 BIRT
+2 DATE BEF 25 NOV 1647
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
@@ -4047,8 +4634,8 @@
 2 RELI katholisch
 2 _GODP Paten: Christian Kegenhoff, Christina Elisabeth Lobach
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 7:05:37
+2 DATE 13 SEP 2020
+3 TIME 12:08:42
 0 @I225@ INDI
 1 RIN AB:I225
 1 _UID FF8D9AB1F92748BC8ADC2F48408C15BF78C4
@@ -4056,12 +4643,19 @@
 2 SURN Lohman
 2 GIVN Christianus
 1 SEX M
-1 BIRT Y
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
 1 FAMC @F75@
+1 BIRT
+2 DATE BEF 1 DEC 1647
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
@@ -4074,8 +4668,8 @@
 2 RELI katholisch
 2 _GODP Paten: Christian Lobach, Greta Northoff
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 7:06:50
+2 DATE 13 SEP 2020
+3 TIME 12:08:58
 0 @I226@ INDI
 1 RIN AB:I226
 1 _UID 31ADE8610BC944E586C9658E2903E4BF35B3
@@ -4110,12 +4704,19 @@
 2 GIVN Joannes
 1 SEX M
 1 FAMC @F55@
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
+1 BIRT
+2 DATE BEF 8 DEC 1647
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=6
@@ -4128,8 +4729,8 @@
 2 RELI katholisch
 2 _GODP Paten: Johan Sprekamp, Anna Knippenkötters
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 7:12:46
+2 DATE 13 SEP 2020
+3 TIME 12:09:44
 0 @I229@ INDI
 1 RIN AB:I229
 1 _UID CA2A5C2AB5CF4A1F88B1B975CD3E936BD7D1
@@ -4138,12 +4739,19 @@
 2 GIVN Henrich
 1 SEX M
 1 FAMC @F55@
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=7
+1 BIRT
+2 DATE BEF 25 SEP 1650
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=7
@@ -4156,8 +4764,8 @@
 2 RELI katholisch
 2 _GODP Paten: Henrich Goeke, Trina Deese gen. Schmedische
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 7:15:27
+2 DATE 13 SEP 2020
+3 TIME 12:09:48
 0 @I230@ INDI
 1 RIN AB:I230
 1 _UID E003D2A8835F473BA68FFF6D512A589DD286
@@ -4165,13 +4773,20 @@
 2 SURN Saurman gen. Westhoff
 2 GIVN Anna
 1 SEX F
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=7
 1 FAMC @F69@
+1 BIRT
+2 DATE BEF 27 NOV 1650
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=7
@@ -4184,8 +4799,8 @@
 2 RELI katholisch
 2 _GODP Paten: Henrich Brinkman gen. Pferdehirte; Anna Sulcks, Ehefrau Theodori Fischer
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 7:18:12
+2 DATE 13 SEP 2020
+3 TIME 12:07:24
 0 @I231@ INDI
 1 RIN AB:I231
 1 _UID DE490D386E344692B83314D6E31E0FD19C97
@@ -4194,12 +4809,19 @@
 2 GIVN Anna
 1 SEX F
 1 FAMC @F46@
-1 BIRT Y
 1 RELI katholisch
 1 DEAT Y
 1 BURI Y
 1 SOUR @S1@
 2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=7
+1 BIRT
+2 DATE BEF 25 NOV 1650
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
 1 CHR
 2 SOUR @S1@
 3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=7
@@ -4212,8 +4834,8 @@
 2 RELI katholisch
 2 _GODP Paten: Arnt Meiners, Anna Nachtkamps
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 7:27:59
+2 DATE 13 SEP 2020
+3 TIME 12:08:54
 0 @S1@ SOUR
 1 TITL Matricula
 0 @S2@ SOUR
