@@ -4,7 +4,7 @@
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 14 SEP 2020
-2 TIME 9:47:47
+2 TIME 12:17:00
 1 SUBM @SUBM@
 1 FILE ofb-hamm.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I116@
-1 _HOME @I116@
+2 _NAVI @I14@
+1 _HOME @I14@
 0 @I1@ INDI
 1 RIN AB:I1
 1 _UID 4EB661D5ACFE49AAAB528691A2E80DB03210
@@ -339,9 +339,10 @@
 0 @I14@ INDI
 1 RIN AB:I14
 1 _UID CF66D97C7E7E4C7BBDE7AD346926B8B5CE37
-1 NAME Dietherich /Kock/
-2 SURN Kock
-2 GIVN Dietherich
+1 NAME Di(e)therich /Frilickman gen. Kock/
+2 SURN Frilickman gen. Kock
+2 GIVN Di(e)therich
+2 NOTE alternative Nachnamen: FRILICKMAN gen. KOCK
 1 SEX M
 1 FAMS @F6@
 1 BIRT Y
@@ -350,15 +351,16 @@
 2 _MHRM 0
 2 _MHSM 0
 2 _RDATE 13 SEP 2020
-2 _SDATE 13 SEP 2020
+2 _SDATE 14 SEP 2020
+1 NOTE alternative Nachnamen: FRILICKMAN gen. KOCK
 1 CHAN
-2 DATE 7 SEP 2020
-3 TIME 18:16:34
+2 DATE 14 SEP 2020
+3 TIME 12:14:08
 0 @I15@ INDI
 1 RIN AB:I15
 1 _UID C3249DCF3440480992C348204A7E66A6A9FF
-1 NAME Elsa /Fischers/
-2 SURN Fischers
+1 NAME Elsa /Fischer(s)/
+2 SURN Fischer(s)
 2 GIVN Elsa
 1 SEX F
 1 FAMS @F6@
@@ -371,7 +373,7 @@
 2 _SDATE 14 SEP 2020
 1 CHAN
 2 DATE 14 SEP 2020
-3 TIME 8:24:48
+3 TIME 12:14:27
 0 @I16@ INDI
 1 RIN AB:I16
 1 _UID 29B6495F663649C0B71F02748CAE8A417D2F
@@ -3706,7 +3708,7 @@
 1 NAME Ditherich /Reckers gen. Kumptman/
 2 SURN Reckers gen. Kumptman
 2 GIVN Ditherich
-2 NOTE alternative Nachnamen: KUMPMAN gen. RECKERS
+2 NOTE alternative Nachnamen: KUMP(T)MAN gen. RECKERS
 1 SEX M
 1 FAMS @F51@
 1 BIRT Y
@@ -3716,9 +3718,10 @@
 2 _MHSM 0
 2 _RDATE 13 SEP 2020
 2 _SDATE 13 SEP 2020
+1 NOTE alternative Nachnamen: KUMP(T)MAN gen. RECKERS
 1 CHAN
-2 DATE 13 SEP 2020
-3 TIME 20:53:49
+2 DATE 14 SEP 2020
+3 TIME 12:12:05
 0 @I147@ INDI
 1 RIN AB:I147
 1 _UID D01EB6F94B0D49F6900C44F9DDD49E308C93
@@ -7680,6 +7683,273 @@
 1 CHAN
 2 DATE 14 SEP 2020
 3 TIME 9:23:11
+0 @I289@ INDI
+1 RIN AB:I289
+1 _UID 04124200B6CA4748810DE4D2B3284A03D31E
+1 NAME Eberhardus /Scheper/
+2 SURN Scheper
+2 GIVN Eberhardus
+1 SEX M
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=7
+1 FAMC @F89@
+1 BIRT
+2 DATE BEF 23 JAN 1650
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=7
+2 DATE 23 JAN 1650
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Eberhardt Keleker, Trina Deese gen. Schmedesche
+1 CHAN
+2 DATE 14 SEP 2020
+3 TIME 12:02:27
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 14 SEP 2020
+2 _SDATE 14 SEP 2020
+0 @I290@ INDI
+1 RIN AB:I290
+1 _UID 8AFC82ABC4A4406E9AB616161AB261AD1F72
+1 NAME Joan /Scheper gen. Fischer/
+2 SURN Scheper gen. Fischer
+2 GIVN Joan
+1 SEX M
+1 FAMS @F89@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 14 SEP 2020
+3 TIME 12:02:51
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 14 SEP 2020
+2 _SDATE 14 SEP 2020
+0 @I291@ INDI
+1 RIN AB:I291
+1 _UID A0668EFC4F3F44B096BEB660943003478AFE
+1 NAME Elsa /Von den Zwehenhauss (?)/
+2 SURN Von den Zwehenhauss (?)
+2 GIVN Elsa
+1 SEX F
+1 FAMS @F89@
+1 BIRT Y
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 14 SEP 2020
+2 _SDATE 14 SEP 2020
+1 CHAN
+2 DATE 14 SEP 2020
+3 TIME 12:02:58
+0 @I292@ INDI
+1 RIN AB:I292
+1 _UID E25F1295563343229BB9A3E2BA2E4C8265F6
+1 NAME Christianus /Vettinck/
+2 SURN Vettinck
+2 GIVN Christianus
+1 SEX M
+1 FAMC @F22@
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=7
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 14 SEP 2020
+2 _SDATE 14 SEP 2020
+1 BIRT
+2 DATE BEF 27 FEB 1650
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren aus der Annahme aus den Taufdaten.
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=7
+2 DATE 27 FEB 1650
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Christian Lobach, Gerdruit Veltmans
+1 CHAN
+2 DATE 14 SEP 2020
+3 TIME 12:05:05
+0 @I293@ INDI
+1 RIN AB:I293
+1 _UID BF826BF542784A3F86DB08A0DE40E92418DF
+1 NAME Stephanus /Breer gen. Rogge/
+2 SURN Breer gen. Rogge
+2 GIVN Stephanus
+1 SEX M
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=7
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 14 SEP 2020
+2 _SDATE 14 SEP 2020
+1 FAMC @F90@
+1 BIRT
+2 DATE BEF 3 APR 1650
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=7
+2 DATE 3 APR 1650
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Stephan Rahman gen. Botterbrodt, Christina Elisabeth Lobach
+1 CHAN
+2 DATE 14 SEP 2020
+3 TIME 12:08:13
+0 @I294@ INDI
+1 RIN AB:I294
+1 _UID D9A6E0EE201C41CE844F6BBCDAFDAD52689E
+1 NAME Bernt /Breer gen. Rogge/
+2 SURN Breer gen. Rogge
+2 GIVN Bernt
+1 SEX M
+1 FAMS @F90@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 14 SEP 2020
+3 TIME 12:08:33
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 14 SEP 2020
+2 _SDATE 14 SEP 2020
+0 @I295@ INDI
+1 RIN AB:I295
+1 _UID 453D3C5DE0394327B56E22A9560655215ECC
+1 NAME Anna /Botterbrodt/
+2 SURN Botterbrodt
+2 GIVN Anna
+1 SEX F
+1 FAMS @F90@
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 14 SEP 2020
+2 _SDATE 14 SEP 2020
+0 @I296@ INDI
+1 RIN AB:I296
+1 _UID C15C5F690020435E8ED11D39737A1768C709
+1 NAME Henrich /Kumptman gen. Reckers/
+2 SURN Kumptman gen. Reckers
+2 GIVN Henrich
+1 SEX M
+1 FAMC @F51@
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=7
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 14 SEP 2020
+2 _SDATE 14 SEP 2020
+1 BIRT
+2 DATE BEF 15 MAY 1650
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Angabe der Geburtsdaten resultieren als Annahme aus den Taufdaten.
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=7
+2 DATE 15 MAY 1650
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Henrich Frilickman, Clara Sivers
+1 CHAN
+2 DATE 14 SEP 2020
+3 TIME 12:11:43
+0 @I297@ INDI
+1 RIN AB:I297
+1 _UID EB0898C47E964C25A4F7A5BAD2C952934E46
+1 NAME Henrich /Frilickman gen. Kock/
+2 SURN Frilickman gen. Kock
+2 GIVN Henrich
+1 SEX M
+1 FAMC @F6@
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=7
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 14 SEP 2020
+2 _SDATE 14 SEP 2020
+1 BIRT
+2 DATE BEF 6 JUN 1650
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Angabe der Geburtsdaten resultieren als Annahme aus den Taufdaten.
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=7
+2 DATE 6 JUN 1650
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Hen. Frilickman, Anna Grünsche (?)
+1 CHAN
+2 DATE 14 SEP 2020
+3 TIME 12:16:10
 0 @S1@ SOUR
 1 TITL Matricula
 0 @S2@ SOUR
@@ -7714,6 +7984,7 @@
 1 HUSB @I14@
 1 CHIL @I13@
 1 WIFE @I15@
+1 CHIL @I297@
 0 @F7@ FAM
 1 HUSB @I17@
 1 CHIL @I16@
@@ -7769,6 +8040,7 @@
 1 CHIL @I52@
 1 WIFE @I54@
 1 CHIL @I243@
+1 CHIL @I292@
 0 @F23@ FAM
 1 HUSB @I56@
 1 CHIL @I55@
@@ -7894,6 +8166,7 @@
 1 CHIL @I145@
 1 WIFE @I147@
 1 CHIL @I245@
+1 CHIL @I296@
 0 @F52@ FAM
 1 HUSB @I149@
 1 CHIL @I148@
@@ -8053,6 +8326,14 @@
 1 HUSB @I286@
 1 CHIL @I285@
 1 WIFE @I287@
+0 @F89@ FAM
+1 HUSB @I290@
+1 CHIL @I289@
+1 WIFE @I291@
+0 @F90@ FAM
+1 HUSB @I294@
+1 CHIL @I293@
+1 WIFE @I295@
 0 @SUBM@ SUBM
 1 NAME Michael Johne
 1 ADDR Michael Johne
