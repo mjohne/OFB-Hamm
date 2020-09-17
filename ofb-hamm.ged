@@ -3,8 +3,8 @@
 2 VERS 3.15
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
-1 DATE 14 SEP 2020
-2 TIME 12:17:00
+1 DATE 17 SEP 2020
+2 TIME 11:48:37
 1 SUBM @SUBM@
 1 FILE ofb-hamm.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I14@
-1 _HOME @I14@
+2 _NAVI @I306@
+1 _HOME @I306@
 0 @I1@ INDI
 1 RIN AB:I1
 1 _UID 4EB661D5ACFE49AAAB528691A2E80DB03210
@@ -3185,6 +3185,7 @@
 2 SURN Luckman
 2 GIVN Dirck
 2 NOTE alternativer Nachname: LÜCKMANS
+2 NOTE Er wird im Taufeintrag seiner Tochter ANNA am 25.11.1650 mit dem Vornamen DIETHERICH statt mit DIRCK verzeichnet.
 1 SEX M
 1 FAMS @F46@
 1 BIRT Y
@@ -3194,9 +3195,10 @@
 2 _MHSM 0
 2 _RDATE 13 SEP 2020
 2 _SDATE 13 SEP 2020
+1 NOTE Er wird im Taufeintrag seiner Tochter ANNA am 25.11.1650 mit dem Vornamen DIETHERICH statt mit DIRCK verzeichnet.
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 6:17:57
+2 DATE 17 SEP 2020
+3 TIME 11:38:35
 0 @I128@ INDI
 1 RIN AB:I128
 1 _UID 02717E4F23CB42E3AE6081E6A7982658852E
@@ -4010,9 +4012,9 @@
 0 @I158@ INDI
 1 RIN AB:I158
 1 _UID B401F0E8F8C742C9904B009BDE96F8EA23B1
-1 NAME Joan /Knippenkötter gen. Kölinck/
+1 NAME Joan/Johan /Knippenkötter gen. Kölinck/
 2 SURN Knippenkötter gen. Kölinck
-2 GIVN Joan
+2 GIVN Joan/Johan
 2 NOTE alternativer Nachname: KNIPPENKÖTTER
 1 SEX M
 1 FAMS @F55@
@@ -4024,8 +4026,8 @@
 2 _RDATE 13 SEP 2020
 2 _SDATE 13 SEP 2020
 1 CHAN
-2 DATE 12 SEP 2020
-3 TIME 7:12:35
+2 DATE 17 SEP 2020
+3 TIME 11:32:52
 0 @I159@ INDI
 1 RIN AB:I159
 1 _UID 0B651CB9CEE6433DBC6FB9A656DE61E078E6
@@ -4127,8 +4129,8 @@
 0 @I162@ INDI
 1 RIN AB:I162
 1 _UID F6CA129D65D34439BCDEFDF908269984FFA6
-1 NAME Arnt /Peters gen. Knufman/Knuffman/
-2 SURN Peters gen. Knufman/Knuffman
+1 NAME Arnt /Peters gen. Knuffman/
+2 SURN Peters gen. Knuffman
 2 GIVN Arnt
 1 SEX M
 1 FAMS @F56@
@@ -4138,16 +4140,17 @@
 2 _MHRM 0
 2 _MHSM 0
 2 _RDATE 13 SEP 2020
-2 _SDATE 13 SEP 2020
+2 _SDATE 17 SEP 2020
 1 CHAN
-2 DATE 13 SEP 2020
-3 TIME 21:06:38
+2 DATE 17 SEP 2020
+3 TIME 11:23:48
 0 @I163@ INDI
 1 RIN AB:I163
 1 _UID 934948301667407AA26AE0F941210A97733B
-1 NAME Trina /Linnenhaus/
-2 SURN Linnenhaus
+1 NAME Trina /Lindenhoff/
+2 SURN Lindenhoff
 2 GIVN Trina
+2 NOTE In den Taufeinträgen der beiden Söhne Clamerus (~1646) und Joannes (~ 1648) wird ein anderer Nachname verwendet: LINNENHAUS. Linnenhaus bedeutet Lindenhaus.
 1 SEX F
 1 FAMS @F56@
 1 BIRT Y
@@ -4156,10 +4159,11 @@
 2 _MHRM 0
 2 _MHSM 0
 2 _RDATE 13 SEP 2020
-2 _SDATE 13 SEP 2020
+2 _SDATE 17 SEP 2020
+1 NOTE In den Taufeinträgen der beiden Söhne Clamerus (~1646) und Joannes (~ 1648) wird ein anderer Nachname verwendet: LINNENHAUS. Linnenhaus bedeutet Lindenhaus.
 1 CHAN
-2 DATE 11 SEP 2020
-3 TIME 22:07:01
+2 DATE 17 SEP 2020
+3 TIME 11:20:25
 0 @I164@ INDI
 1 RIN AB:I164
 1 _UID 59AFC07791F94C6196AB788947249F4E102A
@@ -5929,6 +5933,7 @@
 2 _MHSM 0
 2 _RDATE 13 SEP 2020
 2 _SDATE 13 SEP 2020
+1 NOTE Ihr Vater wird in ihrem Taufeintrag am 25.11.1650 mit dem Vornamen DIETHERICH statt mit DIRCK verzeichnet.
 1 BIRT
 2 DATE BEF 25 NOV 1650
 2 PLAC Heessen, Hamm, Nordrhein-Westfalen
@@ -5949,8 +5954,8 @@
 2 RELI katholisch
 2 _GODP Arnt Meiners, Anna Nachtkamps
 1 CHAN
-2 DATE 13 SEP 2020
-3 TIME 14:06:45
+2 DATE 17 SEP 2020
+3 TIME 11:38:09
 0 @I232@ INDI
 1 RIN AB:I232
 1 _UID 398DB3CE9B7D4B64A866E096CCEDC596A677
@@ -7950,6 +7955,319 @@
 1 CHAN
 2 DATE 14 SEP 2020
 3 TIME 12:16:10
+0 @I298@ INDI
+1 RIN AB:I298
+1 _UID A0FE8A861176472881663EDB86F5FFF00EBA
+1 NAME Henrich /Peters gen. Knuffman/
+2 SURN Peters gen. Knuffman
+2 GIVN Henrich
+1 SEX M
+1 FAMC @F56@
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=7
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 17 SEP 2020
+2 _SDATE 17 SEP 2020
+1 NOTE Die Mutter wird im Taufeintrag mit den Nachnamen LINDENHOFF und nicht mit LINNENHAUS (wie in den beiden Taufeinträgen der früheren Söhne) geführt. Zudem wird sie mit dem Vornamen CATHARINA statt mit TRINA (Kurzform von Katharina) genannt.
+1 BIRT
+2 DATE BEF 16 JUN 1650
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=7
+2 DATE 16 JUN 1650
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Henrich Pferdehirte gen. Brinckman, Engel Richter gen. Rahmansch
+2 NOTE Die Mutter wird im Taufeintrag mit den Nachnamen LINDENHOFF und nicht mit LINNENHAUS (wie in den beiden Taufeinträgen der früheren Söhne) geführt. Zudem wird sie mit dem Vornamen CATHARINA statt mit TRINA (Kurzform von Katharina) genannt.
+1 CHAN
+2 DATE 17 SEP 2020
+3 TIME 11:32:09
+0 @I299@ INDI
+1 RIN AB:I299
+1 _UID 546ADAC348F14DDF9D499ED062CED5243D48
+1 NAME Theodorus /Knuffman/
+2 SURN Knuffman
+2 GIVN Theodorus
+1 SEX M
+1 FAMC @F56@
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=9
+1 NOTE Der Vater wird im Taufeintrag mit den Nachnamen KNUFFMAN und nicht mit PETER GEN. KNUFFMAN geführt.
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 17 SEP 2020
+2 _SDATE 17 SEP 2020
+1 NOTE Die Mutter wird im Taufeintrag mit den Nachnamen LINDENHOFF und nicht mit LINNENHAUS (wie in den beiden Taufeinträgen der früheren Söhne) geführt.
+1 BIRT
+2 DATE BEF 3 OCT 1655
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=9
+2 DATE 3 OCT 1655
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Ditherich Crabusch, Sander Geisthoffs
+2 NOTE Die Mutter wird im Taufeintrag mit den Nachnamen LINDENHOFF und nicht mit LINNENHAUS (wie in den beiden Taufeinträgen der früheren Söhne) geführt.
+1 CHAN
+2 DATE 17 SEP 2020
+3 TIME 11:31:12
+0 @I300@ INDI
+1 RIN AB:I300
+1 _UID 2AEED1C525F546528E203A2BDF938192F82E
+1 NAME Elsa /Voget/
+2 SURN Voget
+2 GIVN Elsa
+1 SEX F
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=7
+1 FAMC @F91@
+1 BIRT
+2 DATE BEF 16 OCT 1650
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Gebursdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=7
+2 DATE 16 OCT 1650
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Johan Berghegge, Elsa Willebranninck
+1 CHAN
+2 DATE 17 SEP 2020
+3 TIME 11:34:53
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 17 SEP 2020
+2 _SDATE 17 SEP 2020
+0 @I301@ INDI
+1 RIN AB:I301
+1 _UID E32DCEB2C22E4416952F18700F87AD228B9F
+1 NAME D. /Voget/
+2 SURN Voget
+2 GIVN D.
+1 SEX M
+1 FAMS @F91@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 17 SEP 2020
+3 TIME 11:35:11
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 17 SEP 2020
+2 _SDATE 17 SEP 2020
+0 @I302@ INDI
+1 RIN AB:I302
+1 _UID 5483C9D1AB1B438D82968C3CFDAB208D3CA8
+1 NAME Sander /Geisthoff/
+2 SURN Geisthoff
+2 GIVN Sander
+1 SEX F
+1 FAMS @F91@
+1 BIRT Y
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 17 SEP 2020
+2 _SDATE 17 SEP 2020
+1 CHAN
+2 DATE 17 SEP 2020
+3 TIME 11:35:19
+0 @I303@ INDI
+1 RIN AB:I303
+1 _UID BD8EC7FB42DD457E93E14412C30320862506
+1 NAME Elsa /Strothlink/
+2 SURN Strothlink
+2 GIVN Elsa
+1 SEX F
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=7
+1 FAMC @F92@
+1 BIRT
+2 DATE BEF 4 DEC 1650
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=7
+2 DATE 4 DEC 1650
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Johan Vogel gen. Pipenbroick, Elsa Strothlinck
+1 CHAN
+2 DATE 17 SEP 2020
+3 TIME 11:41:44
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 17 SEP 2020
+2 _SDATE 17 SEP 2020
+0 @I304@ INDI
+1 RIN AB:I304
+1 _UID 375CB4DAF0694A999F551642AA3593B3CEFF
+1 NAME Bernt /Strothlink/
+2 SURN Strothlink
+2 GIVN Bernt
+1 SEX M
+1 FAMS @F92@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 17 SEP 2020
+3 TIME 11:42:00
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 17 SEP 2020
+2 _SDATE 17 SEP 2020
+0 @I305@ INDI
+1 RIN AB:I305
+1 _UID 51324B634C1D43ED8B904265DBD02FED53D5
+1 NAME Maria /Vogels/
+2 SURN Vogels
+2 GIVN Maria
+1 SEX F
+1 FAMS @F92@
+1 BIRT Y
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 17 SEP 2020
+2 _SDATE 17 SEP 2020
+1 CHAN
+2 DATE 17 SEP 2020
+3 TIME 11:42:11
+0 @I306@ INDI
+1 RIN AB:I306
+1 _UID 1CC8779B591041DE81DBD8C4BD3A503AF772
+1 NAME Christianus /Sonborn/
+2 SURN Sonborn
+2 GIVN Christianus
+1 SEX M
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=7
+1 FAMC @F93@
+1 BIRT
+2 DATE BEF 8 DEC 1650
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus dem Taufdaten.
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=7
+2 DATE 8 DEC 1650
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Christian Westholt, Hadewigh Haber (?)
+1 CHAN
+2 DATE 17 SEP 2020
+3 TIME 11:47:15
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 17 SEP 2020
+2 _SDATE 17 SEP 2020
+0 @I307@ INDI
+1 RIN AB:I307
+1 _UID C77DFF8AA1F34B36A269803CA0D0583EAF81
+1 NAME Dietherich /Sonborn/
+2 SURN Sonborn
+2 GIVN Dietherich
+1 SEX M
+1 FAMS @F93@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 17 SEP 2020
+3 TIME 11:48:05
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 17 SEP 2020
+2 _SDATE 17 SEP 2020
+0 @I308@ INDI
+1 RIN AB:I308
+1 _UID ADF7B62AA8704E21A7883B1E8FD42DB6D9F4
+1 NAME Elsa /Lütkehaus/
+2 SURN Lütkehaus
+2 GIVN Elsa
+1 SEX F
+1 FAMS @F93@
+1 BIRT Y
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 17 SEP 2020
+2 _SDATE 17 SEP 2020
+1 CHAN
+2 DATE 17 SEP 2020
+3 TIME 11:48:11
 0 @S1@ SOUR
 1 TITL Matricula
 0 @S2@ SOUR
@@ -8191,6 +8509,8 @@
 1 CHIL @I161@
 1 WIFE @I163@
 1 CHIL @I250@
+1 CHIL @I298@
+1 CHIL @I299@
 0 @F57@ FAM
 1 HUSB @I165@
 1 CHIL @I164@
@@ -8334,6 +8654,18 @@
 1 HUSB @I294@
 1 CHIL @I293@
 1 WIFE @I295@
+0 @F91@ FAM
+1 HUSB @I301@
+1 CHIL @I300@
+1 WIFE @I302@
+0 @F92@ FAM
+1 HUSB @I304@
+1 CHIL @I303@
+1 WIFE @I305@
+0 @F93@ FAM
+1 HUSB @I307@
+1 CHIL @I306@
+1 WIFE @I308@
 0 @SUBM@ SUBM
 1 NAME Michael Johne
 1 ADDR Michael Johne
