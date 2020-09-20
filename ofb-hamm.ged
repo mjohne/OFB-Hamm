@@ -4,7 +4,7 @@
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 20 SEP 2020
-2 TIME 0:52:48
+2 TIME 12:28:04
 1 SUBM @SUBM@
 1 FILE ofb-hamm.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I350@
-1 _HOME @I350@
+2 _NAVI @I380@
+1 _HOME @I380@
 0 @I1@ INDI
 1 RIN AB:I1
 1 _UID 4EB661D5ACFE49AAAB528691A2E80DB03210
@@ -1085,6 +1085,8 @@
 1 NAME Clara /Wilmes/
 2 SURN Wilmes
 2 GIVN Clara
+2 NOTE Der Nachname des Vater wird in den Taufeintrag als WILMES wiedergegeben. Die anderen Taufeinträgen der Geschwister tauchen hingegen die Namensformen WILMES GEN. GROẞ und WILMES GEN. VOẞ auf. Für die Person Clara wurde die Nachnamensform der Vate
+3 CONC rs als Nachname verwendet.
 1 SEX F
 1 RELI katholisch
 1 DEAT Y
@@ -1097,6 +1099,8 @@
 2 _MHSM 0
 2 _RDATE 13 SEP 2020
 2 _SDATE 13 SEP 2020
+1 NOTE Der Nachname des Vater wird in den Taufeintrag als WILMES wiedergegeben. Die anderen Taufeinträgen der Geschwister tauchen hingegen die Namensformen WILMES GEN. GROẞ und WILMES GEN. VOẞ auf. Für die Person Clara wurde die Nachnamensform der Vate
+2 CONC rs als Nachname verwendet.
 1 BIRT
 2 DATE BEF 19 APR 1643
 2 PLAC Heessen, Hamm, Nordrhein-Westfalen
@@ -1117,14 +1121,17 @@
 2 RELI katholisch
 2 _GODP Bernt Sievers, Clara Huge
 1 CHAN
-2 DATE 13 SEP 2020
-3 TIME 14:14:12
+2 DATE 20 SEP 2020
+3 TIME 11:25:02
 0 @I45@ INDI
 1 RIN AB:I45
 1 _UID 71B9E5F4256F49D8AD11C9489246609C5B37
-1 NAME Joan /Wilmes/Wilmes gen. Voß/
-2 SURN Wilmes/Wilmes gen. Voß
-2 GIVN Joan
+1 NAME Johan/Joan /Wilmes/Wilmes gen. Voß/Groß/
+2 SURN Wilmes/Wilmes gen. Voß/Groß
+2 GIVN Johan/Joan
+2 NOTE alternative Nachnamen: Wilmes, Wilmes gen. Voß, Wilmes gen. Groß
+2 NOTE Der Nachname dieser Person wird in Taufeintrag seiner Kinder zu teils unterschiedlich wiedergegeben: im Taufeintrag seiner Tochter Clara (~ 1643) ist der Nachname WILMES angegeben, im Taufeintrag seines Sohnes Georgius (~ 1649) ist der Nachname 
+3 CONC WILMES GEN. VOẞ angegeben und im Taufeintrag seines Sohnes Jodocus (~ 1649) ist der Nachname WILMES GEN. GROẞ angegeben.
 1 SEX M
 1 FAMS @F18@
 1 BIRT Y
@@ -1134,9 +1141,12 @@
 2 _MHSM 0
 2 _RDATE 13 SEP 2020
 2 _SDATE 14 SEP 2020
+1 NOTE alternative Nachnamen: Wilmes, Wilmes gen. Voß, Wilmes gen. Groß
+1 NOTE Der Nachname dieser Person wird in Taufeintrag seiner Kinder zu teils unterschiedlich wiedergegeben: im Taufeintrag seiner Tochter Clara (~ 1643) ist der Nachname WILMES angegeben, im Taufeintrag seines Sohnes Georgius (~ 1649) ist der Nachname 
+2 CONC WILMES GEN. VOẞ angegeben und im Taufeintrag seines Sohnes Jodocus (~ 1649) ist der Nachname WILMES GEN. GROẞ angegeben.
 1 CHAN
-2 DATE 14 SEP 2020
-3 TIME 8:39:16
+2 DATE 20 SEP 2020
+3 TIME 11:21:00
 0 @I46@ INDI
 1 RIN AB:I46
 1 _UID 8149D282DDC44926BA663ABE2FEB34BB4FB1
@@ -3552,8 +3562,8 @@
 0 @I141@ INDI
 1 RIN AB:I141
 1 _UID E1DBCFB293C24043867A9EDD18A3214EBABA
-1 NAME Christina Elisabeth /Kattrup/
-2 SURN Kattrup
+1 NAME Christina Elisabeth /Kettrup/
+2 SURN Kettrup
 2 GIVN Christina Elisabeth
 1 SEX F
 1 RELI katholisch
@@ -3566,7 +3576,7 @@
 2 _MHRM 0
 2 _MHSM 0
 2 _RDATE 13 SEP 2020
-2 _SDATE 13 SEP 2020
+2 _SDATE 20 SEP 2020
 1 BIRT
 2 DATE BEF 2 MAR 1646
 2 PLAC Heessen, Hamm, Nordrhein-Westfalen
@@ -3587,13 +3597,13 @@
 2 RELI katholisch
 2 _GODP Christina Elisabeth Lobach, Johan Tilman
 1 CHAN
-2 DATE 13 SEP 2020
-3 TIME 21:37:57
+2 DATE 20 SEP 2020
+3 TIME 10:46:19
 0 @I142@ INDI
 1 RIN AB:I142
 1 _UID 78FE2C81CF24433D915680F509707A6146CE
-1 NAME Ditherich /Kattrup/
-2 SURN Kattrup
+1 NAME Ditherich /Kettrup/
+2 SURN Kettrup
 2 GIVN Ditherich
 1 SEX M
 1 FAMS @F50@
@@ -3603,10 +3613,10 @@
 2 _MHRM 0
 2 _MHSM 0
 2 _RDATE 13 SEP 2020
-2 _SDATE 13 SEP 2020
+2 _SDATE 20 SEP 2020
 1 CHAN
-2 DATE 13 SEP 2020
-3 TIME 21:37:48
+2 DATE 20 SEP 2020
+3 TIME 10:45:53
 0 @I143@ INDI
 1 RIN AB:I143
 1 _UID 30EAF38B8C5F4AC1AE2CAC561077703FA07F
@@ -6681,8 +6691,8 @@
 0 @I255@ INDI
 1 RIN AB:I255
 1 _UID 911A4EA02FB14474AEE4B3866077752C74FC
-1 NAME Catharina /Kattrup/
-2 SURN Kattrup
+1 NAME Catharina /Kettrup/
+2 SURN Kettrup
 2 GIVN Catharina
 1 SEX F
 1 FAMC @F50@
@@ -6695,7 +6705,7 @@
 2 _MHRM 0
 2 _MHSM 0
 2 _RDATE 13 SEP 2020
-2 _SDATE 13 SEP 2020
+2 _SDATE 20 SEP 2020
 1 BIRT
 2 DATE BEF 16 OCT 1648
 2 PLAC Heessen, Hamm, Nordrhein-Westfalen
@@ -6716,8 +6726,8 @@
 2 RELI katholisch
 2 _GODP Christian Westholt, Trina Kattrup
 1 CHAN
-2 DATE 13 SEP 2020
-3 TIME 21:42:01
+2 DATE 20 SEP 2020
+3 TIME 10:46:29
 0 @I256@ INDI
 1 RIN AB:I256
 1 _UID A6A42D0212E14F3C9476CC5D4C59AA57D09A
@@ -6964,6 +6974,8 @@
 1 NAME Georgius /Wilmes gen. Voß/
 2 SURN Wilmes gen. Voß
 2 GIVN Georgius
+2 NOTE Der Nachname des Vater wird in den Taufeintrag als WILMES GEN. VOẞ wiedergegeben. Die anderen Taufeinträgen der Geschwister tauchen hingegen die Namensformen WILMES und WILMES GEN. GROẞ auf. Für die Person Georgius wurde die Nachnamensform der V
+3 CONC aters als Nachname verwendet.
 1 SEX M
 1 FAMC @F18@
 1 RELI katholisch
@@ -6976,6 +6988,8 @@
 2 _MHSM 0
 2 _RDATE 14 SEP 2020
 2 _SDATE 14 SEP 2020
+1 NOTE Der Nachname des Vater wird in den Taufeintrag als WILMES GEN. VOẞ wiedergegeben. Die anderen Taufeinträgen der Geschwister tauchen hingegen die Namensformen WILMES und WILMES GEN. GROẞ auf. Für die Person Georgius wurde die Nachnamensform der V
+2 CONC aters als Nachname verwendet.
 1 BIRT
 2 DATE BEF 2 MAY 1649
 2 PLAC Heessen, Hamm, Nordrhein-Westfalen
@@ -6996,8 +7010,8 @@
 2 RELI katholisch
 2 _GODP Herman Cordes, Elsa Mühlers
 1 CHAN
-2 DATE 14 SEP 2020
-3 TIME 8:41:32
+2 DATE 20 SEP 2020
+3 TIME 11:24:21
 0 @I264@ INDI
 1 RIN AB:I264
 1 _UID 3C6DD88F341345EFA634DC9F9CE6B8274128
@@ -9338,6 +9352,773 @@
 1 CHAN
 2 DATE 20 SEP 2020
 3 TIME 0:40:57
+0 @I352@ INDI
+1 RIN AB:I352
+1 _UID A562DA79F22E4D54AEB54C4A6039C486F73D
+1 NAME Heinrich /Rappaeus/
+2 SURN Rappaeus
+2 GIVN Heinrich
+1 SEX M
+1 SOUR @S4@
+2 _LINK https://hammwiki.info/wiki/Heinrich_Rappaeus
+1 FAMS @F112@
+1 NOTE Nach Studien in Mainz und Speyer sowie Predigertätigkeit in der Kurpfalz wurde er ca. 1590 Pfarrer in Altenstadt/Elsaß. 1601 wurde er erster reformierter Pfarrer in Hamm. 1611 berief er die erste reformierte Synode der Grafschaft Mark nach Unna 
+2 CONC ein und führte dort den Vorsitz. Er verstarb am 2./3. Februar 1621 in Hamm.
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+1 BIRT
+2 DATE ABT 1558
+2 PLAC Köln, Nordrhein-Westfalen
+3 _LOC @L3@
+3 MAP
+4 LATI N50.9498888888889
+4 LONG E6.95227777777778
+2 SOUR @S4@
+3 _LINK https://hammwiki.info/wiki/Heinrich_Rappaeus
+1 OCCU erster reformierter Pfarrer
+2 DATE FROM 1601 TO 1621
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 SOUR @S4@
+3 _LINK https://hammwiki.info/wiki/Heinrich_Rappaeus
+1 DEAT
+2 DATE ABT 2 FEB 1621
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 SOUR @S1@
+3 _LINK https://hammwiki.info/wiki/Heinrich_Rappaeus
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 1:19:45
+0 @I353@ INDI
+1 RIN AB:I353
+1 _UID AB5AC64E30A746CCA8118980E1DE2DEC9CE6
+1 NAME Ursula /Hammer/
+2 SURN Hammer
+2 GIVN Ursula
+1 SEX F
+1 FAMS @F112@
+1 BIRT Y
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 1:19:07
+0 @I354@ INDI
+1 RIN AB:I354
+1 _UID F9ACABF3BA904C6CA5060E21534D7D1F5B98
+1 NAME Johann Heinrich /Rappaeus/
+2 SURN Rappaeus
+2 GIVN Johann Heinrich
+1 SEX M
+1 FAMC @F112@
+1 SOUR @S4@
+2 _LINK https://hammwiki.info/wiki/Johann_Heinrich_Rappaeus
+1 NOTE Johann Heinrich Rappaeus war der Sohn des Pfarrers Heinrich Rappaeus und folgte 1621 seinem Vater im Amt nach. Seine Leichenpredigt hielt am 18. Dezember 1662 Professor Theodor Nies. 
+1 BIRT
+2 DATE ABT 1589
+2 SOUR @S4@
+3 _LINK https://hammwiki.info/wiki/Johann_Heinrich_Rappaeus
+1 OCCU reformierter Pfarrer
+2 DATE FROM 1621 TO 1662
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 SOUR @S4@
+3 _LINK https://hammwiki.info/wiki/Johann_Heinrich_Rappaeus
+1 DEAT
+2 DATE 19 NOV 1662
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 SOUR @S4@
+3 _LINK https://hammwiki.info/wiki/Johann_Heinrich_Rappaeus
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 1:23:55
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+0 @I355@ INDI
+1 RIN AB:I355
+1 _UID 6BF2AF32A80F4F33A6A463D09FD88BFCF284
+1 NAME Christina /Deese/
+2 SURN Deese
+2 GIVN Christina
+1 SEX F
+1 FAMC @F70@
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=8
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+1 BIRT
+2 DATE BEF 9 JUL 1651
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=8
+2 DATE 9 JUL 1651
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Ditherich Holscher gen. Faber, Stine Turbey
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 10:32:13
+0 @I356@ INDI
+1 RIN AB:I356
+1 _UID 8C7E134CCD32408E8F76F27B21C24B3A10A7
+1 NAME Theodorus /Kettrup/
+2 SURN Kettrup
+2 GIVN Theodorus
+1 SEX M
+1 FAMC @F50@
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=8
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+1 BIRT
+2 DATE BEF 9 JUL 1651
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=8
+2 DATE 9 JUL 1651
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Dietherich Kock, Margaretha Northoff
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 10:38:31
+0 @I357@ INDI
+1 RIN AB:I357
+1 _UID 55DE44A72B754247971399940921A98E7FC1
+1 NAME Ermegardis /Brüningh/
+2 SURN Brüningh
+2 GIVN Ermegardis
+1 SEX F
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=8
+1 FAMC @F113@
+1 BIRT
+2 DATE BEF 10 AUG 1651
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Da echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=8
+2 DATE 10 AUG 1651
+2 PLAC heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Johan Kreelman, Ermeke Schweers
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 10:48:45
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+0 @I358@ INDI
+1 RIN AB:I358
+1 _UID B3EBCBB634414FBB95B7B7886492779B319B
+1 NAME Bernt /Brüningh/
+2 SURN Brüningh
+2 GIVN Bernt
+1 SEX M
+1 FAMS @F113@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 10:49:02
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+0 @I359@ INDI
+1 RIN AB:I359
+1 _UID 71ED90FAF7B941E299EBCF65290E3593725B
+1 NAME Anna /Wackers/
+2 SURN Wackers
+2 GIVN Anna
+1 SEX F
+1 FAMS @F113@
+1 BIRT Y
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 10:49:10
+0 @I360@ INDI
+1 RIN AB:I360
+1 _UID 78988DB08FE9466B9772DCEBC1E02FF60CD1
+1 NAME Jodocus /Wilmes gen. Groß/
+2 SURN Wilmes gen. Groß
+2 GIVN Jodocus
+2 NOTE Der Nachname des Vater wird in den Taufeintrag als WILMES GEN. GROẞ wiedergegeben. Die anderen Taufeinträgen der Geschwister tauchen hingegen die Namensformen WILMES und WILMES GEN. VOẞ auf. Für die Person Jodocus wurde die Nachnamensform der Va
+3 CONC ters als Nachname verwendet.
+1 SEX M
+1 FAMC @F18@
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=8
+1 NOTE Der Nachname des Vater wird in den Taufeintrag als WILMES GEN. GROẞ wiedergegeben. Die anderen Taufeinträgen der Geschwister tauchen hingegen die Namensformen WILMES und WILMES GEN. VOẞ auf. Für die Person Jodocus wurde die Nachnamensform der Va
+2 CONC ters als Nachname verwendet.
+1 BIRT
+2 DATE BEF 10 SEP 1651
+2 PLAC heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultiren als Annahme aus den Taufdaten.
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=8
+2 DATE 10 SEP 1651
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Henrich Panewick, Greita Northoffs
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 11:23:16
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+0 @I361@ INDI
+1 RIN AB:I361
+1 _UID DCFD99993F0D44FE9320899FAA9DB079E4F0
+1 NAME Elsa /Nottebaum/
+2 SURN Nottebaum
+2 GIVN Elsa
+1 SEX F
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=8
+1 FAMC @F114@
+1 BIRT
+2 DATE BEF 19 NOV 1651
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resulten als Annahme aus den Taufdaten.
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=8
+2 DATE 19 NOV 1651
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Wilhelm Jagger, Elsa Fischer
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 11:29:58
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+0 @I362@ INDI
+1 RIN AB:I362
+1 _UID 32FB64CD0F29490AABDC7E4D8A924A15B6B9
+1 NAME Gert /Nottebaum/
+2 SURN Nottebaum
+2 GIVN Gert
+1 SEX M
+1 FAMS @F114@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 11:30:21
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+0 @I363@ INDI
+1 RIN AB:I363
+1 _UID 2A9BA4AB5F6045919F42F5D2DFAEEBFCC5B1
+1 NAME Sibila /Sudhaus/
+2 SURN Sudhaus
+2 GIVN Sibila
+1 SEX F
+1 FAMS @F114@
+1 BIRT Y
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 11:30:30
+0 @I364@ INDI
+1 RIN AB:I364
+1 _UID 74FA4134E91F44C597692B1E1E0800F2559F
+1 NAME Henrich
+2 GIVN Henrich
+2 NOTE Diese Person kann keinen verzeichneten Nachnamen, da im Taufeintrag der Vater nur als "Henrich" ohne nachnamen wiedergegeben worden ist.
+1 SEX M
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=8
+1 FAMC @F115@
+1 NOTE Diese Person kann keinen verzeichneten Nachnamen, da im Taufeintrag der Vater nur als "Henrich" ohne nachnamen wiedergegeben worden ist.
+1 BIRT
+2 DATE BEF 26 NOV 1651
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=8
+2 DATE 26 NOV 1651
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Henrich Schurman gen. Westhoff, Engel Westhaus
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 11:42:14
+0 @I365@ INDI
+1 RIN AB:I365
+1 _UID 61BBEC0EA1C440AE8A9874059EB4A0C7BD1D
+1 NAME Henrich /.../
+2 SURN ...
+2 GIVN Henrich
+2 NOTE Der Nachname des Vaters ist leider nicht überliefert worden.
+1 SEX M
+1 FAMS @F115@
+1 BIRT Y
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+1 NOTE Der Nachname des Vaters ist leider nicht überliefert worden.
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 11:41:09
+0 @I366@ INDI
+1 RIN AB:I366
+1 _UID 00DBB8F01CB047C990C272C7B114FFF4A21B
+1 NAME Anna /Luckmans/
+2 SURN Luckmans
+2 GIVN Anna
+1 SEX F
+1 FAMS @F115@
+1 BIRT Y
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 11:38:54
+0 @I367@ INDI
+1 RIN AB:I367
+1 _UID 0CB512D0C9F14C61BA1394340F795FD55B1A
+1 NAME Gerhardus /Eckei/
+2 SURN Eckei
+2 GIVN Gerhardus
+1 SEX M
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=8
+1 FAMC @F116@
+1 BIRT
+2 DATE BEF 17 DEC 1651
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=8
+2 DATE 17 DEC 1651
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 RELI katholisch
+2 _GODP Gert Udinckhoff, Trina Richters gen. Buschman
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 11:45:58
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+0 @I368@ INDI
+1 RIN AB:I368
+1 _UID 677F5BB8BC2E4343B7789F27436D23F92A05
+1 NAME Engelbert /Eckei/
+2 SURN Eckei
+2 GIVN Engelbert
+1 SEX M
+1 FAMS @F116@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 11:46:15
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+0 @I369@ INDI
+1 RIN AB:I369
+1 _UID 5863F13644CA4C70BE2742DE68E4C8541912
+1 NAME Greta /Reckmans/
+2 SURN Reckmans
+2 GIVN Greta
+1 SEX F
+1 FAMS @F116@
+1 BIRT Y
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 11:46:24
+0 @I370@ INDI
+1 RIN AB:I370
+1 _UID 342D33DE721F4E25A3C6D35FAA3443C7F9D9
+1 NAME Johannes /Mollenbrink gen. Nachtkamp/
+2 SURN Mollenbrink gen. Nachtkamp
+2 GIVN Johannes
+1 SEX M
+1 RELI katholisch
+1 DEAT Y
+1 BURI Y
+1 SOUR @S1@
+2 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=8
+1 FAMC @F117@
+1 BIRT
+2 DATE BEF 26 DEC 1651
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdatem
+1 CHR
+2 SOUR @S1@
+3 PAGE http://data.matricula-online.eu/de/deutschland/muenster/heessen-st-stephanus/KB001_1/?pg=8
+2 DATE 26 DEC 1651
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 _GODP Hen. Heilman; Ermeke, Ehefrau Speckmans
+2 RELI katholisch
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 12:06:29
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+0 @I371@ INDI
+1 RIN AB:I371
+1 _UID B77D3F84416446C3BF662D945F19DB290732
+1 NAME Hen. /Mollenbrink gen. Nachtkamp/
+2 SURN Mollenbrink gen. Nachtkamp
+2 GIVN Hen.
+1 SEX M
+1 FAMS @F117@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 12:06:54
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+0 @I372@ INDI
+1 RIN AB:I372
+1 _UID F3959FE44B1B49449CBF5B1C4DCA59EF2F16
+1 NAME Elsa /Hopper/
+2 SURN Hopper
+2 GIVN Elsa
+1 SEX F
+1 FAMS @F117@
+1 BIRT Y
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 12:07:05
+0 @I373@ INDI
+1 RIN AB:I373
+1 _UID CA5F8921A2624539904EC94CAC0578F36453
+1 NAME Henrich
+2 GIVN Henrich
+2 NOTE Der Nachname dieser Person ist im Trauregister unleserlich.
+1 SEX M
+1 RELI evangelisch
+1 FAMS @F118@
+1 BIRT Y
+1 DEAT Y
+1 NOTE Der Nachname dieser Person ist im Trauregister unleserlich.
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 6
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 12:14:10
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+0 @I374@ INDI
+1 RIN AB:I374
+1 _UID 99343BA8150643DBA0B5C1B7B38999018C93
+1 NAME Anna /von Körbecke/
+2 SURN von Körbecke
+2 GIVN Anna
+1 SEX F
+1 FAMS @F118@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 6
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 12:17:31
+0 @I375@ INDI
+1 RIN AB:I375
+1 _UID 98A503F711684D4EAF123786A3A0F92A2F4A
+1 NAME Bernd /Robers/
+2 SURN Robers
+2 GIVN Bernd
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F119@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 6
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 12:20:30
+0 @I376@ INDI
+1 RIN AB:I376
+1 _UID A352FFAFB93F4FEFA55103B96AE9C4FFA1A9
+1 NAME Hartleiff /Lubberts/
+2 SURN Lubberts
+2 GIVN Hartleiff
+1 SEX F
+1 FAMS @F119@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 6
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+1 FAMC @F120@
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 12:20:41
+0 @I377@ INDI
+1 RIN AB:I377
+1 _UID 0E5AF6F57D9D41F0AA1B178A2964BC216E52
+1 NAME Caspar /Lubberts/
+2 SURN Lubberts
+2 GIVN Caspar
+1 SEX M
+1 FAMS @F120@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 12:20:48
+0 @I378@ INDI
+1 RIN AB:I378
+1 _UID 6FC86669B6574792B808F0138E51074CE13A
+1 NAME Curtgen /Reinnert/
+2 SURN Reinnert
+2 GIVN Curtgen
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F121@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 6
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 12:26:37
+0 @I379@ INDI
+1 RIN AB:I379
+1 _UID 04DC386AE4484EACB181AC8F9D1CBF4BD8E9
+1 NAME Rorich /tho Kreffting/
+2 SURN tho Kreffting
+2 GIVN Rorich
+1 SEX F
+1 FAMS @F121@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 6
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+1 FAMC @F122@
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 12:27:21
+0 @I380@ INDI
+1 RIN AB:I380
+1 _UID E1C675A54F324559A67DEC23E5EA8FFC6C5C
+1 NAME ... /Schulze thom Tenthoff/
+2 SURN Schulze thom Tenthoff
+2 GIVN ...
+1 SEX M
+1 FAMS @F122@
+1 BIRT Y
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 20 SEP 2020
+2 _SDATE 20 SEP 2020
+1 CHAN
+2 DATE 20 SEP 2020
+3 TIME 12:27:42
 0 @S1@ SOUR
 1 TITL Matricula
 0 @S2@ SOUR
@@ -9354,6 +10135,8 @@
 2 CONT Das Buch befindet sich im Bestand der Stadtbibliothek Hamm und kann dort ausgeliehen werden.
 0 @S3@ SOUR
 1 TITL Archion
+0 @S4@ SOUR
+1 TITL HammWiki
 0 @F1@ FAM
 1 HUSB @I2@
 1 CHIL @I1@
@@ -9412,6 +10195,7 @@
 1 CHIL @I44@
 1 WIFE @I46@
 1 CHIL @I263@
+1 CHIL @I360@
 0 @F19@ FAM
 1 HUSB @I38@
 1 CHIL @I37@
@@ -9552,6 +10336,7 @@
 1 CHIL @I141@
 1 WIFE @I143@
 1 CHIL @I255@
+1 CHIL @I356@
 0 @F51@ FAM
 1 HUSB @I146@
 1 CHIL @I145@
@@ -9647,6 +10432,7 @@
 1 CHIL @I207@
 1 WIFE @I209@
 1 CHIL @I271@
+1 CHIL @I355@
 0 @F71@ FAM
 1 HUSB @I211@
 1 CHIL @I210@
@@ -9930,6 +10716,80 @@
 4 LONG E7.766
 2 RELI evangelisch
 2 TYPE RELI
+0 @F112@ FAM
+1 HUSB @I352@
+1 WIFE @I353@
+1 CHIL @I354@
+0 @F113@ FAM
+1 HUSB @I358@
+1 CHIL @I357@
+1 WIFE @I359@
+0 @F114@ FAM
+1 HUSB @I362@
+1 CHIL @I361@
+1 WIFE @I363@
+0 @F115@ FAM
+1 HUSB @I365@
+1 CHIL @I364@
+1 WIFE @I366@
+0 @F116@ FAM
+1 HUSB @I368@
+1 CHIL @I367@
+1 WIFE @I369@
+0 @F117@ FAM
+1 HUSB @I371@
+1 CHIL @I370@
+1 WIFE @I372@
+0 @F118@ FAM
+1 HUSB @I373@
+1 WIFE @I374@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 6
+2 DATE 1615
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+0 @F119@ FAM
+1 HUSB @I375@
+1 WIFE @I376@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 6
+2 DATE 1615
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+2 NOTE Der Bräutigam stammt aus dem Kirchspiel Werne. Der Brautvater ist Bürger zu Hamm.
+0 @F120@ FAM
+1 HUSB @I377@
+1 CHIL @I376@
+0 @F121@ FAM
+1 HUSB @I378@
+1 WIFE @I379@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 6
+2 DATE 1615
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+2 NOTE Der Bräutigam ist Witwer.
+0 @F122@ FAM
+1 HUSB @I380@
+1 CHIL @I379@
 0 @SUBM@ SUBM
 1 NAME Michael Johne
 1 ADDR Michael Johne
@@ -9954,4 +10814,11 @@
 1 MAP
 2 LATI N51.6626944444444
 2 LONG E7.766
+0 @L3@ _LOC
+1 NAME Köln, Nordrhein-Westfalen
+1 _POST 50667
+1 _GOV KOLOLNJO30LW
+1 MAP
+2 LATI N50.9498888888889
+2 LONG E6.95227777777778
 0 TRLR
