@@ -3,8 +3,8 @@
 2 VERS 3.15
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
-1 DATE 21 SEP 2020
-2 TIME 22:43:41
+1 DATE 22 SEP 2020
+2 TIME 21:59:30
 1 SUBM @SUBM@
 1 FILE ofb-hamm.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I507@
-1 _HOME @I507@
+2 _NAVI @I588@
+1 _HOME @I588@
 0 @I1@ INDI
 1 RIN AB:I1
 1 _UID 4EB661D5ACFE49AAAB528691A2E80DB03210
@@ -12844,6 +12844,1690 @@
 1 CHAN
 2 DATE 21 SEP 2020
 3 TIME 22:42:14
+0 @I508@ INDI
+1 RIN AB:I508
+1 _UID 4270DA6D946D4322B1B965AFF63750086219
+1 NAME Gert /Dörholt/
+2 SURN Dörholt
+2 GIVN Gert
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F188@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 11
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 20:52:10
+0 @I509@ INDI
+1 RIN AB:I509
+1 _UID B55661BA96D54E33A363FCC8E53CB8E49959
+1 NAME Catharina /Reinholts/
+2 SURN Reinholts
+2 GIVN Catharina
+1 SEX F
+1 FAMS @F188@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 11
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 20:52:01
+0 @I510@ INDI
+1 RIN AB:I510
+1 _UID B5514076B3FA4DFD9EFDE27CA3D516094369
+1 NAME Dirich /Brümmer/
+2 SURN Brümmer
+2 GIVN Dirich
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F189@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 11
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 20:53:43
+0 @I511@ INDI
+1 RIN AB:I511
+1 _UID EB846CDC8FED44B186383F9BA60E7107EC28
+1 NAME Trine /Linkamps/
+2 SURN Linkamps
+2 GIVN Trine
+1 SEX F
+1 FAMS @F189@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 11
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 20:53:30
+0 @I512@ INDI
+1 RIN AB:I512
+1 _UID 60B580BCDBAF416CA0DAFE081D7279B2C2C6
+1 NAME Henrich /van Berchem/
+2 SURN van Berchem
+2 GIVN Henrich
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F190@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 11
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 20:55:34
+0 @I513@ INDI
+1 RIN AB:I513
+1 _UID 9380D28C5B2C40409DD95D71F4A17A2AF53B
+1 NAME K... /Keupe/
+2 SURN Keupe
+2 GIVN K...
+2 NOTE Der Vorname der Person ist im Trauregister unleserlich.
+1 SEX F
+1 FAMS @F190@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 11
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 NOTE Der Vorname der Person ist im Trauregister unleserlich.
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 20:55:49
+0 @I514@ INDI
+1 RIN AB:I514
+1 _UID 97CA8EFF05D74A8E904E9BD98773FA220A64
+1 NAME Herman /Schwart/
+2 SURN Schwart
+2 GIVN Herman
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F191@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 11
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 20:57:41
+0 @I515@ INDI
+1 RIN AB:I515
+1 _UID F69C8287A3504D61AB3C733747A29CB507AA
+1 NAME Elisabeth /Brinckhoff/
+2 SURN Brinckhoff
+2 GIVN Elisabeth
+1 SEX F
+1 FAMS @F191@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 11
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 20:57:31
+0 @I516@ INDI
+1 RIN AB:I516
+1 _UID AE7AB526370B4E9FAEA78970C1C58B079861
+1 NAME Henrich /Kappenberg/
+2 SURN Kappenberg
+2 GIVN Henrich
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F192@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 11
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:00:50
+0 @I517@ INDI
+1 RIN AB:I517
+1 _UID 1A3CAFD50FDA493CB78C0D4184FF36A739CE
+1 NAME Trina /Ber.../
+2 SURN Ber...
+2 GIVN Trina
+2 NOTE Der Nachname der Person ist im Trauregister zu teils unleserlich.
+1 SEX F
+1 FAMS @F192@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 11
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 NOTE Der Nachname der Person ist im Trauregister zu teils unleserlich.
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:01:15
+0 @I518@ INDI
+1 RIN AB:I518
+1 _UID 89E4211269214613B6D1DB63771F870E732F
+1 NAME Gert /Hobbink/
+2 SURN Hobbink
+2 GIVN Gert
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F193@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:02:58
+0 @I519@ INDI
+1 RIN AB:I519
+1 _UID 04CBEFC1CAB6473DA92B35655B14D083B3B0
+1 NAME Stine /Abel/
+2 SURN Abel
+2 GIVN Stine
+1 SEX F
+1 FAMS @F193@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:02:50
+0 @I520@ INDI
+1 RIN AB:I520
+1 _UID BC444E9B43924200B1E4148F583F9B046E3B
+1 NAME Gert /Aschoff/
+2 SURN Aschoff
+2 GIVN Gert
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F194@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:05:04
+0 @I521@ INDI
+1 RIN AB:I521
+1 _UID 6D45155EED5F4F5B8A718F1A009AADB7BD63
+1 NAME ... /Zum Dick/
+2 SURN Zum Dick
+2 GIVN ...
+2 NOTE Der Vorname der Person ist im Trauregister unleserlich.
+1 SEX F
+1 FAMS @F194@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 NOTE Der Vorname der Person ist im Trauregister unleserlich.
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:05:15
+0 @I522@ INDI
+1 RIN AB:I522
+1 _UID A002923DF891444C87CFEA2B22203063CA41
+1 NAME Werner /Linenkamp/
+2 SURN Linenkamp
+2 GIVN Werner
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F195@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:06:59
+0 @I523@ INDI
+1 RIN AB:I523
+1 _UID E7B2CDC789124597A67F04559DC60EC25570
+1 NAME Trina /Westhauß/
+2 SURN Westhauß
+2 GIVN Trina
+1 SEX F
+1 FAMS @F195@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:06:44
+0 @I524@ INDI
+1 RIN AB:I524
+1 _UID 8264054C4BA2492ABA0C7160843AD07B376F
+1 NAME Johan /van dem Boven/
+2 SURN van dem Boven
+2 GIVN Johan
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F196@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:08:14
+0 @I525@ INDI
+1 RIN AB:I525
+1 _UID B289813092564CE7819056B37CC20946AE4F
+1 NAME Gerty /Vagder/
+2 SURN Vagder
+2 GIVN Gerty
+1 SEX F
+1 FAMS @F196@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:08:04
+0 @I526@ INDI
+1 RIN AB:I526
+1 _UID B11D7B4CD86F4605A7DDAD2625602D134357
+1 NAME Jan /Schypper/
+2 SURN Schypper
+2 GIVN Jan
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F197@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:09:43
+0 @I527@ INDI
+1 RIN AB:I527
+1 _UID 96A09E9B8CFD48F3914A1838408C0038621F
+1 NAME Anna /Frigge gen. Höne/
+2 SURN Frigge gen. Höne
+2 GIVN Anna
+1 SEX F
+1 FAMS @F197@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:09:36
+0 @I528@ INDI
+1 RIN AB:I528
+1 _UID E78F3F58A86F43C7A12A565DB691FC6453E7
+1 NAME Johan /Pike/
+2 SURN Pike
+2 GIVN Johan
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F198@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:11:12
+0 @I529@ INDI
+1 RIN AB:I529
+1 _UID 4A303795D56E4AC9A8DEEE612F4DFDC6B0DC
+1 NAME Engel /Pottgeters/
+2 SURN Pottgeters
+2 GIVN Engel
+1 SEX F
+1 FAMS @F198@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:11:04
+0 @I530@ INDI
+1 RIN AB:I530
+1 _UID ED139B7F8510442198641A7110D7A5719864
+1 NAME Herman /Zur Beck/
+2 SURN Zur Beck
+2 GIVN Herman
+1 SEX M
+1 BIRT Y
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F199@
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:12:42
+0 @I531@ INDI
+1 RIN AB:I531
+1 _UID 4D52742B028F486E9C88326731FD1354D70C
+1 NAME Gertrud /Meyer van der Walbeck/
+2 SURN Meyer van der Walbeck
+2 GIVN Gertrud
+1 SEX F
+1 FAMS @F199@
+1 BIRT Y
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+1 RELI evangelisch
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:12:31
+0 @I532@ INDI
+1 RIN AB:I532
+1 _UID BFE7DB256E7F4E7DB01610816DBC4154731F
+1 NAME Johan /Wickede/
+2 SURN Wickede
+2 GIVN Johan
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F200@
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:14:36
+0 @I533@ INDI
+1 RIN AB:I533
+1 _UID 9750F1CC9DC1402E83E8289DD9EE9AEBEC2D
+1 NAME Stina /von Lahe/
+2 SURN von Lahe
+2 GIVN Stina
+1 SEX F
+1 FAMS @F200@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:14:20
+0 @I534@ INDI
+1 RIN AB:I534
+1 _UID F156296EAF20469E8E7CC0BA964A0FC6CADC
+1 NAME /op dem Orht/
+2 SURN op dem Orht
+2 NOTE Der Vorname der person ist im Trauregister offenbar unleserlich oder nicht überliefert.
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+1 FAMS @F201@
+1 NOTE Der Vorname der person ist im Trauregister offenbar unleserlich oder nicht überliefert.
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:17:38
+0 @I535@ INDI
+1 RIN AB:I535
+1 _UID 81FFBB9D5B3B44D4B405AAD8A6BE4EE75A69
+1 NAME Elßke /Löher/
+2 SURN Löher
+2 GIVN Elßke
+1 SEX F
+1 FAMS @F201@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+2 SOUR Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+2 SOUR Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 FAMC @F202@
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:17:47
+0 @I536@ INDI
+1 RIN AB:I536
+1 _UID 4E96588FED0C458CA494D606C0D8CB96A2FD
+1 NAME Johan /Löher/
+2 SURN Löher
+2 GIVN Johan
+1 SEX M
+1 FAMS @F202@
+1 BIRT Y
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:17:56
+0 @I537@ INDI
+1 RIN AB:I537
+1 _UID 59E3162A355146C48B7BA18E12FC7ACB9406
+1 NAME Gerdt /Südtfelt/
+2 SURN Südtfelt
+2 GIVN Gerdt
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F203@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 FAMC @F204@
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:21:23
+0 @I538@ INDI
+1 RIN AB:I538
+1 _UID 6EAFC2BDF8A246CFB4C37BA5008B3A3BE24F
+1 NAME Anna /Willekens/
+2 SURN Willekens
+2 GIVN Anna
+1 SEX F
+1 FAMS @F203@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 FAMS @F205@
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:22:05
+0 @I539@ INDI
+1 RIN AB:I539
+1 _UID 9CE6CB7DD24347CB89FEC7CF2EA2744EA012
+1 NAME Steyfan /Südtfelt/
+2 SURN Südtfelt
+2 GIVN Steyfan
+1 SEX M
+1 FAMS @F204@
+1 BIRT Y
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:21:35
+0 @I540@ INDI
+1 RIN AB:I540
+1 _UID 9541BF3D7683453493D2A87FD82B075E3867
+1 NAME Johannes /Horstmannus/
+2 SURN Horstmannus
+2 GIVN Johannes
+1 SEX M
+1 FAMS @F205@
+1 BIRT Y
+1 OCCU Rektor
+2 SOUR @S4@
+3 _LINK https://www.hammwiki.info/wiki/Johannes_Horstmannus
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 NOTE Rektor der Lateinschule in Hamm
+1 SOUR @S4@
+2 _LINK https://www.hammwiki.info/wiki/Johannes_Horstmannus
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 DEAT
+2 DATE 1614
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 SOUR @S4@
+3 _LINK https://www.hammwiki.info/wiki/Johannes_Horstmannus
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:24:56
+0 @I541@ INDI
+1 RIN AB:I541
+1 _UID 89C9A3C1278A412F952277CFE2C028BF5D43
+1 NAME Jost /Dalhoff/
+2 SURN Dalhoff
+2 GIVN Jost
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F206@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:26:47
+0 @I542@ INDI
+1 RIN AB:I542
+1 _UID 098299CB789F4F9B8F4C8C420A707C51E0B8
+1 NAME Lißke /Kerckman/
+2 SURN Kerckman
+2 GIVN Lißke
+1 SEX F
+1 FAMS @F206@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:26:30
+0 @I543@ INDI
+1 RIN AB:I543
+1 _UID 3903283A813942CE99D0F1E857A491D80E18
+1 NAME Henrich /Schicking/
+2 SURN Schicking
+2 GIVN Henrich
+1 SEX M
+1 BIRT Y
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F207@
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:28:00
+0 @I544@ INDI
+1 RIN AB:I544
+1 _UID E50D246EBED04445B5C1ACF76F03CF493E04
+1 NAME Ennike /Kleebomes/
+2 SURN Kleebomes
+2 GIVN Ennike
+1 SEX F
+1 FAMS @F207@
+1 BIRT Y
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+1 RELI evangelisch
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:27:48
+0 @I545@ INDI
+1 RIN AB:I545
+1 _UID 4A96F1061A7341E3A6170C21E60153822E15
+1 NAME Henrich /Lichtenberg/
+2 SURN Lichtenberg
+2 GIVN Henrich
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F208@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:29:49
+0 @I546@ INDI
+1 RIN AB:I546
+1 _UID AB99B4D0A6A7482FA668016CFD0234296330
+1 NAME Anna /Huffelman/
+2 SURN Huffelman
+2 GIVN Anna
+1 SEX F
+1 FAMS @F208@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 FAMC @F209@
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:29:56
+0 @I547@ INDI
+1 RIN AB:I547
+1 _UID 63252B4450F14D93A2281D6178BDCC8CED67
+1 NAME Henrich /Huffelman/
+2 SURN Huffelman
+2 GIVN Henrich
+1 SEX M
+1 FAMS @F209@
+1 BIRT Y
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:30:06
+0 @I548@ INDI
+1 RIN AB:I548
+1 _UID D2CE1ECCA1D84B1196D65B9F0AE1AFDE3D5B
+1 NAME Evert /Camen/
+2 SURN Camen
+2 GIVN Evert
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+1 FAMS @F210@
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 FAMC @F211@
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:31:38
+0 @I549@ INDI
+1 RIN AB:I549
+1 _UID 38ED87C70A854A8EB65C70A3022F7B11BC90
+1 NAME Catharina /Surmans/
+2 SURN Surmans
+2 GIVN Catharina
+1 SEX F
+1 FAMS @F210@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:31:18
+0 @I550@ INDI
+1 RIN AB:I550
+1 _UID 3BA59D679B1946218C45ADE04C284DDFFD3A
+1 NAME Dirich /Camen/
+2 SURN Camen
+2 GIVN Dirich
+1 SEX M
+1 FAMS @F211@
+1 BIRT Y
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:31:52
+0 @I551@ INDI
+1 RIN AB:I551
+1 _UID 7F11ACAEF6554DDB92D7B923ED40D6CC7173
+1 NAME Johan /Kramer/
+2 SURN Kramer
+2 GIVN Johan
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F212@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:33:27
+0 @I552@ INDI
+1 RIN AB:I552
+1 _UID FAFE88B1EC834EBA810B6CA6475102E0C044
+1 NAME Margreth /van Herbern/
+2 SURN van Herbern
+2 GIVN Margreth
+1 SEX F
+1 FAMS @F212@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:33:12
+0 @I553@ INDI
+1 RIN AB:I553
+1 _UID 1CFB95CF6B644F62A710FBBD3A45701871E0
+1 NAME Merten /Bruser/
+2 SURN Bruser
+2 GIVN Merten
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+1 FAMS @F213@
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:35:42
+0 @I554@ INDI
+1 RIN AB:I554
+1 _UID E1C094356CF640E8A68AA077012D17C343E8
+1 NAME Margaretha /Deipenbecke/
+2 SURN Deipenbecke
+2 GIVN Margaretha
+1 SEX F
+1 FAMS @F213@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:35:30
+0 @I555@ INDI
+1 RIN AB:I555
+1 _UID EFFCF9994DCD421EB03F243683C981EFFC9B
+1 NAME Henrich /Löißman/
+2 SURN Löißman
+2 GIVN Henrich
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F214@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:37:17
+0 @I556@ INDI
+1 RIN AB:I556
+1 _UID 66CCBCD458E04CC38C8B52D7512E70C901B6
+1 NAME Gertrud /Roleffs/
+2 SURN Roleffs
+2 GIVN Gertrud
+1 SEX F
+1 FAMS @F214@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 FAMC @F215@
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:37:24
+0 @I557@ INDI
+1 RIN AB:I557
+1 _UID 098A516138B64A54B75F9923C5472D20FC44
+1 NAME Dirck /Roleffs/
+2 SURN Roleffs
+2 GIVN Dirck
+1 SEX M
+1 FAMS @F215@
+1 BIRT Y
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:37:35
+0 @I558@ INDI
+1 RIN AB:I558
+1 _UID 5057423A9A95412C994012404CAB3FFE1E3D
+1 NAME Johan /Kruman/
+2 SURN Kruman
+2 GIVN Johan
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F216@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:39:27
+0 @I559@ INDI
+1 RIN AB:I559
+1 _UID 4B50C63AE9B54C6BAB41BCC79D1BF43D48E8
+1 NAME Catharina /Konderts/
+2 SURN Konderts
+2 GIVN Catharina
+1 SEX F
+1 FAMS @F216@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 FAMC @F217@
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:39:34
+0 @I560@ INDI
+1 RIN AB:I560
+1 _UID ABE35E14355848679E9D8ED67979FD673145
+1 NAME Gert /Konderts/
+2 SURN Konderts
+2 GIVN Gert
+1 SEX M
+1 FAMS @F217@
+1 BIRT Y
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:39:43
+0 @I561@ INDI
+1 RIN AB:I561
+1 _UID 698A263401B24538BD0FD107D2A6707A83A8
+1 NAME Henrich /Knappe/
+2 SURN Knappe
+2 GIVN Henrich
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F218@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:40:58
+0 @I562@ INDI
+1 RIN AB:I562
+1 _UID 7FA2891E48364C21BDA74D43D2D4B0747173
+1 NAME Trina /Blume/
+2 SURN Blume
+2 GIVN Trina
+1 SEX F
+1 FAMS @F218@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:40:50
+0 @I563@ INDI
+1 RIN AB:I563
+1 _UID A4E174B4714C413DA42987DD7680B7E9AF93
+1 NAME Jost Adolff /Hellinckhuß/
+2 SURN Hellinckhuß
+2 GIVN Jost Adolff
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F219@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 FAMC @F220@
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:42:39
+0 @I564@ INDI
+1 RIN AB:I564
+1 _UID 70F0CA1536744A76BAF019946AE3AF2E2A72
+1 NAME Gertrud /Schmitz/
+2 SURN Schmitz
+2 GIVN Gertrud
+1 SEX F
+1 FAMS @F219@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 FAMC @F221@
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:42:57
+0 @I565@ INDI
+1 RIN AB:I565
+1 _UID 626FF998F7794BD4AEFE8AC0B49F65D978CE
+1 NAME Herman /Hellinckhuß/
+2 SURN Hellinckhuß
+2 GIVN Herman
+1 SEX M
+1 FAMS @F220@
+1 BIRT Y
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:42:49
+0 @I566@ INDI
+1 RIN AB:I566
+1 _UID A46443B38CAA4F7D8DDC8E7D36F4D5B5287A
+1 NAME Wilhelm /Schmitz/
+2 SURN Schmitz
+2 GIVN Wilhelm
+1 SEX M
+1 FAMS @F221@
+1 BIRT Y
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:43:05
+0 @I567@ INDI
+1 RIN AB:I567
+1 _UID D8CFF1319A7C440084999DB243E2B0D135DA
+1 NAME Wilhem /Römling/
+2 SURN Römling
+2 GIVN Wilhem
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F222@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 14
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:44:43
+0 @I568@ INDI
+1 RIN AB:I568
+1 _UID 60C16483C05848FBBA6FDDDD8FD3F9DF80B7
+1 NAME Ennike /Engelmans/
+2 SURN Engelmans
+2 GIVN Ennike
+1 SEX F
+1 FAMS @F222@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 14
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 FAMC @F223@
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:44:48
+0 @I569@ INDI
+1 RIN AB:I569
+1 _UID BE8FBA8B6E304389A99FE40ECC4A03BF0E35
+1 NAME Wolff /Engelmans/
+2 SURN Engelmans
+2 GIVN Wolff
+1 SEX M
+1 FAMS @F223@
+1 BIRT Y
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:44:57
+0 @I570@ INDI
+1 RIN AB:I570
+1 _UID 64781705110541D7B40DE46C0BB184B2294F
+1 NAME Thomas /Kloten/
+2 SURN Kloten
+2 GIVN Thomas
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F224@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 14
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:46:10
+0 @I571@ INDI
+1 RIN AB:I571
+1 _UID 57E3E46633F74544ABE65FEB6F7D4AF23AA6
+1 NAME Anna /Disterbecke/
+2 SURN Disterbecke
+2 GIVN Anna
+1 SEX F
+1 FAMS @F224@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 14
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:45:59
+0 @I572@ INDI
+1 RIN AB:I572
+1 _UID F882B6308E644418BB54F3AD14B9FFF61F9C
+1 NAME Henrich /Criter/
+2 SURN Criter
+2 GIVN Henrich
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F225@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 14
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 FAMC @F226@
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:47:58
+0 @I573@ INDI
+1 RIN AB:I573
+1 _UID D8492A9B04284684888084BC7FE0D152A64E
+1 NAME Ennicke /Criter/
+2 SURN Criter
+2 GIVN Ennicke
+1 SEX F
+1 FAMS @F225@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 14
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:47:43
+0 @I574@ INDI
+1 RIN AB:I574
+1 _UID F3E93092827E444D8BC597714B3B2EE9245C
+1 NAME Johan /Criter/
+2 SURN Criter
+2 GIVN Johan
+1 SEX M
+1 FAMS @F226@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:48:04
+0 @I575@ INDI
+1 RIN AB:I575
+1 _UID 6D7E51138C9C40F38DA5FC781C7C7AF153DA
+1 NAME Bernt /Langkamp/
+2 SURN Langkamp
+2 GIVN Bernt
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F227@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 14
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:50:07
+0 @I576@ INDI
+1 RIN AB:I576
+1 _UID E01B467219E84806947675A7A00253FB185F
+1 NAME Ermegart /Piper/
+2 SURN Piper
+2 GIVN Ermegart
+1 SEX F
+1 FAMS @F227@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 14
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:49:59
+0 @I577@ INDI
+1 RIN AB:I577
+1 _UID 836EADE1D84549EB8E8C71932EA6E12FD21D
+1 NAME Johan /Brakel/
+2 SURN Brakel
+2 GIVN Johan
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F228@
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 14
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:51:47
+0 @I578@ INDI
+1 RIN AB:I578
+1 _UID A9E20D8977134D79A409C1417A7D0F9EC466
+1 NAME Trina /Haselman/
+2 SURN Haselman
+2 GIVN Trina
+1 SEX F
+1 FAMS @F228@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 14
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:51:39
+0 @I579@ INDI
+1 RIN AB:I579
+1 _UID EC8742781F3C40D59CFF7997F26458EBE193
+1 NAME Johan /Mostert/
+2 SURN Mostert
+2 GIVN Johan
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F229@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 14
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 FAMC @F230@
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:53:12
+0 @I580@ INDI
+1 RIN AB:I580
+1 _UID A8558DF09A6B4289A42B02922C3E1C81B4ED
+1 NAME Elske /Kesebaum/
+2 SURN Kesebaum
+2 GIVN Elske
+1 SEX F
+1 FAMS @F229@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 14
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 FAMC @F231@
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:53:32
+0 @I581@ INDI
+1 RIN AB:I581
+1 _UID 22EC689748A042DD9DD4C557FB8E5F1DA65E
+1 NAME Herman /Mostert/
+2 SURN Mostert
+2 GIVN Herman
+1 SEX M
+1 FAMS @F230@
+1 BIRT Y
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:53:24
+0 @I582@ INDI
+1 RIN AB:I582
+1 _UID 3D4E7DD4284243B1A1EB1A7FA6A02279404A
+1 NAME Johan /Kesebaum/
+2 SURN Kesebaum
+2 GIVN Johan
+1 SEX M
+1 FAMS @F231@
+1 BIRT Y
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:53:39
+0 @I583@ INDI
+1 RIN AB:I583
+1 _UID CDDB2833688046ABB72CDB2AB8CA7C4204E3
+1 NAME Stephan /Mackenberg/
+2 SURN Mackenberg
+2 GIVN Stephan
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F232@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 14
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:56:14
+0 @I584@ INDI
+1 RIN AB:I584
+1 _UID 83CB4352E7F44D548CE1539557BB40EEF48C
+1 NAME Hessel (?) /Stoltefort/
+2 SURN Stoltefort
+2 GIVN Hessel (?)
+2 NOTE Der Vorname der Person ist im Trauregister nicht genau lesbar.
+1 SEX F
+1 FAMS @F232@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 14
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 NOTE Der Vorname der Person ist im Trauregister nicht genau lesbar.
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:56:43
+0 @I585@ INDI
+1 RIN AB:I585
+1 _UID A1001E8BC267427698A7B3078FA43246CF7A
+1 NAME Frans /Aßbeck/
+2 SURN Aßbeck
+2 GIVN Frans
+1 SEX M
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 FAMS @F233@
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 14
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 FAMC @F234@
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:58:39
+0 @I586@ INDI
+1 RIN AB:I586
+1 _UID 916D83EFDD40481CB8EEE1EE7DBE20A162E5
+1 NAME Margaretha /Bödekens/
+2 SURN Bödekens
+2 GIVN Margaretha
+1 SEX F
+1 FAMS @F233@
+1 BIRT Y
+1 RELI evangelisch
+1 DEAT Y
+1 SOUR @S3@
+2 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 14
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 FAMC @F235@
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:59:02
+0 @I587@ INDI
+1 RIN AB:I587
+1 _UID E495CA3697CC4AC6AB4BED7BAEB2C9C639F7
+1 NAME Conrad /Aßbeck/
+2 SURN Aßbeck
+2 GIVN Conrad
+1 SEX M
+1 FAMS @F234@
+1 BIRT Y
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:58:52
+0 @I588@ INDI
+1 RIN AB:I588
+1 _UID 550F0236FA8B47C2997F4C6EC9B815AD3FA6
+1 NAME Herman /Bödekens/
+2 SURN Bödekens
+2 GIVN Herman
+1 SEX M
+1 FAMS @F235@
+1 BIRT Y
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 22 SEP 2020
+2 _SDATE 22 SEP 2020
+1 CHAN
+2 DATE 22 SEP 2020
+3 TIME 21:59:12
 0 @S1@ SOUR
 1 TITL Matricula
 0 @S2@ SOUR
@@ -14340,6 +16024,542 @@
 0 @F187@ FAM
 1 HUSB @I503@
 1 WIFE @I504@
+0 @F188@ FAM
+1 HUSB @I508@
+1 WIFE @I509@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 11
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+2 NOTE Die Braut stammt aus Lippborg.
+0 @F189@ FAM
+1 HUSB @I510@
+1 WIFE @I511@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 11
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+0 @F190@ FAM
+1 HUSB @I512@
+1 WIFE @I513@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 11
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+2 NOTE Der Vorname der Braut ist im Trauregister unleserlich.
+0 @F191@ FAM
+1 HUSB @I514@
+1 WIFE @I515@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 11
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+2 NOTE Der Bräutigam stammt aus Kassel. 
+0 @F192@ FAM
+1 HUSB @I516@
+1 WIFE @I517@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 11
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+2 NOTE Der Bräutigam stammt aus dem Kirchspiel Herringen. Die Braut stammt aus dem Kirchspiel Rhynern.
+2 NOTE Der Nachname der Braut ist im Trauregister zu teils unleserlich.
+0 @F193@ FAM
+1 HUSB @I518@
+1 WIFE @I519@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+2 NOTE Der Bräutigam stammt aus Duisburg. Die Braut stammt aus Warendorf.
+0 @F194@ FAM
+1 HUSB @I520@
+1 WIFE @I521@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+2 NOTE Der Bräutigam stammt aus dem Kirchspiel Hövel. Die Braut stammt aus dem Kirchspiel Walstedde.
+2 NOTE Der Vorname der Braut ist im Trauregister unleserlich.
+0 @F195@ FAM
+1 HUSB @I522@
+1 WIFE @I523@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+0 @F196@ FAM
+1 HUSB @I524@
+1 WIFE @I525@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+0 @F197@ FAM
+1 HUSB @I526@
+1 WIFE @I527@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+0 @F198@ FAM
+1 HUSB @I528@
+1 WIFE @I529@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+2 NOTE Die Braut stammt aus Ahlen.
+0 @F199@ FAM
+1 HUSB @I530@
+1 WIFE @I531@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+0 @F200@ FAM
+1 HUSB @I532@
+1 WIFE @I533@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+2 NOTE Die Braut ist die Witwe des Johan von Lahe, Bürger zu Münster.
+0 @F201@ FAM
+1 HUSB @I534@
+1 WIFE @I535@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+2 NOTE Die Braut ist die Tochter des verstorbenen Johan Löher, Bürger zu Münster.
+2 NOTE Der Vorname des Bräutigams ist im Trauregister offenbar unleserlich oder nicht überliefert.
+0 @F202@ FAM
+1 HUSB @I536@
+1 CHIL @I535@
+0 @F203@ FAM
+1 HUSB @I537@
+1 WIFE @I538@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 12
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+2 NOTE Die Braut ist die Witwe des verstorbenen Rektors Johannis Horstmann. 
+0 @F204@ FAM
+1 HUSB @I539@
+1 CHIL @I537@
+0 @F205@ FAM
+1 WIFE @I538@
+1 HUSB @I540@
+0 @F206@ FAM
+1 HUSB @I541@
+1 WIFE @I542@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+2 NOTE Die Braut stammt aus dem Kirchspiel Heessen.
+0 @F207@ FAM
+1 HUSB @I543@
+1 WIFE @I544@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+2 NOTE Der Bräutigam stammt aus dem Kirchspiel Herbern.
+0 @F208@ FAM
+1 HUSB @I545@
+1 WIFE @I546@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+2 NOTE Der Brautvater lebt in Amecke.
+0 @F209@ FAM
+1 HUSB @I547@
+1 CHIL @I546@
+0 @F210@ FAM
+1 HUSB @I548@
+1 WIFE @I549@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+2 NOTE Die Braut stammt aus dem Kirchspiel Werne.
+0 @F211@ FAM
+1 HUSB @I550@
+1 CHIL @I548@
+0 @F212@ FAM
+1 HUSB @I551@
+1 WIFE @I552@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+2 NOTE Der Bräutigam stammt aus Lünen (?).
+0 @F213@ FAM
+1 HUSB @I553@
+1 WIFE @I554@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+2 NOTE Der Bräutigam stammt aus dem Kirchspiel Sendenhorst (Sennehorst).
+0 @F214@ FAM
+1 HUSB @I555@
+1 WIFE @I556@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+2 NOTE Die Braut stammt aus dem Kirchspiel Lünen.
+0 @F215@ FAM
+1 HUSB @I557@
+1 CHIL @I556@
+0 @F216@ FAM
+1 HUSB @I558@
+1 WIFE @I559@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+2 NOTE Der Bräutigam stammt aus Bockum.
+0 @F217@ FAM
+1 HUSB @I560@
+1 CHIL @I559@
+0 @F218@ FAM
+1 HUSB @I561@
+1 WIFE @I562@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+0 @F219@ FAM
+1 HUSB @I563@
+1 WIFE @I564@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 13
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+2 NOTE Der Brautvater lebt in Ahlen.
+0 @F220@ FAM
+1 HUSB @I565@
+1 CHIL @I563@
+0 @F221@ FAM
+1 HUSB @I566@
+1 CHIL @I564@
+0 @F222@ FAM
+1 HUSB @I567@
+1 WIFE @I568@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 14
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+0 @F223@ FAM
+1 HUSB @I569@
+1 CHIL @I568@
+0 @F224@ FAM
+1 HUSB @I570@
+1 WIFE @I571@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 14
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+0 @F225@ FAM
+1 HUSB @I572@
+1 WIFE @I573@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 14
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+2 NOTE Der Bräutigam stammt aus Ahlen.
+0 @F226@ FAM
+1 HUSB @I574@
+1 CHIL @I572@
+0 @F227@ FAM
+1 HUSB @I575@
+1 WIFE @I576@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 14
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+2 NOTE Der Bräutigam stammt aus dem Kirchspiel Freckenhorst.
+0 @F228@ FAM
+1 HUSB @I577@
+1 WIFE @I578@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 14
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+2 NOTE Die Braut stammt aus dem Kirchspiel Ahlen.
+0 @F229@ FAM
+1 HUSB @I579@
+1 WIFE @I580@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 14
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+0 @F230@ FAM
+1 HUSB @I581@
+1 CHIL @I579@
+0 @F231@ FAM
+1 HUSB @I582@
+1 CHIL @I580@
+0 @F232@ FAM
+1 HUSB @I583@
+1 WIFE @I584@
+1 MARR
+2 SOUR @S3@
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 14
+2 NOTE Der Bräutigam stammt aus dem Kirchspiel von Sinnickhusen. Die Braut stammt aus dem Kirchspiel Flierich.
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+2 NOTE Der Vorname der Braut ist im Trauregister nicht genau lesbar.
+0 @F233@ FAM
+1 HUSB @I585@
+1 WIFE @I586@
+1 MARR
+2 DATE 1616
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI evangelisch
+2 TYPE RELI
+2 NOTE Der Eintrag verzeichnet, dass Herman Bödekens, Kämmerer in Hamm, gewesen ist und zum Zeitpunkt des Traueintrag verstorben war.
+2 SOUR Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 14
+2 SOUR Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 14
+2 SOUR Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 14
+0 @F234@ FAM
+1 HUSB @I587@
+1 CHIL @I585@
+0 @F235@ FAM
+1 HUSB @I588@
+1 CHIL @I586@
 0 @SUBM@ SUBM
 1 NAME Michael Johne
 1 ADDR Michael Johne
