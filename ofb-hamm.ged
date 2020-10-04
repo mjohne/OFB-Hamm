@@ -4,7 +4,7 @@
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 4 OCT 2020
-2 TIME 17:38:17
+2 TIME 23:02:18
 1 SUBM @SUBM@
 1 FILE ofb-hamm.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I811@
-1 _HOME @I811@
+2 _NAVI @I878@
+1 _HOME @I878@
 0 @I1@ INDI
 1 RIN AB:I1
 1 _UID 4EB661D5ACFE49AAAB528691A2E80DB03210
@@ -21384,6 +21384,1707 @@
 1 FAMS @F297@
 1 _UID 985410BBA9854E198F83B4A2CF073C995F2C
 1 RELI protestantisch
+0 @I824@ INDI
+1 RIN AB:I824
+1 _UID D1BEEB533EF6489F80FB7E2F3B42F25BDAD1
+1 NAME Iwan /Ilenkowski/
+2 SURN Ilenkowski
+2 GIVN Iwan
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=132&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 25 JUN 1925
+1 BURI
+2 DATE 1945
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=132&b=&lang=de
+1 DEAT
+2 DATE 13 MAR 1945
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 20:41:35
+0 @I825@ INDI
+1 RIN AB:I825
+1 _UID 094987F2F90045249BFD656DA080FE2ADF8D
+1 NAME Werner /Immig/
+2 SURN Immig
+2 GIVN Werner
+1 SEX M
+1 FAMS @F300@
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=26&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1932
+1 BURI
+2 DATE 2004
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=26&b=&lang=de
+1 DEAT
+2 DATE 2004
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 20:44:23
+0 @I826@ INDI
+1 RIN AB:I826
+1 _UID 496CDD4858B44858B401BD415429303F252A
+1 NAME Erna
+2 GIVN Erna
+2 _MARNM Immig
+1 SEX F
+1 FAMS @F300@
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=26&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1932
+1 DEAT
+2 DATE 2016
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=26&b=&lang=de
+2 DATE 2016
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 20:43:59
+0 @I827@ INDI
+1 RIN AB:I827
+1 _UID FC3007D1ACA8426D8D0152028601291DB62F
+1 NAME Herta /Iser/
+2 SURN Iser
+2 GIVN Herta
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=193&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1936
+1 DEAT
+2 DATE 2014
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=193&b=&lang=de
+2 DATE 2014
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 20:48:32
+0 @I828@ INDI
+1 RIN AB:I828
+1 _UID 45DFD74E7E03430DB49270075AB42A202F8E
+1 NAME Maria /Kahlert/
+2 SURN Kahlert
+2 GIVN Maria
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=341&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 30 DEC 1914
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=341&b=&lang=de
+2 DATE 2004
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 14 JAN 2004
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 20:50:16
+0 @I829@ INDI
+1 RIN AB:I829
+1 _UID 9D0D9CB84D2F4DC197473D9F4AB485975CF6
+1 NAME Ralf /Kaufmann/
+2 SURN Kaufmann
+2 GIVN Ralf
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=370&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1943
+1 DEAT
+2 DATE 2017
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=370&b=&lang=de
+2 DATE 2017
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 20:54:23
+0 @I830@ INDI
+1 RIN AB:I830
+1 _UID A9ED0D6293EA47A7BF7F08295305DFE8FE29
+1 NAME Friedrich /Kemmler/
+2 SURN Kemmler
+2 GIVN Friedrich
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=163&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1929
+1 DEAT
+2 DATE 2016
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=163&b=&lang=de
+2 DATE 2016
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 21:01:54
+0 @I831@ INDI
+1 RIN AB:I831
+1 _UID 18A0CB7BB1854556B98FD652A286797151C0
+1 NAME Marian /Kempski/
+2 SURN Kempski
+2 GIVN Marian
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=170&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 9 APR 1949
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=170&b=&lang=de
+2 DATE 2016
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 13 OCT 2016
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 21:03:01
+0 @I832@ INDI
+1 RIN AB:I832
+1 _UID A8B93C4F905749DF95DFC3346ADD6CD1EA0F
+1 NAME Fritz /Kilsch/
+2 SURN Kilsch
+2 GIVN Fritz
+1 SEX M
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 218
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=114&b=&lang=de
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=114&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 21:04:56
+0 @I833@ INDI
+1 RIN AB:I833
+1 _UID 273E025E6E354F9B9BF79E79858351AE0283
+1 NAME Otto /Kleinschmidt/
+2 SURN Kleinschmidt
+2 GIVN Otto
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=62&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 17 MAR 1928
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=62&b=&lang=de
+2 DATE 2007
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 17 APR 2007
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 21:07:49
+0 @I834@ INDI
+1 RIN AB:I834
+1 _UID B0506F3735164C6D959739256862F98F86E7
+1 NAME Emma /Klein/
+2 SURN Klein
+2 GIVN Emma
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=119&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1924
+1 DEAT
+2 DATE 2017
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=119&b=&lang=de
+2 DATE 2017
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 21:09:24
+0 @I835@ INDI
+1 RIN AB:I835
+1 _UID CE26E5DF0ABB4723818E254C9328756F06D6
+1 NAME Walter /Klein/
+2 SURN Klein
+2 GIVN Walter
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=119&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 4
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1926
+1 DEAT
+2 DATE 2003
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=119&b=&lang=de
+2 DATE 2003
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 21:11:14
+0 @I836@ INDI
+1 RIN AB:I836
+1 _UID 891B7AF76EB04854958DE6BE03514A7DB085
+1 NAME Arnold /Kinne/
+2 SURN Kinne
+2 GIVN Arnold
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=230&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 FAMS @F301@
+1 BIRT
+2 DATE 1928
+1 DEAT
+2 DATE 1998
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=230&b=&lang=de
+2 DATE 1998
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 21:13:33
+0 @I837@ INDI
+1 RIN AB:I837
+1 _UID C1705F67684F4E26879718A67543279C7962
+1 NAME Anni
+2 GIVN Anni
+2 _MARNM Kinne
+1 SEX F
+1 FAMS @F301@
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1929
+1 DEAT
+2 DATE 2009
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=230&b=&lang=de
+2 DATE 2009
+2 PLAC Weetfeld, Pelkum, Hamm, Nordrhein-Westfalen
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 21:16:40
+0 @I838@ INDI
+1 RIN AB:I838
+1 _UID 75C926C35B4E4FF5A83F2C429BB485E52225
+1 NAME Walter /Keul/
+2 SURN Keul
+2 GIVN Walter
+1 SEX M
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 FAMS @F302@
+1 BIRT
+2 DATE 1930
+1 DEAT
+2 DATE 2012
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=246&b=&lang=de
+2 DATE 2012
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 21:21:59
+0 @I839@ INDI
+1 RIN AB:I839
+1 _UID ED494B4497DF448CBD0862BFFA8D2C882C78
+1 NAME Margarete
+2 GIVN Margarete
+2 _MARNM Keul
+1 SEX F
+1 FAMS @F302@
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=246&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1931
+1 DEAT
+2 DATE 2017
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=246&b=&lang=de
+2 DATE 2017
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 21:22:59
+0 @I840@ INDI
+1 RIN AB:I840
+1 _UID 0394CD786768450CB190C269A8CA19F6E9CB
+1 NAME Hans /Keil/
+2 SURN Keil
+2 GIVN Hans
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=166&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1944
+1 DEAT
+2 DATE 2016
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=166&b=&lang=de
+2 DATE 2016
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 21:24:45
+0 @I841@ INDI
+1 RIN AB:I841
+1 _UID 365BE9B339F94F3FB3B2D1E567EAC7B2D2A5
+1 NAME Lieselotte /Keil/
+2 SURN Keil
+2 GIVN Lieselotte
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=144&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1920
+1 DEAT
+2 DATE 2017
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=144&b=&lang=de
+2 DATE 2017
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 21:26:44
+0 @I842@ INDI
+1 RIN AB:I842
+1 _UID 68610AE9979D4247A4D1E06C7A787C933B84
+1 NAME Ludwig /Jahns/
+2 SURN Jahns
+2 GIVN Ludwig
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=135&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 FAMS @F303@
+1 BIRT
+2 DATE 1918
+1 DEAT
+2 DATE 1977
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=135&b=&lang=de
+2 DATE 1977
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 21:31:15
+0 @I843@ INDI
+1 RIN AB:I843
+1 _UID DB3B0B0740E84CA68D042E02C131799907A4
+1 NAME Hildegard
+2 GIVN Hildegard
+2 _MARNM Jahns
+1 SEX F
+1 FAMS @F303@
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=135&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1911
+1 DEAT
+2 DATE 1984
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=135&b=&lang=de
+2 DATE 1984
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 21:32:15
+0 @I844@ INDI
+1 RIN AB:I844
+1 _UID CC04C72CD6EA496FAE164C092709F0269AAD
+1 NAME Friedhelm /Jahns/
+2 SURN Jahns
+2 GIVN Friedhelm
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=135&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1943
+1 DEAT
+2 DATE 2001
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=135&b=&lang=de
+2 DATE 2001
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 21:35:36
+0 @I845@ INDI
+1 RIN AB:I845
+1 _UID 9BCC9C14D6EF4097ADABB523E81E458DBB5F
+1 NAME Rolf /Kloschinski/
+2 SURN Kloschinski
+2 GIVN Rolf
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=235&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 FAMS @F304@
+1 BIRT
+2 DATE 1935
+1 DEAT
+2 DATE 1997
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=235&b=&lang=de
+2 DATE 1997
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 21:41:31
+0 @I846@ INDI
+1 RIN AB:I846
+1 _UID 4124AF0431774B39B9EA55797975C3CC3268
+1 NAME Gudrun
+2 GIVN Gudrun
+2 _MARNM Kloschinski
+1 SEX F
+1 FAMS @F304@
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=235&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1938
+1 DEAT
+2 DATE 2000
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=235&b=&lang=de
+2 DATE 2000
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 21:42:23
+0 @I847@ INDI
+1 RIN AB:I847
+1 _UID BA858D72252842D4BAB8D2A58F7CB6B1FC31
+1 NAME Heinrich /Knispel/
+2 SURN Knispel
+2 GIVN Heinrich
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=149&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1929
+1 DEAT
+2 DATE 2017
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=149&b=&lang=de
+2 DATE 2017
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 21:49:11
+0 @I848@ INDI
+1 RIN AB:I848
+1 _UID C835282BFEF841F9B13249508FB25CDD76E8
+1 NAME Hilde /Knoppe/
+2 SURN Knoppe
+2 GIVN Hilde
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=245&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1930
+1 DEAT
+2 DATE 2016
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=245&b=&lang=de
+2 DATE 2016
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 21:50:04
+0 @I849@ INDI
+1 RIN AB:I849
+1 _UID C77CD91546414E368AD37F7F58C694E52EF1
+1 NAME Hans /Kochanski/
+2 SURN Kochanski
+2 GIVN Hans
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=277&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1924
+1 DEAT
+2 DATE 2012
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=277&b=&lang=de
+2 DATE 2012
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 21:51:25
+0 @I850@ INDI
+1 RIN AB:I850
+1 _UID 875A82B211844F9590A4CAA2BAF03FA8BF67
+1 NAME Otto /Köchling/
+2 SURN Köchling
+2 GIVN Otto
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=342&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1925
+1 DEAT
+2 DATE 2003
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=342&b=&lang=de
+2 DATE 2003
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 21:53:24
+0 @I851@ INDI
+1 RIN AB:I851
+1 _UID 0445C050A9C546C39943482745A3C35A20C2
+1 NAME Maria /Köchling/
+2 SURN Köchling
+2 GIVN Maria
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=12&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 4 FEB 1935
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=12&b=&lang=de
+2 DATE 2017
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 21 FEB 2017
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 21:55:34
+0 @I852@ INDI
+1 RIN AB:I852
+1 _UID A51BD944C2E34DB9A2E8C8A5D490D25C11E4
+1 NAME Klaus /Köhler/
+2 SURN Köhler
+2 GIVN Klaus
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=317&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1948
+1 DEAT
+2 DATE 2007
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=317&b=&lang=de
+2 DATE 2007
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 21:59:26
+0 @I853@ INDI
+1 RIN AB:I853
+1 _UID 1DE534BE8BF7404A956645B7AFFDD18AFE76
+1 NAME Siegfried /Kölling/
+2 SURN Kölling
+2 GIVN Siegfried
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=264&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1930
+1 DEAT
+2 DATE 2013
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=264&b=&lang=de
+2 DATE 2013
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 22:04:47
+0 @I854@ INDI
+1 RIN AB:I854
+1 _UID 32F69018F2D24A50A6D8051EE1AACBCCF164
+1 NAME Alfred /Kovacs/
+2 SURN Kovacs
+2 GIVN Alfred
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=223&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1930
+1 DEAT
+2 DATE 2012
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=223&b=&lang=de
+2 DATE 2012
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 22:05:41
+0 @I855@ INDI
+1 RIN AB:I855
+1 _UID BBA8F01365174354869C65ACCEFC3A30E0E8
+1 NAME Dirk /Kozlik/
+2 SURN Kozlik
+2 GIVN Dirk
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=256&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 13 NOV 1966
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=256&b=&lang=de
+2 DATE 2012
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 9 MAR 2012
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 22:06:54
+0 @I856@ INDI
+1 RIN AB:I856
+1 _UID A42473BBA9EA4CB786BC91FF9C0040A3DDCE
+1 NAME Ernst /Mack/
+2 SURN Mack
+2 GIVN Ernst
+1 SEX M
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=7&b=&lang=de
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=7&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 FAMS @F305@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 22:08:15
+0 @I857@ INDI
+1 RIN AB:I857
+1 _UID 074A14856AF84A239463C4F5DEC436F13235
+1 NAME Ida /Krivan/
+2 SURN Krivan
+2 GIVN Ida
+1 SEX F
+1 FAMS @F305@
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=7&b=&lang=de
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=7&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 22:08:51
+0 @I858@ INDI
+1 RIN AB:I858
+1 _UID FA2B740A127548AD9A55DD461FB8FDB0B5C0
+1 NAME Erich /Krüger/
+2 SURN Krüger
+2 GIVN Erich
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=257&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 FAMS @F306@
+1 BIRT
+2 DATE 1922
+1 DEAT
+2 DATE 2012
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=257&b=&lang=de
+2 DATE 2012
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 22:11:26
+0 @I859@ INDI
+1 RIN AB:I859
+1 _UID 8FAF00FD90D14BE5902FCB49308B285FE1C8
+1 NAME Vera
+2 GIVN Vera
+2 _MARNM Krüger
+1 SEX F
+1 FAMS @F306@
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=257&b=&lang=de
+1 BIRT
+2 DATE 1928
+1 DEAT
+2 DATE 2016
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=257&b=&lang=de
+2 DATE 2016
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 22:12:36
+0 @I860@ INDI
+1 RIN AB:I860
+1 _UID 315B7A665EE942898C43BAB64E7A5FEBCF7D
+1 NAME Josef /Krych/
+2 SURN Krych
+2 GIVN Josef
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=138&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 FAMS @F307@
+1 BIRT
+2 DATE 1940
+1 DEAT
+2 DATE 2005
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=138&b=&lang=de
+2 DATE 2005
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 22:13:56
+0 @I861@ INDI
+1 RIN AB:I861
+1 _UID B7F8B0C0EA1D4A228BDA51B400252013541F
+1 NAME Ursula
+2 GIVN Ursula
+2 _MARNM Krych
+1 SEX F
+1 FAMS @F307@
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=138&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1937
+1 DEAT
+2 DATE 1999
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=138&b=&lang=de
+2 DATE 1999
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 22:14:56
+0 @I862@ INDI
+1 RIN AB:I862
+1 _UID FD6A88ADB293443B8542FC4353A765C98EA4
+1 NAME Karl-Heinz /Kühnel/
+2 SURN Kühnel
+2 GIVN Karl-Heinz
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=372&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1936
+1 DEAT
+2 DATE 2017
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=372&b=&lang=de
+2 DATE 2017
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 22:16:52
+0 @I863@ INDI
+1 RIN AB:I863
+1 _UID DAA0DB879E3C449F869255A6FA26713E7BF4
+1 NAME Hans /Küpper/
+2 SURN Küpper
+2 GIVN Hans
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=30&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1928
+1 DEAT
+2 DATE 2002
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=30&b=&lang=de
+2 DATE 2002
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 22:18:11
+0 @I864@ INDI
+1 RIN AB:I864
+1 _UID 61E6806AA4F24ED3BBE927EC28FF49DCEB41
+1 NAME Georg /Kürten/
+2 SURN Kürten
+2 GIVN Georg
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=286&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1928
+1 DEAT
+2 DATE 2008
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=286&b=&lang=de
+2 DATE 2008
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 22:20:39
+0 @I865@ INDI
+1 RIN AB:I865
+1 _UID 2AA1553B912A4B42988713EFDFDE83E6EA1E
+1 NAME Wolfgang /Kuß/
+2 SURN Kuß
+2 GIVN Wolfgang
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=306&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 25 SEP 1941
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=306&b=&lang=de
+2 DATE 2004
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 17 OCT 2004
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 22:27:50
+0 @I866@ INDI
+1 RIN AB:I866
+1 _UID FE55D1A9AFB443F98A2941C9E1C2F2D99796
+1 NAME Renate /Kwas/
+2 SURN Kwas
+2 GIVN Renate
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=269&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1933
+1 DEAT
+2 DATE 2012
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=269&b=&lang=de
+2 DATE 2012
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 22:28:44
+0 @I867@ INDI
+1 RIN AB:I867
+1 _UID 3AE12A6E1BC2424587783F5C3BF5F36E4231
+1 NAME Detlef /Kujawa/
+2 SURN Kujawa
+2 GIVN Detlef
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=48&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1961
+1 DEAT
+2 DATE 2013
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=48&b=&lang=de
+2 DATE 2013
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 22:30:39
+0 @I868@ INDI
+1 RIN AB:I868
+1 _UID 4C9DDF7687CE426FAFC304ECAE2F64DDC437
+1 NAME Siegfried /Kujawa/
+2 SURN Kujawa
+2 GIVN Siegfried
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=87&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 FAMS @F308@
+1 BIRT
+2 DATE 7 JAN 1934
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=87&b=&lang=de
+2 DATE 2001
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 5 JUN 2001
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 22:33:20
+0 @I869@ INDI
+1 RIN AB:I869
+1 _UID AB15BD4D7BAB4B368B8753F2AA9BFD242E67
+1 NAME Marianna
+2 GIVN Marianna
+2 _MARNM Kujawa
+1 SEX F
+1 FAMS @F308@
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=87&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 16 NOV 1941
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=87&b=&lang=de
+2 DATE 2015
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 12 JUL 2015
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 22:34:25
+0 @I870@ INDI
+1 RIN AB:I870
+1 _UID F64A6880BABD40E9AB26EE43C1CE1EFF765C
+1 NAME Christel /Krämer/
+2 SURN Krämer
+2 GIVN Christel
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=100&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 5 DEC 1936
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=100&b=&lang=de
+2 DATE 2004
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 30 MAY 2004
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 22:37:35
+0 @I871@ INDI
+1 RIN AB:I871
+1 _UID 3DD2DC291E114AB99E857B5B0B0BDB71A173
+1 NAME Arnim /Krämer/
+2 SURN Krämer
+2 GIVN Arnim
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=226&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 FAMS @F309@
+1 BIRT
+2 DATE 1935
+1 DEAT
+2 DATE 1998
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=226&b=&lang=de
+2 DATE 1998
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 22:39:42
+0 @I872@ INDI
+1 RIN AB:I872
+1 _UID F4D10EB2FC0B46FD860CE6A0C10900F2A350
+1 NAME Monika
+2 GIVN Monika
+2 _MARNM Krämer
+1 SEX F
+1 FAMS @F309@
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=226&b=&lang=de
+1 BIRT
+2 DATE 1949
+1 DEAT
+2 DATE 2008
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=226&b=&lang=de
+2 DATE 2008
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 22:40:55
+0 @I873@ INDI
+1 RIN AB:I873
+1 _UID F3DF98BB552341878433578F741B335A1E11
+1 NAME Anneliese /Krause/
+2 SURN Krause
+2 GIVN Anneliese
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=288&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 21 FEB 1934
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=288&b=&lang=de
+2 DATE 2008
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 19 JUL 2008
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 22:45:36
+0 @I874@ INDI
+1 RIN AB:I874
+1 _UID F6F20155DA304EE98FD8F1EBB099D07E59B8
+1 NAME Gerhard /Krause/
+2 SURN Krause
+2 GIVN Gerhard
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=15&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1933
+1 DEAT
+2 DATE 2010
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=15&b=&lang=de
+2 DATE 2010
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 22:46:47
+0 @I875@ INDI
+1 RIN AB:I875
+1 _UID 97A03781CCEF4F1AAA19594ACF7EBDD154BC
+1 NAME Hans-Georg /Krause/
+2 SURN Krause
+2 GIVN Hans-Georg
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=251&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 28 AUG 1944
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=251&b=&lang=de
+2 DATE 2011
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 28 SEP 2011
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 22:57:02
+0 @I876@ INDI
+1 RIN AB:I876
+1 _UID 0BFDBDCDFA1043C18F2A372129EC2D8073E0
+1 NAME Relinde /Krause/
+2 SURN Krause
+2 GIVN Relinde
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=158&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1934
+1 DEAT
+2 DATE 2017
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=158&b=&lang=de
+2 DATE 2017
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 22:59:12
+0 @I877@ INDI
+1 RIN AB:I877
+1 _UID 48CD5314090546A2B2C49BB8860A94B21158
+1 NAME Heinz /Krause/
+2 SURN Krause
+2 GIVN Heinz
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=196&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 FAMS @F310@
+1 BIRT
+2 DATE 1927
+1 DEAT
+2 DATE 2015
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=196&b=&lang=de
+2 DATE 2015
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 23:00:37
+0 @I878@ INDI
+1 RIN AB:I878
+1 _UID BB2226FC9A3844C09CD11BE7B12998DA909B
+1 NAME Erika
+2 GIVN Erika
+2 _MARNM Krause
+1 SEX F
+1 FAMS @F310@
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=196&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1926
+1 DEAT
+2 DATE 2013
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=196&b=&lang=de
+2 DATE 2013
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 23:01:22
 0 @S1@ SOUR
 1 TITL Matricula
 0 @S2@ SOUR
@@ -24051,6 +25752,39 @@
 1 CHIL @I821@
 1 CHIL @I822@
 1 CHIL @I823@
+0 @F300@ FAM
+1 HUSB @I825@
+1 WIFE @I826@
+0 @F301@ FAM
+1 HUSB @I836@
+1 WIFE @I837@
+0 @F302@ FAM
+1 HUSB @I838@
+1 WIFE @I839@
+0 @F303@ FAM
+1 HUSB @I842@
+1 WIFE @I843@
+0 @F304@ FAM
+1 HUSB @I845@
+1 WIFE @I846@
+0 @F305@ FAM
+1 HUSB @I856@
+1 WIFE @I857@
+0 @F306@ FAM
+1 HUSB @I858@
+1 WIFE @I859@
+0 @F307@ FAM
+1 HUSB @I860@
+1 WIFE @I861@
+0 @F308@ FAM
+1 HUSB @I868@
+1 WIFE @I869@
+0 @F309@ FAM
+1 HUSB @I871@
+1 WIFE @I872@
+0 @F310@ FAM
+1 HUSB @I877@
+1 WIFE @I878@
 0 @SUBM@ SUBM
 1 NAME Michael Johne
 1 ADDR Michael Johne
