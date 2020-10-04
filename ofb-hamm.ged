@@ -4,7 +4,7 @@
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 4 OCT 2020
-2 TIME 12:17:26
+2 TIME 17:38:17
 1 SUBM @SUBM@
 1 FILE ofb-hamm.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I622@
-1 _HOME @I622@
+2 _NAVI @I811@
+1 _HOME @I811@
 0 @I1@ INDI
 1 RIN AB:I1
 1 _UID 4EB661D5ACFE49AAAB528691A2E80DB03210
@@ -1128,8 +1128,8 @@
 1 NAME Johan/Joan /Wilmes/Wilmes gen. Voß/Groß/
 2 SURN Wilmes/Wilmes gen. Voß/Groß
 2 GIVN Johan/Joan
-2 NOTE alternative Nachnamen: Wilmes, Wilmes gen. Voß, Wilmes gen. Groß
-2 NOTE Der Nachname dieser Person wird in Taufeintrag seiner Kinder zu teils unterschiedlich wiedergegeben: im Taufeintrag seiner Tochter Clara (~ 1643) ist der Nachname WILMES angegeben, im Taufeintrag seines Sohnes Georgius (~ 1649) ist der Nachname 
+2 NOTE alternative Nachnamen: Wilmes  Wilmes gen. Voß  Wilmes gen. Groß
+2 NOTE Der Nachname dieser Person wird in Taufeintrag seiner Kinder zu teils unterschiedlich wiedergegeben: im Taufeintrag seiner Tochter Clara (~ 1643) ist der Nachname WILMES angegeben  im Taufeintrag seines Sohnes Georgius (~ 1649) ist der Nachname 
 3 CONC WILMES GEN. VOẞ angegeben und im Taufeintrag seines Sohnes Jodocus (~ 1649) ist der Nachname WILMES GEN. GROẞ angegeben.
 1 SEX M
 1 FAMS @F18@
@@ -8741,7 +8741,7 @@
 1 NAME Christianus /Breer/
 2 SURN Breer
 2 GIVN Christianus
-2 NOTE Der Vorname des Vaters wurde im Taufeintrag als BREER niedergeschrieben, statt als BREER GEN. ROGGE.
+2 NOTE Der Vorname des Vaters wurde im Taufeintrag als BREER niedergeschrieben  statt als BREER GEN. ROGGE.
 1 SEX M
 1 FAMC @F90@
 1 RELI katholisch
@@ -8784,7 +8784,7 @@
 1 _UID 21F23F1C82FE4BA7A624B42113A912C41123
 1 NAME Everhardus
 2 GIVN Everhardus
-2 NOTE Der Nachname dieser Person ist nicht lesbar, da der Taufeintrag verblasst ist. Nur der Vornam ist lesbar.
+2 NOTE Der Nachname dieser Person ist nicht lesbar  da der Taufeintrag verblasst ist. Nur der Vornam ist lesbar.
 1 SEX M
 1 RELI katholisch
 1 DEAT Y
@@ -8998,7 +8998,7 @@
 2 SURN Voß
 2 GIVN Henrich
 2 SOUR @S3@
-3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 5
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen  Kirchenkreis Hamm  Hamm  Bd. 1 Trauungen 1615-1695  p. 5
 1 SEX M
 1 BIRT Y
 1 RELI evangelisch
@@ -9019,7 +9019,7 @@
 2 SURN Balte
 2 GIVN Marge
 2 SOUR @S1@
-3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 5
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen  Kirchenkreis Hamm  Hamm  Bd. 1 Trauungen 1615-1695  p. 5
 1 SEX F
 1 FAMS @F103@
 1 BIRT Y
@@ -9040,7 +9040,7 @@
 2 SURN Humbock
 2 GIVN Johan
 2 SOUR @S3@
-3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 5
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen  Kirchenkreis Hamm  Hamm  Bd. 1 Trauungen 1615-1695  p. 5
 1 SEX M
 1 BIRT Y
 1 RELI evangelisch
@@ -9061,7 +9061,7 @@
 2 SURN Kapelle
 2 GIVN Anna
 2 SOUR @S3@
-3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen, Kirchenkreis Hamm, Hamm, Bd. 1 Trauungen 1615-1695, p. 5
+3 PAGE Landeskirchliches Archiv der Evangelischen Kirche von Westfalen  Kirchenkreis Hamm  Hamm  Bd. 1 Trauungen 1615-1695  p. 5
 1 SEX F
 1 FAMS @F104@
 1 BIRT Y
@@ -9731,7 +9731,7 @@
 1 _UID 74FA4134E91F44C597692B1E1E0800F2559F
 1 NAME Henrich
 2 GIVN Henrich
-2 NOTE Diese Person kann keinen verzeichneten Nachnamen, da im Taufeintrag der Vater nur als "Henrich" ohne nachnamen wiedergegeben worden ist.
+2 NOTE Diese Person kann keinen verzeichneten Nachnamen  da im Taufeintrag der Vater nur als "Henrich" ohne nachnamen wiedergegeben worden ist.
 1 SEX M
 1 RELI katholisch
 1 DEAT Y
@@ -18674,6 +18674,2716 @@
 1 CHAN
 2 DATE 4 OCT 2020
 3 TIME 11:31:44
+0 @I740@ INDI
+1 RIN AB:I740
+1 _UID 668555BED19E42FABAD2FD1D1E60A454C5AC
+1 NAME E. /Gröschner/
+2 SURN Gröschner
+2 GIVN E.
+1 SEX U
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=351&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1922
+1 DEAT
+2 DATE 2001
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=351&b=&lang=de
+2 DATE 2001
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 12:26:29
+0 @I741@ INDI
+1 RIN AB:I741
+1 _UID 9F69B039F88942AD95A3FE659AAEA0FFE383
+1 NAME Heti /Grotjahn/
+2 SURN Grotjahn
+2 GIVN Heti
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=300&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1913
+1 DEAT
+2 DATE 2005
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=300&b=&lang=de
+2 DATE 2005
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 12:28:24
+0 @I742@ INDI
+1 RIN AB:I742
+1 _UID FEBCE85F43C94F638218C4D3EDC50CB96702
+1 NAME Max /Grundmann/
+2 SURN Grundmann
+2 GIVN Max
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=274&b=&lang=de
+1 FAMS @F279@
+1 BIRT
+2 DATE 1922
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=274&b=&lang=de
+2 DATE 2008
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 2008
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 12:29:48
+0 @I743@ INDI
+1 RIN AB:I743
+1 _UID E9741144F8224BBABA03CF7641B4800E5687
+1 NAME Agnes
+2 GIVN Agnes
+2 _MARNM Grundmann
+1 SEX F
+1 FAMS @F279@
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=274&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1921
+1 DEAT
+2 DATE 2014
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=274&b=&lang=de
+2 DATE 2014
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 12:30:33
+0 @I744@ INDI
+1 RIN AB:I744
+1 _UID A694684322A64CE5BD74DFD190203421C46E
+1 NAME Rita /Grunert/
+2 SURN Grunert
+2 GIVN Rita
+1 SEX F
+1 BIRT
+2 DATE 13 JUN 1941
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=18&b=&lang=de
+2 DATE 2011
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=18&b=&lang=de
+1 DEAT
+2 DATE 17 SEP 2011
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 12:32:18
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+0 @I745@ INDI
+1 RIN AB:I745
+1 _UID C436852E1CAD4F35B40F1CD2FA427CF75A20
+1 NAME Michael /Grzebalski/
+2 SURN Grzebalski
+2 GIVN Michael
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=131&b=&lang=de
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=131&b=&lang=de
+2 DATE 1945
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 BIRT
+2 DATE 15 JAN 1922
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 5 JAN 1945
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 12:33:54
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+0 @I746@ INDI
+1 RIN AB:I746
+1 _UID 19E663BCA4904BEBA6AC51F0BB7FBF8195F3
+1 NAME Manfred /Gudenoge/
+2 SURN Gudenoge
+2 GIVN Manfred
+1 SEX M
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=76&b=&lang=de
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=76&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 12:37:31
+0 @I747@ INDI
+1 RIN AB:I747
+1 _UID A5ACCD589259436D808434D117369BA4A6F1
+1 NAME Johann /Gürtler/
+2 SURN Gürtler
+2 GIVN Johann
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=325&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1929
+1 DEAT
+2 DATE 2007
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=325&b=&lang=de
+2 DATE 2007
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 12:39:19
+0 @I748@ INDI
+1 RIN AB:I748
+1 _UID 1DF2989A66EC4EADB485313DF61E92B893D5
+1 NAME Wilma /Gürtler/
+2 SURN Gürtler
+2 GIVN Wilma
+1 SEX F
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1942
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=325&b=&lang=de
+2 DATE 2010
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 2010
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 12:41:54
+0 @I749@ INDI
+1 RIN AB:I749
+1 _UID B46DC80961944594B3BD4DA84DB8BF4E37D7
+1 NAME Ilse /Guteneuer/
+2 SURN Guteneuer
+2 GIVN Ilse
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=143&b=&lang=de
+1 BIRT
+2 DATE 25 JUN 1942
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=143&b=&lang=de
+2 DATE 2018
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 27 AUG 2018
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 12:47:41
+0 @I750@ INDI
+1 RIN AB:I750
+1 _UID 481A37531D32482C8A17A2F7D19C74A36D50
+1 NAME Wolfgang /Gutsche/
+2 SURN Gutsche
+2 GIVN Wolfgang
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=21&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 FAMS @F280@
+1 BIRT
+2 DATE 1934
+1 DEAT
+2 DATE 2014
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=21&b=&lang=de
+2 DATE 2014
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 12:49:45
+0 @I751@ INDI
+1 RIN AB:I751
+1 _UID E9D5671AA98E4EB4B60BA1437630B2B429F7
+1 NAME Grete
+2 GIVN Grete
+2 _MARNM Gutsche
+1 SEX F
+1 FAMS @F280@
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=21&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1930
+1 DEAT
+2 DATE 2013
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=21&b=&lang=de
+2 DATE 2013
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 12:50:38
+0 @I752@ INDI
+1 RIN AB:I752
+1 _UID 8A7016A56158485984980F14BABB27EFD966
+1 NAME Egon /Haarmann/
+2 SURN Haarmann
+2 GIVN Egon
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=219&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 FAMS @F281@
+1 BIRT
+2 DATE 1942
+1 DEAT
+2 DATE 2012
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=219&b=&lang=de
+2 DATE 2012
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 12:52:18
+0 @I753@ INDI
+1 RIN AB:I753
+1 _UID F06725DDD48149EC9D97E3DE6E0C51E588FD
+1 NAME Marianne
+2 GIVN Marianne
+2 _MARNM Haarmann
+1 SEX F
+1 FAMS @F281@
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1942
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=219&b=&lang=de
+2 DATE 2012
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 2012
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 12:53:05
+0 @I754@ INDI
+1 RIN AB:I754
+1 _UID 27A1B3964E9744C48BC8EC69ADB9B65F2107
+1 NAME Horst /Haase/
+2 SURN Haase
+2 GIVN Horst
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=284&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 FAMS @F282@
+1 BIRT
+2 DATE 1921
+1 DEAT
+2 DATE 2012
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=284&b=&lang=de
+2 DATE 2012
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 12:54:14
+0 @I755@ INDI
+1 RIN AB:I755
+1 _UID 4C1157914D6B4F2EA4FD0303C7F5A55CDE94
+1 NAME Resi
+2 GIVN Resi
+2 _MARNM Haase
+1 SEX F
+1 FAMS @F282@
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=284&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1923
+1 DEAT
+2 DATE 2008
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=284&b=&lang=de
+2 DATE 2008
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 12:55:03
+0 @I756@ INDI
+1 RIN AB:I756
+1 _UID 7958801D73C74090993AFB15E8285408C723
+1 NAME Wolfgang /Hacke/
+2 SURN Hacke
+2 GIVN Wolfgang
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=146&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1951
+1 DEAT
+2 DATE 2018
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=146&b=&lang=de
+2 DATE 2018
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 12:55:46
+0 @I757@ INDI
+1 RIN AB:I757
+1 _UID DF9D915B652040209127C91BC4047F073763
+1 NAME Hermann /Hagenhoff/
+2 SURN Hagenhoff
+2 GIVN Hermann
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=379&b=&lang=de
+1 BIRT
+2 DATE 6 FEB 1924
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=379&b=&lang=de
+2 DATE 1943
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 6 JAN 1943
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 12:57:20
+0 @I758@ INDI
+1 RIN AB:I758
+1 _UID EC84ED6DCC44400592FC9B5E80541629B961
+1 NAME Elli /Hagenhoff/
+2 SURN Hagenhoff
+2 GIVN Elli
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=278&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1924
+1 DEAT
+2 DATE 2009
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=278&b=&lang=de
+2 DATE 2009
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 12:58:36
+0 @I759@ INDI
+1 RIN AB:I759
+1 _UID ABD7D2E61EBA4CDD98C00B7A96882D399CBD
+1 NAME Günther /Hages/
+2 SURN Hages
+2 GIVN Günther
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=356&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1931
+1 DEAT
+2 DATE 2014
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=356&b=&lang=de
+2 DATE 2014
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 13:00:10
+0 @I760@ INDI
+1 RIN AB:I760
+1 _UID E35678C0D15A492393460912E61E1AE60067
+1 NAME Ute /Hartmann/
+2 SURN Hartmann
+2 GIVN Ute
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=202&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1941
+1 DEAT
+2 DATE 2014
+1 BURI
+2 DATE 2014
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=202&b=&lang=de
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 13:01:14
+0 @I761@ INDI
+1 RIN AB:I761
+1 _UID B642EC9D8AED4ADEA8F488B0069B03841C77
+1 NAME Rita /Haucap/
+2 SURN Haucap
+2 GIVN Rita
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=13&b=&lang=de
+1 BIRT
+2 DATE 29 OCT 1942
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=13&b=&lang=de
+2 DATE 2018
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 31 JAN 2018
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 13:02:51
+0 @I762@ INDI
+1 RIN AB:I762
+1 _UID 8FB6E810CCEE409A85ECEA27C8FB8656F21C
+1 NAME Rudolf /Haupt/
+2 SURN Haupt
+2 GIVN Rudolf
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=337&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1933
+1 DEAT
+2 DATE 2005
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=337&b=&lang=de
+2 DATE 2005
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 13:03:48
+0 @I763@ INDI
+1 RIN AB:I763
+1 _UID 8289707A06CF4A22970378F4D839A2FDEC69
+1 NAME J. /Haucap/
+2 SURN Haucap
+2 GIVN J.
+1 SEX U
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=117&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1938
+1 DEAT
+2 DATE 2006
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=117&b=&lang=de
+2 DATE 2006
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 13:06:09
+0 @I764@ INDI
+1 RIN AB:I764
+1 _UID E53F08D4ED8B4601BA40837C78DF14FB1EBD
+1 NAME Gertrud /Heddergott/
+2 SURN Heddergott
+2 GIVN Gertrud
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=346&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1913
+1 DEAT
+2 DATE 2003
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=346&b=&lang=de
+2 DATE 2003
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 13:07:07
+0 @I765@ INDI
+1 RIN AB:I765
+1 _UID 97B43141028F4836BD857A29BDD1C1A1A1A8
+1 NAME Emmy /Heidrich/
+2 SURN Heidrich
+2 GIVN Emmy
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=153&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1924
+1 DEAT
+2 DATE 2016
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=153&b=&lang=de
+2 DATE 2016
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 13:08:16
+0 @I766@ INDI
+1 RIN AB:I766
+1 _UID A3558CD76EEA41B4AB370B4C0B2CA127E082
+1 NAME Hartmut /Hein/
+2 SURN Hein
+2 GIVN Hartmut
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=178&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 FAMS @F283@
+1 BIRT
+2 DATE 1938
+1 DEAT
+2 DATE 2015
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE (https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=178&b=&lang=de)
+3 _LINK 2018
+2 DATE 2015
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 13:13:21
+0 @I767@ INDI
+1 RIN AB:I767
+1 _UID 4420706F956542BEBD615DBAC6ACE6CB958A
+1 NAME Anni
+2 GIVN Anni
+2 _MARNM Hein
+1 SEX F
+1 FAMS @F283@
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=178&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1937
+1 DEAT
+2 DATE 2015
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=178&b=&lang=de
+2 DATE 2015
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 13:14:03
+0 @I768@ INDI
+1 RIN AB:I768
+1 _UID EE2C006EC4694C5B80DE6E085FE433640AA8
+1 NAME Anna /Herden/
+2 SURN Herden
+2 GIVN Anna
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=240&b=&lang=de
+1 BIRT
+2 DATE 6 AUG 1926
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=240&b=&lang=de
+2 DATE 2014
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 27 FEB 2014
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 13:15:08
+0 @I769@ INDI
+1 RIN AB:I769
+1 _UID 4B25FE9A1FB54E7185BA75B22A948F519F1A
+1 NAME Walter Kurt Günter /Hielscher/
+2 SURN Hielscher
+2 GIVN Walter Kurt Günter
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=81997563-1-3&action=showRecord&recordTitle=Walter%2C+Kurt%2C+Günter+Hielscher
+2 _RUFNAME Günter
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=322&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 SOUR @S7@
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=81997563-1-3&action=showRecord&recordTitle=Walter%2C+Kurt%2C+Günter+Hielscher
+1 FAMS @F284@
+1 FAMC @F285@
+1 BIRT
+2 DATE 12 JAN 1929
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=81997563-1-3&action=showRecord&recordTitle=Walter%2C+Kurt%2C+Günter+Hielscher
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=322&b=&lang=de
+2 DATE 2004
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 22 DEC 2004
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=81997563-1-3&action=showRecord&recordTitle=Walter%2C+Kurt%2C+Günter+Hielscher
+2 PLAC Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L5@
+3 MAP
+4 LATI N51.65
+4 LONG E7.75
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 13:29:59
+0 @I770@ INDI
+1 RIN AB:I770
+1 _UID 60820B98015A425FAB242418E6086CA28893
+1 NAME Helga Anneliese /Stobbe/
+2 SURN Stobbe
+2 GIVN Helga Anneliese
+2 _MARNM Hielscher
+1 SEX F
+1 FAMS @F284@
+1 SOUR @S7@
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=81997563-1-34&action=showRecord
+1 FAMC @F286@
+1 BIRT
+2 DATE 9 MAR 1933
+2 PLAC Weetfeld, Pelkum, Hamm, Nordrhein-Westfalen
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=81997563-1-34&action=showRecord
+1 BURI
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=81997563-1-34&action=showRecord
+2 DATE 2014
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 16 JUL 2014
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=81997563-1-34&action=showRecord
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 13:32:06
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+0 @I771@ INDI
+1 RIN AB:I771
+1 _UID BA7767CF461F40FB840B98257F3F6257CA38
+1 NAME Emil Julius Walter /Hielscher/
+2 SURN Hielscher
+2 GIVN Emil Julius Walter
+1 SEX M
+1 FAMS @F285@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=81997563-1-1&action=showRecord
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 13:28:11
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+0 @I772@ INDI
+1 RIN AB:I772
+1 _UID 1D052351A85D42A5993B1E9BF9DD4EB1E44A
+1 NAME Elfriede /Böhm/
+2 SURN Böhm
+2 GIVN Elfriede
+2 _MARNM Hielscher
+1 SEX F
+1 FAMS @F285@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=81997563-1-2&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 13:28:59
+0 @I773@ INDI
+1 RIN AB:I773
+1 _UID 88D6AB88E57C4AC88160F355D4A71F571E25
+1 NAME Georg /Böhm/
+2 SURN Böhm
+2 GIVN Georg
+1 SEX M
+1 FAMC @F285@
+1 BIRT Y
+1 DEAT Y
+1 NOTE vorehelich geboren
+1 SOUR @S7@
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=81997563-1-5&action=showRecord
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 13:30:46
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+0 @I774@ INDI
+1 RIN AB:I774
+1 _UID 79743E2CE9984CCBB7983AE1DD19A79389CC
+1 NAME Herrmann Friederich /Stobbe/
+2 SURN Stobbe
+2 GIVN Herrmann Friederich
+1 SEX M
+1 FAMS @F286@
+1 DEAT
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=81997563-1-38&action=showRecord
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+1 SOUR @S7@
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=81997563-1-38&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1 SEP 1909
+2 PLAC Weetfeld, Pelkum, Hamm, Nordrhein-Westfalen
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=81997563-1-38&action=showRecord
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 13:34:07
+0 @I775@ INDI
+1 RIN AB:I775
+1 _UID F520DE8464E34047A5F644139976EC487A37
+1 NAME Anna /Kaczmarek/
+2 SURN Kaczmarek
+2 GIVN Anna
+2 _MARNM Stobbe
+1 SEX F
+1 FAMS @F286@
+1 SOUR @S7@
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=81997563-1-39&action=showRecord
+1 BIRT
+2 DATE 9 JUL 1900
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=81997563-1-39&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BURI
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=81997563-1-39&action=showRecord
+2 DATE 1976
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 22 NOV 1976
+2 PLAC Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L5@
+3 MAP
+4 LATI N51.65
+4 LONG E7.75
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=81997563-1-39&action=showRecord
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 13:36:24
+0 @I776@ INDI
+1 RIN AB:I776
+1 _UID 43CC14F9E9AC4F4CAB148235D06CC4CC8EC4
+1 NAME Ulrich /Hölzel/
+2 SURN Hölzel
+2 GIVN Ulrich
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=75&b=&lang=de
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=75&b=&lang=de
+2 DATE 2002
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHR
+2 DATE 3 JUL 1948
+1 DEAT
+2 DATE 5 JUL 2002
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 13:40:31
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+0 @I777@ INDI
+1 RIN AB:I777
+1 _UID 0997476E5A9041CDBBF904ACAC54F327CBDC
+1 NAME Heinrich /Holst/
+2 SURN Holst
+2 GIVN Heinrich
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=228&b=&lang=de
+1 BIRT
+2 DATE 6 OCT 1934
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=228&b=&lang=de
+2 DATE 2004
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 21 JUN 2004
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 13:41:50
+0 @I778@ INDI
+1 RIN AB:I778
+1 _UID C51F7C7657B24AAFA792C82159135EF1B581
+1 NAME Elke /Holtmann/
+2 SURN Holtmann
+2 GIVN Elke
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=336&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1958
+1 DEAT
+2 DATE 2005
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=336&b=&lang=de
+2 DATE 2005
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 13:43:23
+0 @I779@ INDI
+1 RIN AB:I779
+1 _UID 48883B5E263A4FB585E881F675E3F5F5F3E1
+1 NAME Harald /Hoppen/
+2 SURN Hoppen
+2 GIVN Harald
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=250&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1941
+1 DEAT
+2 DATE 2012
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=250&b=&lang=de
+2 DATE 2012
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 13:58:05
+0 @I780@ INDI
+1 RIN AB:I780
+1 _UID C1B557D755EB40FD99F43C2207094F49B476
+1 NAME Wilhelm /Hoßbach/
+2 SURN Hoßbach
+2 GIVN Wilhelm
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=51&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1931
+1 DEAT
+2 DATE 2011
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=51&b=&lang=de
+2 DATE 2011
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 13:58:57
+0 @I781@ INDI
+1 RIN AB:I781
+1 _UID 854D02A2CDC2468FAA946B24CBB11C70AF57
+1 NAME Lydia /Husarek/
+2 SURN Husarek
+2 GIVN Lydia
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=236&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1919
+1 DEAT
+2 DATE 2015
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=236&b=&lang=de
+2 DATE 2015
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 13:59:57
+0 @I782@ INDI
+1 RIN AB:I782
+1 _UID D5FE921B685343A6B0190F9D11243D303B66
+1 NAME Alma /Stachowski/
+2 SURN Stachowski
+2 GIVN Alma
+2 _MARNM Hilbig
+1 SEX F
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 FAMS @F287@
+1 FAMC @F299@
+1 BIRT
+2 DATE 1919
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=334&b=&lang=de
+2 DATE 2006
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 2006
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 17:19:01
+0 @I783@ INDI
+1 RIN AB:I783
+1 _UID 267F050EE5B542DB96D193B0E0839D9FB8C2
+1 NAME Paul /Hilbig/
+2 SURN Hilbig
+2 GIVN Paul
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=334&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 4
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 FAMS @F287@
+1 RELI katholisch
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-154&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 OCCU Gesteinhauer, Bergmann, landwirtschaftliche Arbeiter
+2 PLAC Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L5@
+3 MAP
+4 LATI N51.65
+4 LONG E7.75
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-154&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 SOUR @S7@
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-154&action=showRecord
+2 PAGE Familienseite von Heinz Hilse
+1 FAMC @F290@
+1 BIRT
+2 DATE 25 DEC 1915
+2 PLAC Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L5@
+3 MAP
+4 LATI N51.65
+4 LONG E7.75
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-154&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 DEAT
+2 DATE 2010
+2 PLAC Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L5@
+3 MAP
+4 LATI N51.65
+4 LONG E7.75
+2 ADDR Altenheim
+3 CONT Buschkamp 3
+3 CITY Hamm
+3 POST 59077
+3 STAE Nordrhein-Westfalen
+3 CTRY Deutschland
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-154&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 BURI
+2 DATE 2010
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=334&b=&lang=de
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-154&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 15:04:17
+0 @I784@ INDI
+1 RIN AB:I784
+1 _UID 4A409B2F1D784C828089E51A9F89F25C3541
+1 NAME Heinz /Hesse/
+2 SURN Hesse
+2 GIVN Heinz
+1 SEX M
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 FAMS @F288@
+1 BIRT
+2 DATE 1 NOV 1925
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=96&b=&lang=de
+2 DATE 2017
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 19 NOV 2017
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 14:09:17
+0 @I785@ INDI
+1 RIN AB:I785
+1 _UID DDF2190911714FAAAE79637E4AAD155DDDC5
+1 NAME Else
+2 GIVN Else
+2 _MARNM Hesse
+1 SEX F
+1 FAMS @F288@
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=96&b=&lang=de
+1 BIRT
+2 DATE 30 MAY 1926
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=96&b=&lang=de
+2 DATE 2006
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 22 JUL 2006
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 14:11:49
+0 @I786@ INDI
+1 RIN AB:I786
+1 _UID E37BEFE636CF40EBA7BEFAEBA0B3DEE9C770
+1 NAME Ernst /Hesse/
+2 SURN Hesse
+2 GIVN Ernst
+1 SEX M
+1 SOUR @S7@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=241&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 FAMS @F289@
+1 BIRT
+2 DATE 1920
+1 DEAT
+2 DATE 2007
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=241&b=&lang=de
+2 DATE 2007
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 14:14:32
+0 @I787@ INDI
+1 RIN AB:I787
+1 _UID 58636DD1430C44F98738142D463C81B53D8D
+1 NAME Hilde
+2 GIVN Hilde
+2 _MARNM Hesse
+1 SEX F
+1 FAMS @F289@
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=241&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 1924
+1 DEAT
+2 DATE 2016
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=241&b=&lang=de
+2 DATE 2016
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 14:15:27
+0 @I788@ INDI
+1 RIN AB:I788
+1 _UID F9B348370F294DE48A81D4871B36BD6F77AE
+1 NAME Josef Paul /Hilbig/
+2 SURN Hilbig
+2 GIVN Josef Paul
+1 SEX M
+1 FAMS @F290@
+1 RELI katholisch
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-152&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 OCCU Bergmann
+2 PLAC Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L5@
+3 MAP
+4 LATI N51.65
+4 LONG E7.75
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-152&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 SOUR @S7@
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-152&action=showRecord
+2 PAGE Familienseite von Heinz Hilse
+1 FAMC @F293@
+1 BIRT
+2 DATE 14 MAY 1894
+2 PLAC Waldenburg, Niederschlesien, Preußen
+3 _LOC @L8@
+3 MAP
+4 LATI N50.764694
+4 LONG E16.278889
+2 NOTE Der Wohnort "Waldenburg" entspricht heute "Wałbrzych" in Polen.
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-152&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 DEAT
+2 DATE 15 JUL 1928
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+2 CAUS ertrunken
+2 NOTE Ertrunken, als er seinen Kindern das Schwimmen beibringen wollte.
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-152&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 15:32:09
+1 _INET
+2 _MHRM 2
+2 _MHSM 5
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+0 @I789@ INDI
+1 RIN AB:I789
+1 _UID 63A1FF82BA4B4C7CA3B0538D59203850868F
+1 NAME Anna /Klowersa/
+2 SURN Klowersa
+2 GIVN Anna
+2 _MARNM Hilbig
+1 SEX F
+1 FAMS @F290@
+1 RELI katholisch
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-153&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 OCCU Arbeiterin
+2 PLAC Bielefeld, Nordrhein-Westfalen
+3 _LOC @L11@
+3 MAP
+4 LATI N52.020889
+4 LONG E8.5315
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-153&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 SOUR @S7@
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-153&action=showRecord
+2 PAGE Familienseite von Heinz Hilse
+1 _INET
+2 _MHRM 1
+2 _MHSM 7
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 12 AUG 1893
+2 PLAC Waldenburg, Niederschlesien, Preußen
+3 _LOC @L8@
+3 MAP
+4 LATI N50.764694
+4 LONG E16.278889
+2 NOTE Der Wohnort "Waldenburg" entspricht heute "Wałbrzych" in Polen.
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-153&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 OCCU Haushälterin
+2 NOTE zum Zeitpunkt der Hochzeit
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-153&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+2 DATE 1916
+1 DEAT
+2 DATE 10 APR 1992
+2 PLAC Extertal, Nordrhein-Westfalen
+3 _LOC @L12@
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-153&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 17:37:06
+0 @I790@ INDI
+1 RIN AB:I790
+1 _UID 5FA0EFE595A741E7B5DEB97A88C4F1548EE9
+1 NAME Werner /Hilbig/
+2 SURN Hilbig
+2 GIVN Werner
+1 SEX M
+1 FAMS @F291@
+1 SOUR @S7@
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-558&action=showRecord
+2 PAGE Familienseite von Heinz Hilse
+1 BIRT
+2 DATE 26 DEC 1926
+2 PLAC Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L5@
+3 MAP
+4 LATI N51.65
+4 LONG E7.75
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-558&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 DEAT
+2 DATE 13 DEC 2014
+2 PLAC Bergkamen, Kreis Unna, Nordrhein-Westfalen
+3 _LOC @L13@
+3 MAP
+4 LATI N51.616667
+4 LONG E7.633333
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-558&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 14:56:55
+0 @I791@ INDI
+1 RIN AB:I791
+1 _UID FA1A5FC57C264C299D89A2D385584B15278D
+1 NAME Gisela /Bockholt/
+2 SURN Bockholt
+2 GIVN Gisela
+2 _MARNM Hilbig
+1 SEX F
+1 FAMS @F291@
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilse
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-557&action=showRecord
+1 FAMC @F292@
+1 BIRT
+2 DATE 1 MAY 1929
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-557&action=showRecord
+1 DEAT
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-557&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+2 DATE 12 DEC 2008
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 14:57:13
+0 @I792@ INDI
+1 RIN AB:I792
+1 _UID 6792251419954AD8BAE9C8439E23A123358B
+1 NAME Clemens /Bockholt/
+2 SURN Bockholt
+2 GIVN Clemens
+1 SEX M
+1 FAMS @F292@
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilse
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-517811&action=showRecord
+1 BIRT
+2 DATE 1 OCT 1899
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-517811&action=showRecord
+1 DEAT
+2 SOUR @S7@
+3 PAGE Familienseite voon Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-517811&action=showRecord
+2 DATE 18 JAN 1977
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 14:59:38
+0 @I793@ INDI
+1 RIN AB:I793
+1 _UID 4681CDAB82B04AACA550436DC35B2E1F770F
+1 NAME Elisabeth /Kemper/
+2 SURN Kemper
+2 GIVN Elisabeth
+1 SEX F
+1 FAMS @F292@
+1 BIRT
+2 DATE 28 JAN 1903
+2 PLAC Stockum, Witten, Ennepe-Ruhr-Kreis, Nordrhein-Westfalen
+3 _LOC @L14@
+3 MAP
+4 LATI N51.468056
+4 LONG E7.366111
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-517812&action=showRecord
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilse
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-517812&action=showRecord
+1 DEAT
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-517812&action=showRecord
+2 DATE 25 JUN 1985
+2 PLAC Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L5@
+3 MAP
+4 LATI N51.65
+4 LONG E7.75
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 15:03:10
+0 @I794@ INDI
+1 RIN AB:I794
+1 _UID FA33DD97BAC14696A12F4A38A35F490499C7
+1 NAME Liese /Hilbig/
+2 SURN Hilbig
+2 GIVN Liese
+1 SEX F
+1 FAMC @F293@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilse
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-857&action=showRecord
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 15:32:56
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+0 @I795@ INDI
+1 RIN AB:I795
+1 _UID 30A81E9BEEED41ACB23AD0E03D14C6F2FE5C
+1 NAME Hedwig /Hilbig/
+2 SURN Hilbig
+2 GIVN Hedwig
+1 SEX F
+1 FAMC @F293@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilse
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-855&action=showRecord
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 15:33:29
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+0 @I796@ INDI
+1 RIN AB:I796
+1 _UID 4C7A8A55E93E4BC79EEE394D89D9FD86D5BE
+1 NAME Klara /Hilbig/
+2 SURN Hilbig
+2 GIVN Klara
+1 SEX F
+1 FAMC @F293@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilse
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-853&action=showRecord
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 15:52:27
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+0 @I797@ INDI
+1 RIN AB:I797
+1 _UID 16ABA1D8386C42659119121E1B4E2AEEE061
+1 NAME Agnes /Hilbig/
+2 SURN Hilbig
+2 GIVN Agnes
+1 SEX F
+1 FAMC @F293@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilse
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-856&action=showRecord
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 15:53:07
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+0 @I798@ INDI
+1 RIN AB:I798
+1 _UID 7EBD27AF03D446E0A88E4CAE091C55924AD8
+1 NAME Martha /Hilbig/
+2 SURN Hilbig
+2 GIVN Martha
+1 SEX F
+1 FAMC @F293@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilse
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-854&action=showRecord
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 15:54:07
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+0 @I799@ INDI
+1 RIN AB:I799
+1 _UID C7FCEA5B3D134961AD0CF682F7ADA1E65EA4
+1 NAME Gertrud /Hilbig/
+2 SURN Hilbig
+2 GIVN Gertrud
+1 SEX F
+1 FAMC @F293@
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilse
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-852&action=showRecord
+1 BIRT
+2 DATE 25 MAR 1912
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-852&action=showRecord
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 15:56:22
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+0 @I800@ INDI
+1 RIN AB:I800
+1 _UID 8252D2DF6467439D9D6E0A8294A313091A15
+1 NAME Josef /Hilbig/
+2 SURN Hilbig
+2 GIVN Josef
+1 SEX M
+1 FAMS @F293@
+1 RESI
+2 PLAC Waldenburg, Niederschlesien, Preußen
+3 _LOC @L8@
+3 MAP
+4 LATI N50.764694
+4 LONG E16.278889
+2 NOTE Mühlenstraße 34, Waldenburg
+2 NOTE Der Wohnort "Waldenburg" entspricht heute "Wałbrzych" in Polen.
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-139&action=showRecord
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilze
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-139&action=showRecord
+1 BIRT
+2 DATE 18 OCT 1872
+2 PLAC Köpprich, Volpersdorf, Niederschlesien
+3 _LOC @L15@
+3 MAP
+4 LATI N50.606778
+4 LONG E16.557278
+2 NOTE Das Dorf "Köpperich" entspricht heute "Przygórze", einem Ortsteil der Landgemeinde Nowa Ruda (Neurode) in der Woiwodschaft Niederschlesien in Polen.
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-139&action=showRecord
+1 OCCU Bergmann
+2 DATE 1916
+2 PLAC Waldenburg, Niederschlesien, Preußen
+3 _LOC @L8@
+3 MAP
+4 LATI N50.764694
+4 LONG E16.278889
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-139&action=showRecord
+1 DEAT
+2 DATE 20 FEB 1939
+2 PLAC Waldenburg, Niederschlesien, Preußen
+3 _LOC @L8@
+3 MAP
+4 LATI N50.764694
+4 LONG E16.278889
+2 NOTE Der Wohnort "Waldenburg" entspricht heute "Wałbrzych" in Polen.
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-139&action=showRecord
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 15:26:52
+1 _INET
+2 _MHRM 1
+2 _MHSM 1
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+0 @I801@ INDI
+1 RIN AB:I801
+1 _UID EB9347CF263143F7B43D0E70DFF3A0B1B7F7
+1 NAME Maria /Gottwald/
+2 SURN Gottwald
+2 GIVN Maria
+2 _MARNM Hilbig
+1 SEX F
+1 FAMS @F293@
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilse
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-851&action=showRecord
+1 BIRT
+2 DATE 10 DEC 1870
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-851&action=showRecord
+1 DEAT
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-851&action=showRecord
+2 DATE 9 FEB 1934
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 15:28:52
+1 _INET
+2 _MHRM 1
+2 _MHSM 1
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+0 @I802@ INDI
+1 RIN AB:I802
+1 _UID E812BA63C96B4EB0B6E78F85266FBF115F6A
+1 NAME Paul /Hilbig/
+2 SURN Hilbig
+2 GIVN Paul
+1 SEX M
+1 FAMC @F293@
+1 FAMS @F294@
+1 SOUR @S7@
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-625&action=showRecord
+2 PAGE Familienseite von Heinz Hilse
+1 BIRT
+2 DATE 6 DEC 1902
+2 PLAC Waldenburg, Niederschlesien, Preußen
+3 _LOC @L8@
+3 MAP
+4 LATI N50.764694
+4 LONG E16.278889
+2 NOTE Der Wohnort "Waldenburg" entspricht heute "Wałbrzych" in Polen.
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-625&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 DEAT
+2 DATE 19 JUN 1965
+2 PLAC Doberlug-Kirchhain, Elbe-Elster, Brandenburg
+3 _LOC @L16@
+3 MAP
+4 LATI N51.616667
+4 LONG E13.566667
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-625&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 16:06:51
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+0 @I803@ INDI
+1 RIN AB:I803
+1 _UID A431846AB90E4A409EA40457F4C33B72155B
+1 NAME Emma /Rüffler/
+2 SURN Rüffler
+2 GIVN Emma
+2 _MARNM Hilbig
+1 SEX F
+1 FAMS @F294@
+1 BIRT
+2 DATE 13 AUG 1905
+2 PLAC Waldenburg, Niederschlesien, Preußen
+3 _LOC @L8@
+3 MAP
+4 LATI N50.764694
+4 LONG E16.278889
+2 NOTE Der Wohnort "Waldenburg" entspricht heute "Wałbrzych" in Polen.
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-624&action=showRecord
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilse
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-624&action=showRecord
+1 DEAT
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-624&action=showRecord
+2 DATE 25 FEB 1952
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 16:10:59
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+0 @I804@ INDI
+1 RIN AB:I804
+1 _UID 949EA173BA21451B98FE5D795A9527080BA9
+1 NAME Hermann /Hilbig/
+2 SURN Hilbig
+2 GIVN Hermann
+1 SEX M
+1 FAMC @F290@
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilse
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-158&action=showRecord
+1 BIRT
+2 DATE 27 NOV 1923
+2 PLAC Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L5@
+3 MAP
+4 LATI N51.65
+4 LONG E7.75
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-158&action=showRecord
+1 CHR
+2 DATE 17 DEC 1925
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-158&action=showRecord
+1 DEAT
+2 DATE 15 FEB 2010
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-158&action=showRecord
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 16:14:47
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+0 @I805@ INDI
+1 RIN AB:I805
+1 _UID 50D9F3FBA9994779909E235213E856606D94
+1 NAME Renaltine Maria /Hilbig/
+2 SURN Hilbig
+2 GIVN Renaltine Maria
+2 _MARNM Burghardt
+1 SEX F
+1 FAMC @F290@
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilse
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-156&action=showRecord
+1 FAMS @F295@
+1 BIRT
+2 DATE 6 MAR 1918
+2 PLAC Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L5@
+3 MAP
+4 LATI N51.65
+4 LONG E7.75
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-156&action=showRecord
+1 DEAT
+2 DATE 6 JAN 2012
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-156&action=showRecord
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 16:18:04
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+0 @I806@ INDI
+1 RIN AB:I806
+1 _UID 635D731DB59749D6ADA5B9F87899F19E5E03
+1 NAME Richard /Burghardt/
+2 SURN Burghardt
+2 GIVN Richard
+1 SEX M
+1 FAMS @F295@
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilse
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-2002&action=showRecord
+1 BIRT
+2 DATE 23 MAR 1915
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-2002&action=showRecord
+1 DEAT
+2 DATE 6 MAY 1986
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-2002&action=showRecord
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 16:20:14
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+0 @I807@ INDI
+1 RIN AB:I807
+1 _UID 562DC6F810234650998DA13C53707263A5B4
+1 NAME Erwin (Werner) /Burghardt/
+2 SURN Burghardt
+2 GIVN Erwin (Werner)
+1 SEX M
+1 FAMC @F295@
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilse
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-714&action=showRecord
+1 FAMS @F296@
+1 BIRT
+2 DATE 10 JUL 1940
+2 PLAC Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L5@
+3 MAP
+4 LATI N51.65
+4 LONG E7.75
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-714&action=showRecord
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 16:21:37
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+0 @I808@ INDI
+1 RIN AB:I808
+1 _UID 2157CCC7FFAF4D21B2AF13C1834DF76F92F0
+1 NAME Helga /Dörscheln/
+2 SURN Dörscheln
+2 GIVN Helga
+2 _MARNM Burghardt
+1 SEX F
+1 FAMS @F296@
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilse
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-715&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 BIRT
+2 DATE 5 SEP 1939
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-715&action=showRecord
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 16:23:50
+0 @I809@ INDI
+1 RIN AB:I809
+1 _UID 425BD39E02B5449DAA3FAA32D00030DA458A
+1 NAME Ernst Paul /Hilbig/
+2 SURN Hilbig
+2 GIVN Ernst Paul
+1 SEX M
+1 FAMC @F290@
+1 RELI katholisch
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-155&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 OCCU Bergmann
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-155&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 BURI
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 NOTE Urnenbestattung
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-155&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 RESI
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 ADDR Ostfeldstraße 31
+3 CITY Hamm
+3 POST 59077
+3 STAE Nordrhein-Westfalen
+3 CTRY Deutschland
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-155&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 FAMS @F297@
+1 SOUR @S7@
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-155&action=showRecord
+2 PAGE Familienseite von Heinz Hilse
+1 BIRT
+2 DATE 1 MAR 1916
+2 PLAC Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L5@
+3 MAP
+4 LATI N51.65
+4 LONG E7.75
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-155&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 CHR
+2 DATE 4 APR 1917
+2 PLAC Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L5@
+3 MAP
+4 LATI N51.65
+4 LONG E7.75
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-155&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 DEAT
+2 DATE ABT 8 JAN 2008
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-155&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 16:33:56
+1 _INET
+2 _MHRM 0
+2 _MHSM 5
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+0 @I811@ INDI
+1 RIN AB:I811
+1 _UID FCEDFB79EA294A1A9205A31AECF4D6906EDA
+1 NAME Udo /Hilbig/
+2 SURN Hilbig
+2 GIVN Udo
+1 SEX M
+1 FAMC @F297@
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilse
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-346&action=showRecord
+1 BIRT
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-346&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+2 DATE 23 JUN 1942
+2 PLAC Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L5@
+3 MAP
+4 LATI N51.65
+4 LONG E7.75
+1 DEAT
+2 DATE 7 NOV 1966
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 CAUS Verkehrsunfall
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-346&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 16:50:05
+1 _INET
+2 _MHRM 0
+2 _MHSM 4
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+0 @I812@ INDI
+1 RIN AB:I812
+1 _UID 2B07267A9121456D8E8FEDA29A442002E2A4
+1 NAME Hedwig /Hilbig/
+2 SURN Hilbig
+2 GIVN Hedwig
+2 _MARNM Husmann
+1 SEX F
+1 FAMC @F290@
+1 FAMS @F298@
+1 SOUR @S7@
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-157&action=showRecord
+2 PAGE Familienseite von Heinz Hilse
+1 BIRT
+2 DATE 18 AUG 1920
+2 PLAC Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L5@
+3 MAP
+4 LATI N51.65
+4 LONG E7.75
+2 ADDR Schillerstr. 84 b
+3 CITY Hamm
+3 POST 59077
+3 STAE Nordrhein-Westfalen
+3 CTRY Deutschland
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-157&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 DEAT
+2 DATE 2 JAN 2017
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-157&action=showRecord
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 16:54:43
+1 _INET
+2 _MHRM 0
+2 _MHSM 3
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+0 @I813@ INDI
+1 RIN AB:I813
+1 _UID F3F38A7D64F64907AFE5BECDB1261432D36D
+1 NAME Heinrich /Husmann/
+2 SURN Husmann
+2 GIVN Heinrich
+1 SEX M
+1 FAMS @F298@
+1 SOUR @S7@
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-348&action=showRecord
+2 PAGE Familienseite von Heinz Hilse
+1 BIRT
+2 DATE 15 JUN 1918
+2 PLAC Linderhofe, Extertal, Kreis Lippe, Nordrhein-Westfalen
+3 _LOC @L18@
+3 MAP
+4 LATI N52.056
+4 LONG E9.056389
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-348&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 DEAT
+2 DATE 24 MAY 1998
+2 PLAC Lemgo, Kreis Lippe, Nordrhein-Westfalen
+3 _LOC @L19@
+3 MAP
+4 LATI N52.033333
+4 LONG E8.916667
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-348&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 17:01:11
+0 @I814@ INDI
+1 RIN AB:I814
+1 _UID CCA5739F47D3427695613A7F4FE6B8F0E15B
+1 NAME Rita /Hilbig/
+2 SURN Hilbig
+2 GIVN Rita
+2 _MARNM Grunert
+1 SEX F
+1 FAMC @F287@
+1 RELI protestantisch
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-440&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 OCCU Lebensmittelverkäuferin
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-440&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 SOUR @S7@
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-440&action=showRecord
+2 PAGE Familienseite von Heinz Hilse
+1 BIRT
+2 DATE 13 JUN 1941
+2 PLAC Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L5@
+3 MAP
+4 LATI N51.65
+4 LONG E7.75
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-440&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 RESI
+2 DATE 2011
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 ADDR Simonstraße 6
+3 CITY Hamm
+3 POST 59077
+3 STAE Nordrhein-Westfalen
+3 CTRY Deutschland
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-440&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 CHR
+2 DATE 7 SEP 1941
+2 PLAC Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L5@
+3 MAP
+4 LATI N51.65
+4 LONG E7.75
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-440&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 DEAT
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-440&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+2 DATE 17 SEP 2011
+2 PLAC Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L5@
+3 MAP
+4 LATI N51.65
+4 LONG E7.75
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 17:14:31
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+0 @I815@ INDI
+1 RIN AB:I815
+1 _UID A5E33082138444E9A9A659F1AC4F1DFDACB1
+1 NAME Julius /Stachowski/
+2 SURN Stachowski
+2 GIVN Julius
+1 SEX M
+1 FAMS @F299@
+1 BIRT Y
+1 OCCU Kohlenhauer
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-2&action=showRecord
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilse
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-2&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 17:17:20
+0 @I816@ INDI
+1 RIN AB:I816
+1 _UID 50D018A811DC4B78884A9713BDC053320EA9
+1 NAME Amalie
+2 GIVN Amalie
+2 _MARNM Stachowski
+1 SEX F
+1 FAMS @F299@
+1 BIRT Y
+1 RELI protestantisch
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-1&action=showRecord
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilse
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-1&action=showRecord
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 17:18:31
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+0 @I817@ INDI
+1 RIN AB:I817
+1 _UID F760A6A4E9154D968C641EF2B67C8CA8E829
+1 NAME Bruno /Stachowski/
+2 SURN Stachowski
+2 GIVN Bruno
+1 SEX M
+1 FAMC @F299@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilse
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-4&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 17:19:58
+0 @I818@ INDI
+1 RIN AB:I818
+1 _UID D1833489608947FD82A91952D54AAA50ED4D
+1 NAME Theo /Stachowski/
+2 SURN Stachowski
+2 GIVN Theo
+1 SEX M
+1 FAMC @F299@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilse
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-5&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 17:20:56
+0 @I819@ INDI
+1 RIN AB:I819
+1 _UID 6487D35A5F0248938D91D442AD4DCBD3206F
+1 NAME Gert /Stachowski/
+2 SURN Stachowski
+2 GIVN Gert
+1 SEX M
+1 FAMC @F299@
+1 BIRT
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-6&action=showRecord
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilse
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-6&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 17:22:38
+0 @I820@ INDI
+1 RIN AB:I820
+1 _UID A97A4B5894C541598180CEEA9BABA8DF3FE4
+1 NAME Richard /Stachowski/
+2 SURN Stachowski
+2 GIVN Richard
+1 SEX M
+1 FAMC @F299@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilse
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-7&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 17:23:53
+0 @I821@ INDI
+1 RIN AB:I821
+1 _UID 60AC87BBE08147D39E90EFA4CC94B09F39CA
+1 NAME Frieda /Stachowski/
+2 SURN Stachowski
+2 GIVN Frieda
+1 SEX F
+1 FAMC @F299@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilse
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-8&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 17:24:43
+0 @I822@ INDI
+1 RIN AB:I822
+1 _UID 053ED75A8EDF4C7A8D1483D85D005BA702D4
+1 NAME Hulda /Stachowski/
+2 SURN Stachowski
+2 GIVN Hulda
+1 SEX F
+1 FAMC @F299@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilse
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-9&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 17:25:46
+0 @I823@ INDI
+1 RIN AB:I823
+1 _UID AB81D9D6C2A5473EA8B3CF2D5E5732070CE6
+1 NAME Adelheid /Stachowski/
+2 SURN Stachowski
+2 GIVN Adelheid
+2 _MARNM Hilbig
+1 SEX F
+1 FAMC @F299@
+1 BIRT
+2 DATE 11 FEB 1922
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-345&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 DEAT
+2 DATE 9 JUN 2008
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-345&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+1 SOUR @S7@
+2 PAGE Familienseite von Heinz Hilse
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-10&action=showRecord
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-345&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 4
+2 _RDATE 4 OCT 2020
+2 _SDATE 4 OCT 2020
+1 CHAN
+2 DATE 4 OCT 2020
+3 TIME 17:34:45
+1 FAMS @F297@
+1 _UID 985410BBA9854E198F83B4A2CF073C995F2C
+1 RELI protestantisch
 0 @S1@ SOUR
 1 TITL Matricula
 0 @S2@ SOUR
@@ -18720,6 +21430,8 @@
 2 CONT Daniel Schöningh, Hans Sahl
 0 @S7@ SOUR
 1 TITL MyHeritage
+1 AUTH MyHeritage Ltd.
+1 PUBL https://www.myheritage.de/
 0 @S8@ SOUR
 1 TITL GenWiki
 0 @F1@ FAM
@@ -21165,6 +23877,180 @@
 0 @F278@ FAM
 1 HUSB @I732@
 1 WIFE @I733@
+0 @F279@ FAM
+1 HUSB @I742@
+1 WIFE @I743@
+0 @F280@ FAM
+1 HUSB @I750@
+1 WIFE @I751@
+0 @F281@ FAM
+1 HUSB @I752@
+1 WIFE @I753@
+0 @F282@ FAM
+1 HUSB @I754@
+1 WIFE @I755@
+0 @F283@ FAM
+1 HUSB @I766@
+1 WIFE @I767@
+0 @F284@ FAM
+1 HUSB @I769@
+1 WIFE @I770@
+0 @F285@ FAM
+1 HUSB @I771@
+1 CHIL @I769@
+1 WIFE @I772@
+1 CHIL @I773@
+0 @F286@ FAM
+1 HUSB @I774@
+1 CHIL @I770@
+1 WIFE @I775@
+0 @F287@ FAM
+1 HUSB @I783@
+1 WIFE @I782@
+1 MARR
+2 DATE 1 NOV 1938
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+2 TYPE CIVIL
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-154&action=showRecord
+1 MARR
+2 DATE 1 NOV 1939
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+2 TYPE RELI
+1 CHIL @I814@
+0 @F288@ FAM
+1 HUSB @I784@
+1 WIFE @I785@
+0 @F289@ FAM
+1 HUSB @I786@
+1 WIFE @I787@
+0 @F290@ FAM
+1 HUSB @I788@
+1 CHIL @I783@
+1 WIFE @I789@
+1 MARR
+2 DATE 14 OCT 1916
+2 PLAC Pelkum, Hamm, Nordrhein-Westfalen
+3 _LOC @L10@
+3 MAP
+4 LATI N51.63
+4 LONG E7.73
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-152&action=showRecord
+2 NOTE Bekannte Anzahl der Kinder: 6
+1 CHIL @I804@
+1 CHIL @I805@
+1 CHIL @I809@
+1 CHIL @I812@
+0 @F291@ FAM
+1 HUSB @I790@
+1 WIFE @I791@
+1 MARR
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-558&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+2 DATE 11 NOV 1950
+2 PLAC Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L5@
+3 MAP
+4 LATI N51.65
+4 LONG E7.75
+0 @F292@ FAM
+1 HUSB @I792@
+1 CHIL @I791@
+1 MARR
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-517811&action=showRecord
+1 WIFE @I793@
+0 @F293@ FAM
+1 HUSB @I800@
+1 CHIL @I788@
+1 MARR
+2 DATE 23 DEC 1893
+2 PLAC Waldenburg, Niederschlesien, Preußen
+3 _LOC @L8@
+3 MAP
+4 LATI N50.764694
+4 LONG E16.278889
+2 TYPE CIVIL
+1 MARR
+2 DATE 7 JAN 1894
+2 PLAC Waldenburg, Niederschlesien, Preußen
+3 _LOC @L8@
+3 MAP
+4 LATI N50.764694
+4 LONG E16.278889
+2 TYPE RELI
+1 WIFE @I801@
+1 CHIL @I794@
+1 CHIL @I795@
+1 CHIL @I796@
+1 CHIL @I797@
+1 CHIL @I798@
+1 CHIL @I799@
+1 CHIL @I802@
+0 @F294@ FAM
+1 HUSB @I802@
+1 WIFE @I803@
+1 MARR
+2 DATE 6 NOV 1926
+2 PLAC Waldenburg, Niederschlesien, Preußen
+3 _LOC @L8@
+3 MAP
+4 LATI N50.764694
+4 LONG E16.278889
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-625&action=showRecord
+3 PAGE Familienseite von Heinz Hilse
+0 @F295@ FAM
+1 WIFE @I805@
+1 HUSB @I806@
+1 CHIL @I807@
+0 @F296@ FAM
+1 HUSB @I807@
+1 WIFE @I808@
+0 @F297@ FAM
+1 HUSB @I809@
+1 WIFE @I823@
+1 MARR
+2 DATE 24 DEC 1940
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-155&action=showRecord
+1 CHIL @I811@
+0 @F298@ FAM
+1 WIFE @I812@
+1 HUSB @I813@
+1 MARR
+2 DATE 22 FEB 1941
+2 PLAC Bösingfeld, Extertal, Kreis Lippe, Nordrhein-Westfalen
+3 _LOC @L17@
+3 MAP
+4 LATI N52.068083
+4 LONG E9.125278
+2 SOUR @S7@
+3 PAGE Familienseite von Heinz Hilse
+3 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=77615193-1-348&action=showRecord
+0 @F299@ FAM
+1 HUSB @I815@
+1 CHIL @I782@
+1 WIFE @I816@
+1 CHIL @I817@
+1 CHIL @I818@
+1 CHIL @I819@
+1 CHIL @I820@
+1 CHIL @I821@
+1 CHIL @I822@
+1 CHIL @I823@
 0 @SUBM@ SUBM
 1 NAME Michael Johne
 1 ADDR Michael Johne
@@ -21182,6 +24068,80 @@
 1 MAP
 2 LATI N51.7032777777778
 2 LONG E7.83
+0 @L10@ _LOC
+1 NAME Pelkum, Hamm, Nordrhein-Westfalen
+1 _POST 59077
+1 _GOV PELKUMJO31UP
+1 MAP
+2 LATI N51.63
+2 LONG E7.73
+0 @L11@ _LOC
+1 NAME Bielefeld, Nordrhein-Westfalen
+1 _POST 33602
+1 _GOV BIEELDJO42GA
+1 MAP
+2 LATI N52.020889
+2 LONG E8.5315
+0 @L12@ _LOC
+1 NAME Extertal, Nordrhein-Westfalen
+1 _POST 32699
+1 _GOV EXTTALJO42NC
+0 @L13@ _LOC
+1 NAME Bergkamen, Kreis Unna, Nordrhein-Westfalen
+1 _POST 59192
+1 _GOV BERMENJO31TO
+1 MAP
+2 LATI N51.616667
+2 LONG E7.633333
+0 @L14@ _LOC
+1 NAME Stockum, Witten, Ennepe-Ruhr-Kreis, Nordrhein-Westfalen
+1 _POST 58454
+1 _GOV STOKUMJO31QL
+1 MAP
+2 LATI N51.468056
+2 LONG E7.366111
+0 @L15@ _LOC
+1 NAME Köpprich, Volpersdorf, Niederschlesien
+1 NOTE Das Dorf "Köpperich" entspricht heute "Przygórze", einem Ortsteil der Landgemeinde Nowa Ruda (Neurode) in der Woiwodschaft Niederschlesien in Polen.
+1 _GOV KOPORFJO80GO
+1 MAP
+2 LATI N50.606778
+2 LONG E16.557278
+0 @L16@ _LOC
+1 NAME Doberlug-Kirchhain, Elbe-Elster, Brandenburg
+1 SOUR https://de.wikipedia.org/wiki/Doberlug-Kirchhain
+2 CONT http://gov.genealogy.net/item/show/DOBAINJO61SO
+1 _POST 03253
+1 _GOV DOBAINJO61SO
+1 MAP
+2 LATI N51.616667
+2 LONG E13.566667
+0 @L17@ _LOC
+1 NAME Bösingfeld, Extertal, Kreis Lippe, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/Bösingfeld
+2 CONT http://gov.genealogy.net/item/show/BOSEL1JO42NB
+1 _POST 32699
+1 _GOV BOSEL1JO42NB
+1 MAP
+2 LATI N52.068083
+2 LONG E9.125278
+0 @L18@ _LOC
+1 NAME Linderhofe, Extertal, Kreis Lippe, Nordrhein-Westfalen
+1 SOUR http://gov.genealogy.net/item/show/LINOFEJO42MB
+1 _POST 32699
+1 _GOV LINOFEJO42MB
+1 MAP
+2 LATI N52.056
+2 LONG E9.056389
+0 @L19@ _LOC
+1 NAME Lemgo, Kreis Lippe, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/Lemgo
+2 CONT http://gov.genealogy.net/item/show/LEMMG1JO42KA
+1 _POST 32657
+1 _GOV LEMMG1JO42KA
+1 MAP
+2 LATI N52.033333
+2 LONG E8.916667
 0 @L2@ _LOC
 1 NAME Hamm, Nordrhein-Westfalen
 1 _POST 59063
@@ -21205,4 +24165,25 @@
 1 MAP
 2 LATI N51.65
 2 LONG E7.75
+0 @L7@ _LOC
+1 NAME Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 _POST 59075
+1 _GOV BOCVEL_W4713
+1 MAP
+2 LATI N51.692278
+2 LONG E7.737694
+0 @L8@ _LOC
+1 NAME Waldenburg, Niederschlesien, Preußen
+1 _GOV WALURGJO80DS
+1 MAP
+2 LATI N50.764694
+2 LONG E16.278889
+1 NOTE Der Wohnort "Waldenburg" entspricht heute "Wałbrzych" in Polen.
+0 @L9@ _LOC
+1 NAME Bockum, Hamm, Nordrhein-Westfalen
+1 NOTE Der Ortsteil "Bockum" entspricht heute dem Stadtteil "Bockum-Hövel".
+1 _GOV BOCKU1JO31UQ
+1 MAP
+2 LATI N51.68
+2 LONG E7.73
 0 TRLR
