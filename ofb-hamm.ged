@@ -4,7 +4,7 @@
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 6 OCT 2020
-2 TIME 11:45:55
+2 TIME 19:16:23
 1 SUBM @SUBM@
 1 FILE ofb-hamm.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I937@
-1 _HOME @I937@
+2 _NAVI @I989@
+1 _HOME @I989@
 0 @I1@ INDI
 1 RIN AB:I1
 1 _UID 4EB661D5ACFE49AAAB528691A2E80DB03210
@@ -24962,6 +24962,1699 @@
 1 CHAN
 2 DATE 6 OCT 2020
 3 TIME 11:45:16
+0 @I938@ INDI
+1 RIN AB:I938
+1 _UID C61BB023610041D5A47092688BD109D9771D
+1 NAME Horst /Pallischeck/
+2 SURN Pallischeck
+2 GIVN Horst
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=71&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 BIRT
+2 DATE 8 OCT 1928
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=71&b=&lang=de
+2 DATE 2001
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 24 DEC 2001
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 16:15:53
+0 @I939@ INDI
+1 RIN AB:I939
+1 _UID 3123AE5924E04EB99EB91925E38D6BA87E02
+1 NAME Horst /Paternoster/
+2 SURN Paternoster
+2 GIVN Horst
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=32&b=&lang=de
+1 FAMS @F319@
+1 BIRT
+2 DATE 1928
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=32&b=&lang=de
+2 DATE 2014
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 2014
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 16:17:22
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+0 @I940@ INDI
+1 RIN AB:I940
+1 _UID BFB96F577611469EA21478C9851C9913EDD7
+1 NAME Ilse
+2 GIVN Ilse
+2 _MARNM Paternoster
+1 SEX F
+1 FAMS @F319@
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=32&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 BIRT
+2 DATE 1928
+1 DEAT
+2 DATE 2009
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=32&b=&lang=de
+2 DATE 2009
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 16:18:42
+0 @I941@ INDI
+1 RIN AB:I941
+1 _UID 5D2562F9109A4AC09464620FF140D5EDED0C
+1 NAME Richard /Pausewang/
+2 SURN Pausewang
+2 GIVN Richard
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=116&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S7@
+2 PAGE pausewang Web Size von Daniel pausewang
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=448020601-1-500003&indId=externalindividual-ca04e9f2c494b3cf4e45bfeab145b961&action=showRecord
+1 SOUR @S7@
+2 PAGE Pausewang Web Site von Sabrina Pausewang
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=617793151-1-500003&indId=externalindividual-ca04e9f2c494b3cf4e45bfeab145b961&action=showRecord
+1 BIRT
+2 DATE 26 MAY 1952
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=116&b=&lang=de
+2 DATE 2006
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 27 JUL 2006
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 16:24:14
+0 @I942@ INDI
+1 RIN AB:I942
+1 _UID C5843F1DBA7F47BABC3951B7FEADB082B93D
+1 NAME Friedhelm /Pichler/
+2 SURN Pichler
+2 GIVN Friedhelm
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=169&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 BIRT
+2 DATE 1937
+1 DEAT
+2 DATE 2004
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=169&b=&lang=de
+2 DATE 2004
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+2 NOTE Urnenbestattung
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 16:26:14
+0 @I943@ INDI
+1 RIN AB:I943
+1 _UID D52B9C9FF78F48D7BFBC96E1BB0CEB028675
+1 NAME Kurt /Podszun/
+2 SURN Podszun
+2 GIVN Kurt
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=289&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 BIRT
+2 DATE 2 MAR 1930
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=289&b=&lang=de
+2 DATE 2007
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 29 SEP 2007
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 16:27:50
+0 @I944@ INDI
+1 RIN AB:I944
+1 _UID 79A8063657614A73A2CDA4D167C9B5C45F65
+1 NAME Elfriede /Podszun/
+2 SURN Podszun
+2 GIVN Elfriede
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=303&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 BIRT
+2 DATE 10 NOV 1930
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=303&b=&lang=de
+2 DATE 2010
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 26 MAY 2010
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 16:29:35
+0 @I945@ INDI
+1 RIN AB:I945
+1 _UID A9EC2C04FD2C42859F60D4EB8281FA1383BA
+1 NAME Gertrud /Polakowski/
+2 SURN Polakowski
+2 GIVN Gertrud
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=77&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 BIRT
+2 DATE 1909
+1 DEAT
+2 DATE 2002
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=77&b=&lang=de
+2 DATE 2002
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 16:43:05
+0 @I946@ INDI
+1 RIN AB:I946
+1 _UID 1801D6BE0F3A4D8583FA25A6FAB10C2BF212
+1 NAME Günter /Polkowski/
+2 SURN Polkowski
+2 GIVN Günter
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=263&b=&lang=de
+1 FAMS @F320@
+1 BIRT
+2 DATE 1936
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=263&b=&lang=de
+2 DATE 2010
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+2 NOTE Urnenbestattung
+1 DEAT
+2 DATE 2010
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 16:44:17
+0 @I947@ INDI
+1 RIN AB:I947
+1 _UID 1803F0EBB89E446D8A8F430ED1F474F191AD
+1 NAME Helga
+2 GIVN Helga
+2 _MARNM Polkowski
+1 SEX F
+1 FAMS @F320@
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 BIRT
+2 DATE 1940
+1 DEAT
+2 DATE 2013
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=263&b=&lang=de
+2 DATE 2013
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+2 NOTE Urnenbestattung
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 16:44:56
+0 @I948@ INDI
+1 RIN AB:I948
+1 _UID BE7A0D4935F34426888257948FFAF43DCF67
+1 NAME Klaus /Polle/
+2 SURN Polle
+2 GIVN Klaus
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=244&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 BIRT
+2 DATE 1942
+1 DEAT
+2 DATE 2011
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=244&b=&lang=de
+2 DATE 2011
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+2 NOTE Urnenbestattung
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 16:51:46
+0 @I949@ INDI
+1 RIN AB:I949
+1 _UID CC2001CFA7194681A21E7DC593FBED561673
+1 NAME Elisabeth /Post/
+2 SURN Post
+2 GIVN Elisabeth
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=310&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 BIRT
+2 DATE 1910
+1 DEAT
+2 DATE 2007
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=310&b=&lang=de
+2 DATE 2007
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 16:52:31
+0 @I950@ INDI
+1 RIN AB:I950
+1 _UID A5E8C81B6E464F2CAE3C7FEEA860042325A2
+1 NAME Erich /Potrick/
+2 SURN Potrick
+2 GIVN Erich
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=262&b=&lang=de
+1 FAMS @F321@
+1 BIRT
+2 DATE 1925
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=262&b=&lang=de
+2 DATE 2013
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+2 NOTE Urnenbestattung
+1 DEAT
+2 DATE 2013
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 16:53:53
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+0 @I951@ INDI
+1 RIN AB:I951
+1 _UID 543E969B427948769E60C1D123B2D260D307
+1 NAME Margarethe
+2 GIVN Margarethe
+2 _MARNM Potrick
+1 SEX F
+1 FAMS @F321@
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 BIRT
+2 DATE 1930
+1 DEAT
+2 DATE 2017
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=262&b=&lang=de
+2 DATE 2017
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+2 NOTE Urnenbestattung
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 16:54:41
+0 @I952@ INDI
+1 RIN AB:I952
+1 _UID E5CD3338470949AFB499DD2866989E9FF2AD
+1 NAME Georg /Potrywskan/
+2 SURN Potrywskan
+2 GIVN Georg
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=383&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 BIRT
+2 DATE 9 FEB 1920
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=383&b=&lang=de
+2 DATE 1944
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 2 NOV 1944
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 16:56:20
+0 @I953@ INDI
+1 RIN AB:I953
+1 _UID F503C6E05C1D439188F0B3D8F5BF05650CB1
+1 NAME Ernst /Potthoff/
+2 SURN Potthoff
+2 GIVN Ernst
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=233&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 BIRT
+2 DATE 1923
+1 DEAT
+2 DATE 2013
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=233&b=&lang=de
+2 DATE 2013
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 16:57:38
+0 @I954@ INDI
+1 RIN AB:I954
+1 _UID 06F377062ED34D7988B2001CC1EC1014648F
+1 NAME Kasimir /Pozuskiwsky/
+2 SURN Pozuskiwsky
+2 GIVN Kasimir
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=382&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 BIRT
+2 DATE 10 MAY 1922
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=382&b=&lang=de
+2 DATE 1945
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 1 OCT 1945
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 17:01:12
+0 @I955@ INDI
+1 RIN AB:I955
+1 _UID 80EAE0CD1F1641F0ABCAE937D867C6879ECE
+1 NAME Birgit /Preisberg/
+2 SURN Preisberg
+2 GIVN Birgit
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=55&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 BIRT
+2 DATE 1959
+1 DEAT
+2 DATE 2011
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=55&b=&lang=de
+2 DATE 2011
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 17:02:09
+0 @I956@ INDI
+1 RIN AB:I956
+1 _UID 67E9EB286A464AD6927EA49FBA50AF2D6CB5
+1 NAME Heide /Protasio/
+2 SURN Protasio
+2 GIVN Heide
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=175&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 BIRT
+2 DATE 3 JAN 1952
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=175&b=&lang=de
+2 DATE 2016
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+1 DEAT
+2 DATE 5 FEB 2016
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 17:10:22
+0 @I957@ INDI
+1 RIN AB:I957
+1 _UID 8207D36E32BA41899F38F4C3717C0A292ED6
+1 NAME Winfried /Purwin/
+2 SURN Purwin
+2 GIVN Winfried
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2018
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=247&b=&lang=de
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 BIRT
+2 DATE 1938
+1 DEAT
+2 DATE 2010
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2018
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=5591&tomb=247&b=&lang=de
+2 DATE 2010
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+2 NOTE Urnenbestattung
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 17:11:42
+0 @I958@ INDI
+1 RIN AB:I958
+1 _UID F6C625D5FAB64442A2F54A49BAF269133EE4
+1 NAME Friedrich /van Beeck/
+2 SURN van Beeck
+2 GIVN Friedrich
+1 SEX M
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S9@
+2 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 BIRT
+2 DATE 1925
+1 BURI
+2 DATE 1945
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+2 SOUR @S9@
+3 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 1945
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 17:39:42
+0 @I959@ INDI
+1 RIN AB:I959
+1 _UID 1EBA1975A59B47F6B28E3B7CAD9C14E41BBA
+1 NAME Kaspar /Bonkhoff/
+2 SURN Bonkhoff
+2 GIVN Kaspar
+1 SEX M
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S9@
+2 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 BIRT
+2 DATE 1898
+1 BURI
+2 DATE 1946
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+2 SOUR @S9@
+3 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 1946
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 17:40:37
+0 @I960@ INDI
+1 RIN AB:I960
+1 _UID D9367D8EE7C941E59B30D5FF59B277F1024E
+1 NAME Bernhard /Eggenstein/
+2 SURN Eggenstein
+2 GIVN Bernhard
+1 SEX M
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S9@
+2 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 BIRT
+2 DATE 1906
+1 BURI
+2 DATE 1941
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+2 SOUR @S9@
+3 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 1941
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 17:47:17
+0 @I961@ INDI
+1 RIN AB:I961
+1 _UID 51E04A1512294F68B9F15FEAE7023F18B509
+1 NAME Gustav /Flessenkämper/
+2 SURN Flessenkämper
+2 GIVN Gustav
+1 SEX M
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S9@
+2 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK Hamm (Nordenfriedhof), Nordrhein-Westfalen
+1 BIRT
+2 DATE 1919
+1 BURI
+2 DATE 1945
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+2 SOUR @S9@
+3 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK Hamm (Nordenfriedhof), Nordrhein-Westfalen
+1 DEAT
+2 DATE 1945
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 17:48:09
+0 @I962@ INDI
+1 RIN AB:I962
+1 _UID 9CBEC6065E694B21BA7D22D20BA8CCE3E6C6
+1 NAME Berni /Koch/
+2 SURN Koch
+2 GIVN Berni
+1 SEX M
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S9@
+2 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 BIRT
+2 DATE 1915
+1 BURI
+2 DATE 1943
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+2 SOUR @S9@
+3 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 1943
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 18:02:56
+0 @I963@ INDI
+1 RIN AB:I963
+1 _UID F4B8E94FC9384D27A29F72B5CE63A831CB7E
+1 NAME Ignatz /Krukenbaum/
+2 SURN Krukenbaum
+2 GIVN Ignatz
+1 SEX M
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S9@
+2 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 BIRT
+2 DATE 1914
+1 BURI
+2 DATE 1942
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+2 SOUR @S9@
+3 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 1942
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 18:03:44
+0 @I964@ INDI
+1 RIN AB:I964
+1 _UID 83541AF799274615824313271EAD433040B4
+1 NAME Heinz /Lindemann/
+2 SURN Lindemann
+2 GIVN Heinz
+1 SEX M
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S5@
+2 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 BIRT
+2 DATE 1914
+1 BURI
+2 DATE 1943
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+2 SOUR @S9@
+3 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 1943
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 18:04:20
+0 @I965@ INDI
+1 RIN AB:I965
+1 _UID B585FC4E4FC74837ACA74121080D16CDC635
+1 NAME Wilhelm /Linne/
+2 SURN Linne
+2 GIVN Wilhelm
+1 SEX M
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S9@
+2 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 BIRT
+2 DATE 1904
+1 BURI
+2 DATE 1946
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+2 SOUR @S9@
+3 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 1946
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 18:04:58
+0 @I966@ INDI
+1 RIN AB:I966
+1 _UID F7936C04C8C5493A845458945400EBEBF855
+1 NAME Willi /Lütkemeier/
+2 SURN Lütkemeier
+2 GIVN Willi
+1 SEX M
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S5@
+2 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 BIRT
+2 DATE 1908
+1 BURI
+2 DATE 1941
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+2 SOUR @S5@
+3 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 1941
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 18:05:31
+0 @I967@ INDI
+1 RIN AB:I967
+1 _UID 2B1A391C49FF40A4B5E86430D66FB9180DDC
+1 NAME Eduard /Meinke/
+2 SURN Meinke
+2 GIVN Eduard
+1 SEX M
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S9@
+2 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 BIRT
+2 DATE 1909
+1 BURI
+2 DATE 1943
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+2 SOUR @S9@
+3 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 1943
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 18:06:13
+0 @I968@ INDI
+1 RIN AB:I968
+1 _UID 28A07344865342209AF59D5DAF94F4F87285
+1 NAME Bernhard /Möller/
+2 SURN Möller
+2 GIVN Bernhard
+1 SEX M
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S5@
+2 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 BIRT
+2 DATE 1928
+1 BURI
+2 DATE 1945
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+2 SOUR @S9@
+3 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 1945
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 18:07:18
+0 @I969@ INDI
+1 RIN AB:I969
+1 _UID 15B65BF00918493380A1B8D7F87C0506E28B
+1 NAME Friedrich /Nächter/
+2 SURN Nächter
+2 GIVN Friedrich
+1 SEX M
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S9@
+2 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 BIRT
+2 DATE 1927
+1 BURI
+2 DATE 1948
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+2 SOUR @S9@
+3 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 1948
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 18:07:58
+0 @I970@ INDI
+1 RIN AB:I970
+1 _UID 82AB2E7172C34D5AAA419AC73678AD03527E
+1 NAME Theo /Nächter/
+2 SURN Nächter
+2 GIVN Theo
+1 SEX M
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S9@
+2 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 BIRT
+2 DATE 1918
+1 BURI
+2 DATE 1944
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+2 SOUR @S9@
+3 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 1944
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 18:09:50
+0 @I971@ INDI
+1 RIN AB:I971
+1 _UID EC77E7B276A348BD847215341791CC0CD9D6
+1 NAME Franz /Schreier/
+2 SURN Schreier
+2 GIVN Franz
+1 SEX M
+1 _INET
+2 _MHRM 1
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S9@
+2 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 BIRT
+2 DATE 1922
+1 BURI
+2 DATE 1944
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+2 SOUR @S9@
+3 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 1944
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 18:11:02
+0 @I972@ INDI
+1 RIN AB:I972
+1 _UID 09A99ADD41DB4E8D9357F0ED1B9821F8B33A
+1 NAME Josef /Skenewitz/
+2 SURN Skenewitz
+2 GIVN Josef
+1 SEX M
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S5@
+2 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 BIRT
+2 DATE 1925
+1 BURI
+2 DATE 1944
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+2 SOUR @S9@
+3 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 1944
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 18:13:09
+0 @I973@ INDI
+1 RIN AB:I973
+1 _UID E22ABEB1F2684E3BB6D784F0662CEF8C6CC5
+1 NAME Eduard /Wilmer/
+2 SURN Wilmer
+2 GIVN Eduard
+1 SEX M
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S9@
+2 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 BIRT
+2 DATE 1921
+1 BURI
+2 DATE 1945
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+2 SOUR @S9@
+3 PAGE Hamm (Nordenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_nordenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 1945
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 18:14:39
+0 @I974@ INDI
+1 RIN AB:I974
+1 _UID F6D06DD7A5E9430C89DBDF78FCF11F4AF85C
+1 NAME Heinz Wilhelm /Anlage/
+2 SURN Anlage
+2 GIVN Heinz Wilhelm
+1 SEX M
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S9@
+2 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 BIRT
+2 DATE 24 MAR 1895
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+1 BURI
+2 DATE 1941
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+2 SOUR @S9@
+3 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 30 JUN 1941
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 18:39:05
+0 @I975@ INDI
+1 RIN AB:I975
+1 _UID DAEC9E79AC9F4E03BC8604BCE0A982D056E6
+1 NAME Rudolf /Bartelt/
+2 SURN Bartelt
+2 GIVN Rudolf
+1 SEX M
+1 BIRT
+2 DATE 12 DEC 1898
+2 PLAC Reptow
+3 _LOC @L23@
+2 NOTE Der Ort ist nicht genau identifiziert.
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S5@
+2 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 BURI
+2 DATE 1940
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+2 SOUR @S5@
+3 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 28 SEP 1940
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 18:40:09
+0 @I976@ INDI
+1 RIN AB:I976
+1 _UID 89A579DCE32445B6A3EBC2B65AED5DE817BD
+1 NAME Friedrich /Blum/
+2 SURN Blum
+2 GIVN Friedrich
+1 SEX M
+1 BIRT
+2 DATE 28 MAR 1889
+2 PLAC Niederzehren, Garnsee, Marienwerder, Pommern, Westpreußen
+3 _LOC @L24@
+3 MAP
+4 LATI N53.616083
+4 LONG E19.064389
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S9@
+2 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 BURI
+2 DATE 1940
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+2 SOUR @S9@
+3 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 28 SEP 1940
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 18:41:47
+0 @I977@ INDI
+1 RIN AB:I977
+1 _UID 7BF06C38DA1E466DAA95D79C08CCE080A0D0
+1 NAME Willi /Breitkreuz/
+2 SURN Breitkreuz
+2 GIVN Willi
+1 SEX M
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S9@
+2 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 BIRT
+2 DATE 2 AUG 1884
+1 BURI
+2 DATE 1941
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+2 SOUR @S9@
+3 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 1 SEP 1941
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 19:03:20
+0 @I978@ INDI
+1 RIN AB:I978
+1 _UID 4D810174F7A943E2BD9116437EE6C8A47F48
+1 NAME Eduard /Breyer/
+2 SURN Breyer
+2 GIVN Eduard
+1 SEX M
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S9@
+2 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 BIRT
+2 DATE 22 OCT 1892
+1 BURI
+2 DATE 1940
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+2 SOUR @S9@
+3 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 8 JUL 1940
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 19:04:04
+0 @I979@ INDI
+1 RIN AB:I979
+1 _UID E4B47EB14DBB4B31B5B4B93611A0DBA4D36F
+1 NAME Konrad /Doppmeier/
+2 SURN Doppmeier
+2 GIVN Konrad
+1 SEX M
+1 BIRT
+2 DATE 17 JAN 1879
+2 PLAC Rotberg
+3 _LOC @L25@
+2 NOTE Der Ort ist nicht genau identifizert.
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S9@
+2 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 BURI
+2 DATE 1940
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+2 SOUR @S9@
+3 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 28 SEP 1940
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 19:04:52
+0 @I980@ INDI
+1 RIN AB:I980
+1 _UID 324C48B0C51340228AB444850DBCF729A01F
+1 NAME Josef Anton /Drees/
+2 SURN Drees
+2 GIVN Josef Anton
+1 SEX M
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S9@
+2 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 BIRT
+2 DATE 4 FEB 1890
+1 BURI
+2 DATE 1941
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+2 SOUR @S9@
+3 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 9 JAN 1941
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 19:05:37
+0 @I981@ INDI
+1 RIN AB:I981
+1 _UID D8495AE78D7D42CA9A5C7C98B49FF3561E34
+1 NAME Friedrich-Artur /Friederich/
+2 SURN Friederich
+2 GIVN Friedrich-Artur
+1 SEX M
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S9@
+2 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 BIRT
+2 DATE 27 MAY 1900
+1 BURI
+2 DATE 1941
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+2 SOUR @S9@
+3 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 9 FEB 1941
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 19:06:27
+0 @I982@ INDI
+1 RIN AB:I982
+1 _UID 0287A39631584C069B1EAF9AF05217B8B035
+1 NAME Heinrich /Knapper/
+2 SURN Knapper
+2 GIVN Heinrich
+1 SEX M
+1 SOUR @S9@
+2 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 BIRT
+2 DATE 15 MAR 1900
+1 BURI
+2 DATE 1940
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+2 SOUR @S9@
+3 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 28 SEP 1940
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 19:07:02
+0 @I983@ INDI
+1 RIN AB:I983
+1 _UID 7FCB12DD595045A88643A46F6E228D23EBA3
+1 NAME Rudolf /Lammers/
+2 SURN Lammers
+2 GIVN Rudolf
+1 SEX M
+1 BIRT
+2 DATE 11 MAY 1881
+2 PLAC Groß Hesepe, Hesepe, Geeste, Emsland, Niedersachsen
+3 _LOC @L26@
+3 MAP
+4 LATI N52.625278
+4 LONG E7.2325
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S9@
+2 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 BURI
+2 DATE 1940
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+2 SOUR @S9@
+3 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 4 JUL 1940
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 19:07:41
+0 @I984@ INDI
+1 RIN AB:I984
+1 _UID 517AB30E0A4D442D83DB354DE4214648C755
+1 NAME Franz /Leben/
+2 SURN Leben
+2 GIVN Franz
+1 SEX M
+1 SOUR @S5@
+2 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 BIRT
+2 DATE 5 JUN 1890
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+1 BURI
+2 DATE 1941
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+2 SOUR @S9@
+3 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 26 MAR 1941
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 19:08:21
+0 @I985@ INDI
+1 RIN AB:I985
+1 _UID DA355B70A5C64F8DBE48463BE49BE995A529
+1 NAME Friedrich /Reser/
+2 SURN Reser
+2 GIVN Friedrich
+1 SEX M
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S9@
+2 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 BIRT
+2 DATE 4 OCT 1881
+1 BURI
+2 DATE 1940
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+2 SOUR @S9@
+3 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 28 SEP 1940
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 19:09:01
+0 @I986@ INDI
+1 RIN AB:I986
+1 _UID 90B0D40853884C618C307B70813104FF00CD
+1 NAME Anton /Schrader/
+2 SURN Schrader
+2 GIVN Anton
+1 SEX M
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S9@
+2 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 BIRT
+2 DATE 24 MAR 1892
+1 BURI
+2 DATE 1940
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+2 SOUR @S9@
+3 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 4 JUL 1940
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 19:09:48
+0 @I987@ INDI
+1 RIN AB:I987
+1 _UID 385D389B15A24EA5AD06225D20C7D1FCF84F
+1 NAME Karl Heinz /Strunk/
+2 SURN Strunk
+2 GIVN Karl Heinz
+1 SEX M
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S9@
+2 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 BIRT
+2 DATE 3 AUG 1922
+1 BURI
+2 DATE 1940
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+2 SOUR @S9@
+3 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 4 JUL 1940
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 19:10:28
+0 @I988@ INDI
+1 RIN AB:I988
+1 _UID FF496A29FF1740B6861FED2321DA012DC576
+1 NAME Gustav /Urban/
+2 SURN Urban
+2 GIVN Gustav
+1 SEX M
+1 BIRT
+2 DATE 18 OCT 1883
+2 PLAC Jablon
+3 _LOC @L27@
+2 NOTE Der Ort ist nicht genau identifizert.
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S9@
+2 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 BURI
+2 DATE 1940
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+2 SOUR @S9@
+3 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 28 SEP 1940
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 19:11:13
+0 @I989@ INDI
+1 RIN AB:I989
+1 _UID FCF01CA5B1CB41E68638CED0BE2349E9BFD6
+1 NAME Hermann /Zimmermann/
+2 SURN Zimmermann
+2 GIVN Hermann
+1 SEX M
+1 BIRT
+2 DATE 23 SEP 1875
+2 PLAC Steinau
+3 _LOC @L28@
+2 NOTE Der Ort ist nicht genau identifiziert.
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 6 OCT 2020
+2 _SDATE 6 OCT 2020
+1 SOUR @S9@
+2 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+2 DATA
+3 DATE 2020
+2 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 BURI
+2 DATE 1940
+2 PLAC Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+3 _LOC @L4@
+2 SOUR @S9@
+3 PAGE Hamm (Westenfriedhof), Nordrhein-Westfalen
+3 DATA
+4 DATE 2020
+3 _LINK http://www.denkmalprojekt.org/2020/hamm_westenfriedhof_wk2_nrw.html
+1 DEAT
+2 DATE 8 JUL 1940
+1 CHAN
+2 DATE 6 OCT 2020
+3 TIME 19:11:53
 0 @S1@ SOUR
 1 TITL Matricula
 0 @S2@ SOUR
@@ -25012,6 +26705,9 @@
 1 PUBL https://www.myheritage.de/
 0 @S8@ SOUR
 1 TITL GenWiki
+0 @S9@ SOUR
+1 TITL Onlineprojekt Gefallenendenkmäler
+1 PUBL http://www.denkmalprojekt.org/
 0 @F1@ FAM
 1 HUSB @I2@
 1 CHIL @I1@
@@ -27688,6 +29384,15 @@
 1 CHIL @I912@
 1 WIFE @I914@
 1 CHIL @I915@
+0 @F319@ FAM
+1 HUSB @I939@
+1 WIFE @I940@
+0 @F320@ FAM
+1 HUSB @I946@
+1 WIFE @I947@
+0 @F321@ FAM
+1 HUSB @I950@
+1 WIFE @I951@
 0 @SUBM@ SUBM
 1 NAME Michael Johne
 1 ADDR Michael Johne
@@ -27807,6 +29512,39 @@
 0 @L22@ _LOC
 1 NAME Johannisburg
 1 NOTE Der Geburtsort "Johannisburg" ist nicht eindeutig bestimmt.
+0 @L23@ _LOC
+1 NAME Reptow
+1 NOTE Der Ort ist nicht genau identifiziert.
+0 @L24@ _LOC
+1 NAME Niederzehren, Garnsee, Marienwerder, Pommern, Westpreußen
+1 NOTE Der ort entspricht heute Czarne Dolne, Gmina Gardeja, Powiat Kwidzyński, Woiwodschaft Pommern, Polen.
+1 SOUR https://de.wikipedia.org/wiki/Czarne_Dolne
+2 CONT https://gov.genealogy.net/item/show/NIERENJO93MO
+1 _POST PL-82-521
+1 _GOV NIERENJO93MO
+1 MAP
+2 LATI N53.616083
+2 LONG E19.064389
+0 @L25@ _LOC
+1 NAME Rotberg
+1 NOTE Der Ort ist nicht genau identifizert.
+0 @L26@ _LOC
+1 NAME Groß Hesepe, Hesepe, Geeste, Emsland, Niedersachsen
+1 SOUR https://de.wikipedia.org/wiki/Hesepe_(Emsland)
+2 CONT http://gov.genealogy.net/item/show/HESEP1_W4471
+1 _POST 49744
+1 _GOV HESEP1_W4471
+1 MAP
+2 LATI N52.625278
+2 LONG E7.2325
+0 @L27@ _LOC
+1 NAME Jablon
+1 NOTE Der Ort ist nicht genau identifizert.
+1 SOUR https://de.wikipedia.org/wiki/Jab%C5%82o%C5%84_(Pisz)
+2 CONT https://de.wikipedia.org/wiki/Jab%C5%82o%C5%84
+0 @L28@ _LOC
+1 NAME Steinau
+1 NOTE Der Ort ist nicht genau identifiziert.
 0 @L3@ _LOC
 1 NAME Köln, Nordrhein-Westfalen
 1 _POST 50667
