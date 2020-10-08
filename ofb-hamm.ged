@@ -3,8 +3,8 @@
 2 VERS 3.16
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
-1 DATE 8 OCT 2020
-2 TIME 18:52:42
+1 DATE 9 OCT 2020
+2 TIME 0:14:14
 1 SUBM @SUBM@
 1 FILE ofb-hamm.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I1206@
-1 _HOME @I1206@
+2 _NAVI @I1237@
+1 _HOME @I1237@
 0 @I1@ INDI
 1 RIN AB:I1
 1 _UID 4EB661D5ACFE49AAAB528691A2E80DB03210
@@ -33940,7 +33940,1355 @@
 2 _SDATE 8 OCT 2020
 1 CHAN
 2 DATE 8 OCT 2020
-3 TIME 18:52:10
+3 TIME 19:07:41
+0 @I1207@ INDI
+1 RIN AB:I1207
+1 _UID 155AE444D1854D6BB456DA1DD21CD155BA04
+1 NAME Willi /Wittkamp/
+2 SURN Wittkamp
+2 GIVN Willi
+1 SEX M
+1 BURI
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=4&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=4&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 BIRT
+2 DATE 1909
+1 DEAT
+2 DATE 1942
+2 PLAC Frankreich
+2 CAUS im 2. Weltkrieg gefallen
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:50:36
+0 @I1208@ INDI
+1 RIN AB:I1208
+1 _UID CB443EB14C8D43729F16753C88F02333C031
+1 NAME Wilhelm /Wittkamp/
+2 SURN Wittkamp
+2 GIVN Wilhelm
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=4&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 BIRT
+2 DATE 1934
+1 DEAT
+2 DATE 2009
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=4&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 2009
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:50:48
+0 @I1209@ INDI
+1 RIN AB:I1209
+1 _UID 0B1B7A7DBE8B4127A4B9B7F8975374FD359F
+1 NAME Karin /Wittkamp/
+2 SURN Wittkamp
+2 GIVN Karin
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=4&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 DEAT
+2 DATE 1973
+1 BIRT
+2 DATE 1973
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=4&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 1973
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:50:58
+0 @I1210@ INDI
+1 RIN AB:I1210
+1 _UID 1F1DA630525341A2B79FB87841F115FC6382
+1 NAME Gerlind /Wittkamp/
+2 SURN Wittkamp
+2 GIVN Gerlind
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=4&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 BIRT
+2 DATE 1960
+1 DEAT
+2 DATE 1961
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=4&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 1961
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:51:18
+0 @I1211@ INDI
+1 RIN AB:I1211
+1 _UID A36BEB9C5DA64D53895048A139D00A1F2C7A
+1 NAME Antonie /Wittkamp/
+2 SURN Wittkamp
+2 GIVN Antonie
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=4&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 BIRT
+2 DATE 1911
+1 DEAT
+2 DATE 1932
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=4&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 1932
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:51:35
+0 @I1212@ INDI
+1 RIN AB:I1212
+1 _UID BA943423EBDA4DC88EC07062F2CDCB9CC5F2
+1 NAME Wilhelm /Wittkamp/
+2 SURN Wittkamp
+2 GIVN Wilhelm
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=4&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 FAMS @F347@
+1 BIRT
+2 DATE 1866
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=4&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 1945
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 DEAT
+2 DATE 1945
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:51:46
+0 @I1213@ INDI
+1 RIN AB:I1213
+1 _UID EA64F545371F4A84822E3ABD03A377E252F8
+1 NAME Anna /Berkhoff/
+2 SURN Berkhoff
+2 GIVN Anna
+2 _MARNM Wittkamp
+1 SEX F
+1 FAMS @F347@
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=4&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 1
+2 _MHSM 0
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 SOUR @S7@
+2 PAGE Deutschland, Nordrhein-Westfalen, Sterberegister 1874-1938
+2 _LINK https://www.myheritage.de/research/collection-10864/deutschland-nordrhein-westfalen-sterberegister-1874-1938?itemId=179687-&indId=externalindividual-fc748abd88de251f89e16f539c24b438&mrid=eedabf492a2b688221c95c7ec2fe52ba&action=showRecord&record
+3 CONC Title=+Anna+Berkhoff
+1 BIRT
+2 DATE 1873
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=4&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 1927
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 DEAT
+2 DATE 5 SEP 1927
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:51:57
+0 @I1214@ INDI
+1 RIN AB:I1214
+1 _UID 81923B288F0448A18C9B16B070CB7C51E734
+1 NAME Heinrich /Wittkamp/
+2 SURN Wittkamp
+2 GIVN Heinrich
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=4&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 FAMS @F348@
+1 BIRT
+2 DATE 1900
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=4&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 1968
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 DEAT
+2 DATE 1968
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:52:26
+0 @I1215@ INDI
+1 RIN AB:I1215
+1 _UID A7EB7D672CDF4787A551237364C0198CA46E
+1 NAME Franziska /Kuse/
+2 SURN Kuse
+2 GIVN Franziska
+2 _MARNM Wittkamp
+1 SEX F
+1 FAMS @F348@
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=4&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 BIRT
+2 DATE 1908
+1 DEAT
+2 DATE 1998
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=4&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 1998
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:52:33
+0 @I1216@ INDI
+1 RIN AB:I1216
+1 _UID 973006713E944829BC66183FB9C92FDB86C3
+1 NAME Bernhard /Bachtrop/
+2 SURN Bachtrop
+2 GIVN Bernhard
+1 SEX M
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=3&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=3&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:52:44
+0 @I1217@ INDI
+1 RIN AB:I1217
+1 _UID FCA1BE6C742C4371ACE45D2830FDF795E9C6
+1 NAME Ferdinand /Bachtrop/
+2 SURN Bachtrop
+2 GIVN Ferdinand
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=3&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 BIRT
+2 DATE 27 MAY 1939
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=3&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 2009
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 DEAT
+2 DATE 20 MAY 2009
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:52:51
+0 @I1218@ INDI
+1 RIN AB:I1218
+1 _UID FB4FCF306337405B955777A6D2BAA6FDB697
+1 NAME Leni /Bachtrop/
+2 SURN Bachtrop
+2 GIVN Leni
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=3&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 BIRT
+2 DATE 5 JAN 1941
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=3&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 1995
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 DEAT
+2 DATE 29 SEP 1995
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:52:59
+0 @I1219@ INDI
+1 RIN AB:I1219
+1 _UID 0064FB69E13E4F898841F1DB3139A061BF0C
+1 NAME Theodor /Bachtrop/
+2 SURN Bachtrop
+2 GIVN Theodor
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=3&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 BIRT
+2 DATE 26 MAR 1930
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=3&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 1932
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 DEAT
+2 DATE 27 JAN 1932
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:53:07
+0 @I1220@ INDI
+1 RIN AB:I1220
+1 _UID A0AC20352ACE44F7AA55EFB039F528D49C42
+1 NAME Josefine /Wesp/
+2 SURN Wesp
+2 GIVN Josefine
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=3&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 BIRT
+2 DATE 27 JAN 1920
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=3&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 1995
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 DEAT
+2 DATE 4 MAY 1995
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:53:14
+0 @I1221@ INDI
+1 RIN AB:I1221
+1 _UID 2146949218DC40BDAB7DA7F93D93773CC9C6
+1 NAME Heinrich /Wellmann/
+2 SURN Wellmann
+2 GIVN Heinrich
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=5&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 0
+2 _MHSM 3
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 FAMS @F349@
+1 SOUR @S5@
+2 PAGE Wellmann Web Site von Mechthild Wesselmann
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=272347161-1-114&indId=externalindividual-f6d29e07979ec6ea2749bec0f4031ef8&mrid=33d4095492f18fa1146a706695752890&action=showRecord&recordTitle=Heinrich+Wellmann
+1 SOUR @S5@
+2 PAGE Eske Web Site von Fredi Lange
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=58207221-1-114&indId=externalindividual-f6d29e07979ec6ea2749bec0f4031ef8&mrid=33d4095492f18fa1146a706695752890&action=showRecord&recordTitle=Heinrich+Wellmann
+1 SOUR @S5@
+2 PAGE Pannewig Web Site für Christoph Pannewig
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=290311961-1-500006&indId=externalindividual-f6d29e07979ec6ea2749bec0f4031ef8&mrid=33d4095492f18fa1146a706695752890&action=showRecord&recordTitle=Heinrich+Wellmann
+1 BIRT
+2 DATE 6 FEB 1911
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=5&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 1986
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 DEAT
+2 DATE 29 DEC 1986
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:53:24
+0 @I1222@ INDI
+1 RIN AB:I1222
+1 _UID 98C15A9C57554E28AC54AD23231AD6A0F465
+1 NAME Josefine /Budde/
+2 GIVN Josefine
+2 _MARNM Wellmann
+2 SURN Budde
+1 SEX F
+1 FAMS @F349@
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=5&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 0
+2 _MHSM 3
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 SOUR @S7@
+2 PAGE Wellmann Web Site von Mechthild Wesselmann
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=272347161-1-115&indId=externalindividual-f6d29e07979ec6ea2749bec0f4031ef8&mrid=33d4095492f18fa1146a706695752890&action=showRecord
+1 SOUR @S7@
+2 PAGE Eske Web Site von Fredi Lange
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=58207221-1-115&indId=externalindividual-f6d29e07979ec6ea2749bec0f4031ef8&mrid=33d4095492f18fa1146a706695752890&action=showRecord
+1 SOUR @S7@
+2 PAGE Pannewig Web Site von Christoph Pannewig
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=290311961-1-500007&indId=externalindividual-f6d29e07979ec6ea2749bec0f4031ef8&mrid=33d4095492f18fa1146a706695752890&action=showRecord
+1 BIRT
+2 DATE 16 APR 1920
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=5&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 2009
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 DEAT
+2 DATE 20 JAN 2009
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:53:33
+0 @I1223@ INDI
+1 RIN AB:I1223
+1 _UID 4DBF58FB6DD64B8BB69855DB38F1E5D1D51A
+1 NAME Marianne /Wellmann/
+2 SURN Wellmann
+2 GIVN Marianne
+1 SEX F
+1 FAMC @F349@
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=5&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 0
+2 _MHSM 3
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 SOUR @S7@
+2 PAGE Eske Web Site von Fredi Lange
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=58207221-1-123&indId=externalindividual-f6d29e07979ec6ea2749bec0f4031ef8&mrid=33d4095492f18fa1146a706695752890&action=showRecord
+1 BIRT
+2 DATE 1940
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=5&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 2000
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 DEAT
+2 DATE 2000
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:53:42
+0 @I1224@ INDI
+1 RIN AB:I1224
+1 _UID 545A7CDA100F472398FBD7E9B10BB88ADED9
+1 NAME Johannes /Wellekötter/
+2 SURN Wellekötter
+2 GIVN Johannes
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=81&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 SOUR @S7@
+2 PAGE Wellekötter Web Site von Marc Wellekötter
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=386252042-1-500055&indId=externalindividual-88b90af884813182d761e8c9b572f7bf&mrid=56401cf3a38601a38f469c07f4e16c21&action=showRecord&recordTitle=Johannes+Wellek%C3%B6t
+3 CONC ter
+1 SOUR @S7@
+2 PAGE Nabers Web Site von Heinz Nabers
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=126653541-27-870&indId=externalindividual-88b90af884813182d761e8c9b572f7bf&mrid=56401cf3a38601a38f469c07f4e16c21&action=showRecord&recordTitle=Johannes+Wellek%C3%B6tte
+3 CONC r
+1 BIRT
+2 DATE 7 MAR 1889
+2 PLAC Wessum, Ahaus, Borken, Nordrhein-Westfalen
+3 _LOC @L37@
+3 MAP
+4 LATI N52.091194
+4 LONG E6.973583
+1 OCCU Pfaffer
+2 DATE FROM 1943 TO 1945
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 NOTE Pfarrer an St. Stephan
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=81&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 1945
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 DEAT
+2 DATE 11 OCT 1945
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:53:58
+0 @I1225@ INDI
+1 RIN AB:I1225
+1 _UID 7FC6747E751E48CBAB68E9DB46F2289AAEC6
+1 NAME Heinrich /Weindorf/
+2 SURN Weindorf
+2 GIVN Heinrich
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=6&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 FAMS @F350@
+1 BIRT
+2 DATE 26 MAR 1877
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=6&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 1949
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 DEAT
+2 DATE 25 JAN 1949
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:54:07
+0 @I1226@ INDI
+1 RIN AB:I1226
+1 _UID 939A91557FE74CE7B69EA1A514B201BBC891
+1 NAME Johanna
+2 GIVN Johanna
+2 _MARNM Weindorf
+1 SEX F
+1 FAMS @F350@
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=6&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 BIRT
+2 DATE 23 FEB 1882
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=6&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 1971
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 DEAT
+2 DATE 11 MAR 1971
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:54:15
+0 @I1227@ INDI
+1 RIN AB:I1227
+1 _UID 6E569ACC65EC4C458AEDA1B7EBF01EC29695
+1 NAME Franz /Hertel/
+2 SURN Hertel
+2 GIVN Franz
+1 SEX M
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=6&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 BIRT
+2 DATE 9 SEP 1906
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=6&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 1970
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 DEAT
+2 DATE 10 SEP 1970
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:54:24
+0 @I1228@ INDI
+1 RIN AB:I1228
+1 _UID 19486D77F9804F04BF40E376D950C5F14856
+1 NAME Josefine /Hertel/
+2 SURN Hertel
+2 GIVN Josefine
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=6&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 BIRT
+2 DATE 23 MAY 1907
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=6&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 1980
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 DEAT
+2 DATE 23 AUG 1980
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:54:32
+0 @I1229@ INDI
+1 RIN AB:I1229
+1 _UID 3A7CC27ECC034C72B149CCB01C7F197C29EB
+1 NAME Teresa /Hertel/
+2 SURN Hertel
+2 GIVN Teresa
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=6&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=6&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 1970
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 BIRT
+2 DATE 7 FEB 1970
+1 DEAT
+2 DATE 7 FEB 1970
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:54:41
+0 @I1230@ INDI
+1 RIN AB:I1230
+1 _UID 2BD1C0A9B45E4DE68E6C504F31A7013C585C
+1 NAME Marianne /Schmitz/
+2 SURN Schmitz
+2 GIVN Marianne
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=6&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 BIRT
+2 DATE 5 MAY 1860
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=6&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 1920
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 DEAT
+2 DATE 27 JUL 1920
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:54:49
+0 @I1231@ INDI
+1 RIN AB:I1231
+1 _UID AF7D8759B8D74EF8B0F5DAC9E8FFCAEDC725
+1 NAME Helene /Schulze Everding/
+2 SURN Schulze Everding
+2 GIVN Helene
+2 NICK Leni
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=25&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-503695&indId=externalindividual-51374b7e4d4563d794599f75530d351c&mrid=a0f487b2295b48da8e79bde8881c8641&action=showRecord
+1 BIRT
+2 DATE 10 MAR 1919
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=25&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 2007
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 DEAT
+2 DATE 4 APR 2007
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:54:58
+0 @I1232@ INDI
+1 RIN AB:I1232
+1 _UID 0558FB41A1E044D2BA8F09CE0C3A21CA8194
+1 NAME Sefi /Schulze Everding/
+2 SURN Schulze Everding
+2 GIVN Sefi
+1 SEX U
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=25&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 BIRT
+2 DATE 24 MAY 1942
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=25&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 2008
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 DEAT
+2 DATE 17 MAY 2008
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:55:13
+0 @I1233@ INDI
+1 RIN AB:I1233
+1 _UID FF1B13EA1D0E4E95BDAC7A42388C97FFA423
+1 NAME Maria /Schulte Döinghaus/
+2 SURN Schulte Döinghaus
+2 GIVN Maria
+2 _MARNM Schulze Everding
+1 SEX F
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=25&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-503688&indId=externalindividual-51374b7e4d4563d794599f75530d351c&mrid=a0f487b2295b48da8e79bde8881c8641&action=showRecord&recordTitle=Maria+Everding+%28born+
+3 CONC Schulte+D%C3%B6inghaus%29
+1 FAMS @F351@
+1 BIRT
+2 DATE 24 MAR 1919
+2 PLAC Varensell, Rietberg, Kreis Gütersloh, Nordrhein-Westfalen
+3 _LOC @L38@
+3 MAP
+4 LATI N51.859194
+4 LONG E8.438889
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=25&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 2004
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 DEAT
+2 DATE 21 AUG 2004
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:55:26
+0 @I1234@ INDI
+1 RIN AB:I1234
+1 _UID 82CC4E6314E44E28A4727FDDC09F71B6658D
+1 NAME Alfons /Schulze Everding/
+2 SURN Schulze Everding
+2 GIVN Alfons
+1 SEX M
+1 FAMS @F351@
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=25&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 SOUR @S7@
+2 DATA
+3 DATE (Familienseite Post von Kai Post)
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-503445&indId=externalindividual-51374b7e4d4563d794599f75530d351c&mrid=a0f487b2295b48da8e79bde8881c8641&action=showRecord
+1 FAMS @F352@
+1 FAMC @F353@
+1 BIRT
+2 DATE 20 DEC 1908
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=25&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 1961
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 DEAT
+2 DATE 10 JUL 1961
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:55:35
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 9 OCT 2020
+2 _SDATE 9 OCT 2020
+0 @I1235@ INDI
+1 RIN AB:I1235
+1 _UID D8139C3F2D1B4FD582AC41554D7967FB1E8B
+1 NAME Gertrud /Raring-Eickendrup/
+2 SURN Raring-Eickendrup
+2 GIVN Gertrud
+2 _MARNM Schulze Everding 
+1 SEX F
+1 FAMS @F352@
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=25&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-502773&indId=externalindividual-51374b7e4d4563d794599f75530d351c&mrid=a0f487b2295b48da8e79bde8881c8641&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+1 BIRT
+2 DATE 23 FEB 1908
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=25&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 1948
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 DEAT
+2 DATE 20 OCT 1948
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:56:19
+0 @I1236@ INDI
+1 RIN AB:I1236
+1 _UID 08F1CCA1E3E44202B54D47CD2111B951C3F2
+1 NAME Gertrud /Schulze Everding/
+2 SURN Schulze Everding
+2 GIVN Gertrud
+1 SEX F
+1 FAMC @F352@
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=25&b=&lang=de
+2 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-506823&indId=externalindividual-51374b7e4d4563d794599f75530d351c&mrid=a0f487b2295b48da8e79bde8881c8641&action=showRecord
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=25&b=&lang=de
+3 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 1948
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 DEAT
+2 DATE 20 OCT 1948
+1 BIRT
+2 DATE 20 OCT 1948
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:57:17
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 8 OCT 2020
+2 _SDATE 8 OCT 2020
+0 @I1237@ INDI
+1 RIN AB:I1237
+1 _UID 2BF58A80ACD14A9E9367A4F3773A589BC469
+1 NAME Johannes /Schulze Everding/
+2 SURN Schulze Everding
+2 GIVN Johannes
+1 SEX M
+1 FAMS @F353@
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=25&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 SOUR @S7@
+2 DATA
+3 DATE 2019
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-503686&indId=externalindividual-51374b7e4d4563d794599f75530d351c&mrid=a0f487b2295b48da8e79bde8881c8641&action=showRecord
+1 FAMS @F356@
+1 _INET
+2 _MHRM 0
+2 _MHSM 5
+2 _RDATE 9 OCT 2020
+2 _SDATE 9 OCT 2020
+1 OCCU Landwirt
+1 BIRT
+2 DATE 7 DEC 1864
+2 PLAC Amelsbüren, Münster, Nordrhein-Westfalen
+3 _LOC @L39@
+3 MAP
+4 LATI N51.887583
+4 LONG E7.588194
+1 CHR
+2 DATE 9 DEC 1864
+2 PLAC Amelsbüren, Münster, Nordrhein-Westfalen
+3 _LOC @L39@
+3 MAP
+4 LATI N51.887583
+4 LONG E7.588194
+2 RELI römisch-katholisch
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=25&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 1951
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 DEAT
+2 DATE 1 SEP 1951
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+1 CHAN
+2 DATE 9 OCT 2020
+3 TIME 0:12:06
+0 @I1238@ INDI
+1 RIN AB:I1238
+1 _UID 843825DC06184E28BCA13806A5E25C2CFB51
+1 NAME Adelheid Pauline Maria Rosa /Gräfin von Looz Corswarem/
+2 SURN Gräfin von Looz Corswarem
+2 GIVN Adelheid Pauline Maria Rosa
+2 NICK Maria 
+2 _MARNM Schulze Everding 
+1 SEX F
+1 FAMS @F353@
+1 BURI
+2 SOUR @S5@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=25&b=&lang=de
+2 DATE 1915
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=25&b=&lang=de
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-503687&indId=externalindividual-51374b7e4d4563d794599f75530d351c&mrid=a0f487b2295b48da8e79bde8881c8641&action=showRecord
+1 BIRT
+2 DATE 21 FEB 1873
+2 PLAC Hiltrup, Münster, Nordrhein-Westfalen
+3 _LOC @L40@
+3 MAP
+4 LATI N51.9
+4 LONG E7.65
+1 DEAT
+2 DATE 2 FEB 1915
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:09:22
+0 @I1239@ INDI
+1 RIN AB:I1239
+1 _UID F61A63C901CD4F459481B607CC242EB03E19
+1 NAME Alwine Josephina /Schulze Everding/
+2 SURN Schulze Everding
+2 GIVN Alwine Josephina
+2 _MARNM Dahlkamp 
+1 SEX F
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-503689&indId=externalindividual-51374b7e4d4563d794599f75530d351c&mrid=a0f487b2295b48da8e79bde8881c8641&action=showRecord
+1 FAMS @F354@
+1 FAMC @F353@
+1 FAMS @F355@
+1 BIRT
+2 DATE 8 APR 1913
+1 DEAT
+2 DATE 14 JAN 1962
+2 PLAC Münster, Nordrhein-Westfalen
+3 _LOC @L41@
+3 MAP
+4 LATI N51.956194
+4 LONG E7.620389
+2 CAUS Nebennierenkrebs
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:49:53
+1 _INET
+2 _MHRM 0
+2 _MHSM 6
+2 _RDATE 9 OCT 2020
+2 _SDATE 9 OCT 2020
+0 @I1240@ INDI
+1 RIN AB:I1240
+1 _UID 11E521F365324979A3A41EE25C1F138EC6D0
+1 NAME Wilhelm /Dahlkamp/
+2 SURN Dahlkamp
+2 GIVN Wilhelm
+1 SEX M
+1 FAMS @F354@
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-503697&indId=externalindividual-51374b7e4d4563d794599f75530d351c&mrid=a0f487b2295b48da8e79bde8881c8641&action=showRecord
+1 BIRT
+2 DATE 17 AUG 1901
+1 DEAT
+2 DATE 17 AUG 1950
+2 CAUS Unfall
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:49:31
+1 _INET
+2 _MHRM 0
+2 _MHSM 5
+2 _RDATE 9 OCT 2020
+2 _SDATE 9 OCT 2020
+0 @I1241@ INDI
+1 RIN AB:I1241
+1 _UID 87C2C72CDEB7497F85E22EA8CEC12F2EC23B
+1 NAME Felix /Schulze Everding/
+2 SURN Schulze Everding
+2 GIVN Felix
+1 SEX M
+1 FAMC @F353@
+1 SOUR @S5@
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=25&b=&lang=de
+2 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-503694&indId=externalindividual-51374b7e4d4563d794599f75530d351c&mrid=a0f487b2295b48da8e79bde8881c8641&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 1
+2 _RDATE 9 OCT 2020
+2 _SDATE 9 OCT 2020
+1 BIRT
+2 DATE 6 SEP 1903
+1 BURI
+2 SOUR @S7@
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=25&b=&lang=de
+3 PAGE Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
+2 DATE 1937
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 DEAT
+2 DATE 22 JAN 1937
+1 CHAN
+2 DATE 9 OCT 2020
+3 TIME 0:08:37
+0 @I1242@ INDI
+1 RIN AB:I1242
+1 _UID CE1069FC6BC94CBFB9E57357EE954470218F
+1 NAME Hedwig /Schulze Everding/
+2 SURN Schulze Everding
+2 GIVN Hedwig
+2 _MARNM Schulze aufm Hofe 
+1 SEX F
+1 FAMC @F353@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-503698&indId=externalindividual-51374b7e4d4563d794599f75530d351c&mrid=a0f487b2295b48da8e79bde8881c8641&action=showRecord
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:41:24
+0 @I1244@ INDI
+1 RIN AB:I1244
+1 _UID 2C42EA124984494C809270A3CECEAE1752D4
+1 NAME Bernhard /Geschermann/
+2 SURN Geschermann
+2 GIVN Bernhard
+1 SEX M
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-504835&indId=externalindividual-51374b7e4d4563d794599f75530d351c&mrid=a0f487b2295b48da8e79bde8881c8641&action=showRecord
+1 FAMS @F355@
+1 BIRT
+2 DATE 1915
+1 DEAT
+2 DATE 1971
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:48:05
+0 @I1245@ INDI
+1 RIN AB:I1245
+1 _UID 4D3A202BFCB34D0F9410F7EB2EF32D49FAD4
+1 NAME Clara /Waterbeck/
+2 SURN Waterbeck
+2 GIVN Clara
+1 SEX F
+1 FAMS @F356@
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-503696&indId=externalindividual-51374b7e4d4563d794599f75530d351c&mrid=a0f487b2295b48da8e79bde8881c8641&action=showRecord
+1 BIRT
+2 DATE 1873
+2 PLAC Amelsbüren, Münster, Nordrhein-Westfalen
+3 _LOC @L39@
+3 MAP
+4 LATI N51.887583
+4 LONG E7.588194
+1 DEAT
+2 DATE 16 AUG 1936
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 8 OCT 2020
+3 TIME 23:45:13
 0 @S1@ SOUR
 1 TITL Matricula
 0 @S2@ SOUR
@@ -36774,6 +38122,61 @@
 0 @F346@ FAM
 1 HUSB @I1196@
 1 WIFE @I1197@
+0 @F347@ FAM
+1 HUSB @I1212@
+1 WIFE @I1213@
+0 @F348@ FAM
+1 HUSB @I1214@
+1 WIFE @I1215@
+0 @F349@ FAM
+1 HUSB @I1221@
+1 WIFE @I1222@
+1 CHIL @I1223@
+1 MARR
+2 DATE 30 OCT 1939
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+0 @F350@ FAM
+1 HUSB @I1225@
+1 WIFE @I1226@
+0 @F351@ FAM
+1 WIFE @I1233@
+1 HUSB @I1234@
+1 MARR
+2 DATE 15 FEB 1950
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+0 @F352@ FAM
+1 HUSB @I1234@
+1 WIFE @I1235@
+1 MARR
+2 DATE 15 JUN 1942
+1 CHIL @I1236@
+0 @F353@ FAM
+1 HUSB @I1237@
+1 CHIL @I1234@
+1 WIFE @I1238@
+1 MARR Y
+1 CHIL @I1239@
+1 CHIL @I1241@
+1 CHIL @I1242@
+0 @F354@ FAM
+1 WIFE @I1239@
+1 HUSB @I1240@
+0 @F355@ FAM
+1 HUSB @I1244@
+1 WIFE @I1239@
+0 @F356@ FAM
+1 HUSB @I1237@
+1 WIFE @I1245@
+1 MARR
+2 DATE 30 MAY 1916
 0 @SUBM@ SUBM
 1 NAME Michael Johne
 1 ADDR Michael Johne
@@ -36995,8 +38398,53 @@
 1 MAP
 2 LATI N51.68
 2 LONG E7.87
+0 @L37@ _LOC
+1 NAME Wessum, Ahaus, Borken, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/Wessum
+2 CONT http://gov.genealogy.net/item/show/DORSUMJO32LB
+1 _POST 48683
+1 _GOV DORSUMJO32LB
+1 MAP
+2 LATI N52.091194
+2 LONG E6.973583
+0 @L38@ _LOC
+1 NAME Varensell, Rietberg, Kreis Gütersloh, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/Varensell
+2 CONT http://gov.genealogy.net/item/show/VARELLJO41FU
+1 _POST 33397
+1 _GOV VARELLJO41FU
+1 MAP
+2 LATI N51.859194
+2 LONG E8.438889
+0 @L39@ _LOC
+1 NAME Amelsbüren, Münster, Nordrhein-Westfalen
+1 SOUR Amelsbüren, Münster, Nordrhein-Westfalen
+2 CONT http://gov.genealogy.net/item/show/AMERENJO31TV
+1 _POST 48163
+1 _GOV AMERENJO31TV
+1 MAP
+2 LATI N51.887583
+2 LONG E7.588194
 0 @L4@ _LOC
 1 NAME Westenfriedhof, Herringen, Hamm, Nordrhein-Westfalen
+0 @L40@ _LOC
+1 NAME Hiltrup, Münster, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/Hiltrup
+2 CONT http://gov.genealogy.net/item/show/HILRU1JO31TV
+1 _POST 48165
+1 _GOV HILRU1JO31TV
+1 MAP
+2 LATI N51.9
+2 LONG E7.65
+0 @L41@ _LOC
+1 NAME Münster, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/M%C3%BCnster
+2 CONT http://gov.genealogy.net/item/show/MUNTERJO31TX
+1 _POST 48143
+1 _GOV MUNTERJO31TX
+1 MAP
+2 LATI N51.956194
+2 LONG E7.620389
 0 @L5@ _LOC
 1 NAME Herringen, Hamm, Nordrhein-Westfalen
 1 _POST 59077
