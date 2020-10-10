@@ -3,8 +3,8 @@
 2 VERS 3.16
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
-1 DATE 9 OCT 2020
-2 TIME 22:35:17
+1 DATE 11 OCT 2020
+2 TIME 0:18:09
 1 SUBM @SUBM@
 1 FILE ofb-hamm.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I1332@
-1 _HOME @I1332@
+2 _NAVI @I1425@
+1 _HOME @I1425@
 0 @I1@ INDI
 1 RIN AB:I1
 1 _UID 4EB661D5ACFE49AAAB528691A2E80DB03210
@@ -35731,7 +35731,7 @@
 2 DATA
 3 DATE 2019
 2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=12&b=&lang=de
-2 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg)
+2 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
 1 _INET
 2 _MHRM 0
 2 _MHSM 0
@@ -35746,12 +35746,12 @@
 3 DATA
 4 DATE 2019
 3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=12&b=&lang=de
-3 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg)
+3 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
 2 DATE 1919
 2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
 1 CHAN
-2 DATE 9 OCT 2020
-3 TIME 9:55:30
+2 DATE 10 OCT 2020
+3 TIME 22:44:31
 0 @I1259@ INDI
 1 RIN AB:I1259
 1 _UID 913E0FBFC8C049ABAAB7C18A76DACF472B88
@@ -36073,6 +36073,7 @@
 2 DATA
 3 DATE 2019
 2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=14&b=&lang=de
+2 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
 1 _INET
 2 _MHRM 0
 2 _MHSM 0
@@ -36089,9 +36090,10 @@
 3 DATA
 4 DATE 2019
 3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=14&b=&lang=de
+3 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
 1 CHAN
-2 DATE 9 OCT 2020
-3 TIME 10:27:36
+2 DATE 10 OCT 2020
+3 TIME 22:44:42
 0 @I1269@ INDI
 1 RIN AB:I1269
 1 _UID 8F9656A846354EF9B7442FAD7FCC23FC2603
@@ -36103,6 +36105,7 @@
 2 DATA
 3 DATE 2019
 2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=14&b=&lang=de
+2 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
 1 _INET
 2 _MHRM 0
 2 _MHSM 0
@@ -36117,11 +36120,12 @@
 3 DATA
 4 DATE 2019
 3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=14&b=&lang=de
+3 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
 2 DATE 1961
 2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
 1 CHAN
-2 DATE 9 OCT 2020
-3 TIME 10:29:38
+2 DATE 10 OCT 2020
+3 TIME 22:44:51
 0 @I1270@ INDI
 1 RIN AB:I1270
 1 _UID BAD922AB1FBA49E1A770E7A3C531546CBAB3
@@ -36133,6 +36137,7 @@
 2 DATA
 3 DATE 2019
 2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=14&b=&lang=de
+2 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
 1 _INET
 2 _MHRM 0
 2 _MHSM 1
@@ -36147,11 +36152,12 @@
 3 DATA
 4 DATE 2019
 3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=14&b=&lang=de
+3 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
 2 DATE 2004
 2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
 1 CHAN
-2 DATE 9 OCT 2020
-3 TIME 10:32:26
+2 DATE 10 OCT 2020
+3 TIME 22:45:00
 0 @I1271@ INDI
 1 RIN AB:I1271
 1 _UID 3F0CFFB64E8C44EBB71DD2A40C5F204624E1
@@ -36163,6 +36169,7 @@
 2 DATA
 3 DATE 2019
 2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=14&b=&lang=de
+2 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
 1 _INET
 2 _MHRM 0
 2 _MHSM 0
@@ -36177,11 +36184,12 @@
 3 DATA
 4 DATE 2019
 3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=14&b=&lang=de
+3 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
 2 DATE 1971
 2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
 1 CHAN
-2 DATE 9 OCT 2020
-3 TIME 10:35:16
+2 DATE 10 OCT 2020
+3 TIME 22:45:07
 0 @I1272@ INDI
 1 RIN AB:I1272
 1 _UID 43A276F9B188487096B761D09D9D999F35CE
@@ -36193,26 +36201,28 @@
 2 DATA
 3 DATE 2019
 2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=15&b=&lang=de
+2 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
 1 _INET
 2 _MHRM 0
 2 _MHSM 0
 2 _RDATE 9 OCT 2020
 2 _SDATE 9 OCT 2020
+1 FAMS @F363@
 1 BIRT
 2 DATE 1887
-1 DEAT
-2 DATE 1965
 1 BURI
 2 SOUR @S5@
 3 DATA
 4 DATE 2019
 3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=15&b=&lang=de
+3 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
 2 DATE 1965
 2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 DEAT
+2 DATE 1965
 1 CHAN
-2 DATE 9 OCT 2020
-3 TIME 10:39:04
-1 FAMS @F363@
+2 DATE 10 OCT 2020
+3 TIME 22:45:21
 0 @I1273@ INDI
 1 RIN AB:I1273
 1 _UID 6C78C8428ACC4FEA83A426CB7270FC0C7F29
@@ -36225,6 +36235,7 @@
 2 DATA
 3 DATE 2019
 2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=15&b=&lang=de
+2 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
 1 _INET
 2 _MHRM 0
 2 _MHSM 0
@@ -36240,10 +36251,11 @@
 3 DATA
 4 DATE 2019
 3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=15&b=&lang=de
+3 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
 2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
 1 CHAN
-2 DATE 9 OCT 2020
-3 TIME 10:42:08
+2 DATE 10 OCT 2020
+3 TIME 22:45:25
 0 @I1274@ INDI
 1 RIN AB:I1274
 1 _UID 23135B665AD04D0BB988B691F58D0DBF4FEF
@@ -36255,6 +36267,7 @@
 2 DATA
 3 DATE 2019
 2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=15&b=&lang=de
+2 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
 1 _INET
 2 _MHRM 0
 2 _MHSM 0
@@ -36269,11 +36282,12 @@
 3 DATA
 4 DATE 2019
 3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=15&b=&lang=de
+3 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
 2 DATE 2000
 2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
 1 CHAN
-2 DATE 9 OCT 2020
-3 TIME 10:45:23
+2 DATE 10 OCT 2020
+3 TIME 22:45:34
 0 @I1275@ INDI
 1 RIN AB:I1275
 1 _UID 6FB90C77324C4C5880185D68054F81C8C7CF
@@ -36285,6 +36299,7 @@
 2 DATA
 3 DATE 2019
 2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=15&b=&lang=de
+2 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
 1 _INET
 2 _MHRM 0
 2 _MHSM 0
@@ -36299,11 +36314,12 @@
 3 DATA
 4 DATE 2019
 3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=15&b=&lang=de
+3 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
 2 DATE 2006
 2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
 1 CHAN
-2 DATE 9 OCT 2020
-3 TIME 10:46:06
+2 DATE 10 OCT 2020
+3 TIME 22:45:43
 0 @I1276@ INDI
 1 RIN AB:I1276
 1 _UID 4CE228BD9291482484D53A712746309BDEDB
@@ -36315,6 +36331,7 @@
 2 DATA
 3 DATE 2019
 2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=15&b=&lang=de
+2 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
 1 _INET
 2 _MHRM 0
 2 _MHSM 0
@@ -36331,9 +36348,10 @@
 3 DATA
 4 DATE 2019
 3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=15&b=&lang=de
+3 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
 1 CHAN
-2 DATE 9 OCT 2020
-3 TIME 10:53:18
+2 DATE 10 OCT 2020
+3 TIME 22:45:49
 0 @I1277@ INDI
 1 RIN AB:I1277
 1 _UID 59A4DE781E4C4B05A7F3443EDB702943E02B
@@ -36345,6 +36363,7 @@
 2 DATA
 3 DATE 2019
 2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=15&b=&lang=de
+2 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
 1 _INET
 2 _MHRM 0
 2 _MHSM 0
@@ -36359,11 +36378,12 @@
 3 DATA
 4 DATE 2019
 3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=15&b=&lang=de
+3 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
 2 DATE 2010
 2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
 1 CHAN
-2 DATE 9 OCT 2020
-3 TIME 10:53:55
+2 DATE 10 OCT 2020
+3 TIME 22:45:57
 0 @I1278@ INDI
 1 RIN AB:I1278
 1 _UID 032D41808D994CE2BF24496C4DA65E629004
@@ -36376,6 +36396,7 @@
 2 DATA
 3 DATE 2019
 2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=16&b=&lang=de
+2 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
 1 _INET
 2 _MHRM 0
 2 _MHSM 0
@@ -36385,6 +36406,7 @@
 2 PAGE FamilySearch Stammbaum
 2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=1792156783&indId=externalindividual-7e0ca0de2fe2965833f8d8790512561d&mrid=ecfee8d196aab5ae422dd8af5fa0ba12&action=showRecord&recordTitle=Eberhard+Karl+Ernst+Stahl
 3 CONC hut
+1 FAMC @F364@
 1 BIRT
 2 DATE 26 AUG 1949
 2 PLAC Bockum, Hamm, Nordrhein-Westfalen
@@ -36397,6 +36419,7 @@
 3 DATA
 4 DATE 2019
 3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=16&b=&lang=de
+3 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg) [Nordenfriedhof]
 2 DATE 2018
 2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
 1 DEAT
@@ -36407,9 +36430,8 @@
 4 LATI N51.386694
 4 LONG E7.769278
 1 CHAN
-2 DATE 9 OCT 2020
-3 TIME 11:01:01
-1 FAMC @F364@
+2 DATE 10 OCT 2020
+3 TIME 22:46:11
 0 @I1279@ INDI
 1 RIN AB:I1279
 1 _UID 08C30F869F3748D599DB9CB4DF122AB6E858
@@ -36427,6 +36449,7 @@
 2 _MHSM 0
 2 _RDATE 9 OCT 2020
 2 _SDATE 9 OCT 2020
+1 FAMC @F365@
 1 BIRT
 2 DATE 20 SEP 1921
 2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
@@ -36442,9 +36465,8 @@
 4 LATI N51.6626944444444
 4 LONG E7.766
 1 CHAN
-2 DATE 9 OCT 2020
-3 TIME 11:02:23
-1 FAMC @F365@
+2 DATE 10 OCT 2020
+3 TIME 22:04:28
 0 @I1280@ INDI
 1 RIN AB:I1280
 1 _UID 750B49CA6C26425183EA3071117EE37EB629
@@ -37501,8 +37523,8 @@
 4 LATI N51.68
 4 LONG E7.73
 1 CHAN
-2 DATE 9 OCT 2020
-3 TIME 21:21:12
+2 DATE 10 OCT 2020
+3 TIME 19:44:32
 0 @I1309@ INDI
 1 RIN AB:I1309
 1 _UID 31A1608472D6438ABC937D4C1C99A1E72028
@@ -37591,8 +37613,8 @@
 2 _SDATE 9 OCT 2020
 1 FAMS @F371@
 1 CHAN
-2 DATE 9 OCT 2020
-3 TIME 21:25:33
+2 DATE 10 OCT 2020
+3 TIME 19:31:52
 0 @I1313@ INDI
 1 RIN AB:I1313
 1 _UID A331B5F8AAFF4DAA9FDB6E39046D782D5890
@@ -37601,8 +37623,6 @@
 2 GIVN Anton
 1 SEX M
 1 FAMS @F371@
-1 BIRT Y
-1 DEAT Y
 1 SOUR @S7@
 2 PAGE Klem Web Site von Doris Klem
 2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500240&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
@@ -37610,11 +37630,23 @@
 2 _MHRM 0
 2 _MHSM 0
 2 _RDATE 9 OCT 2020
-2 _SDATE 9 OCT 2020
-1 CHAN
-2 DATE 9 OCT 2020
-3 TIME 21:25:58
+2 _SDATE 10 OCT 2020
 1 FAMC @F372@
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-505905&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 BIRT
+2 DATE 11 MAR 1925
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+1 DEAT
+2 DATE 2004
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 11:06:02
 0 @I1314@ INDI
 1 RIN AB:I1314
 1 _UID 5D28FE455F124CEC9C9F4F234134CB1D7B20
@@ -38003,13 +38035,11 @@
 1 SOUR @S7@
 2 PAGE Klem Web Site von Doris Klem
 2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500277&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
-1 BIRT
-2 DATE 3 SEP 1880
-2 PLAC Bockum, Hamm, Nordrhein-Westfalen
-3 _LOC @L9@
-3 MAP
-4 LATI N51.68
-4 LONG E7.73
+1 _INET
+2 _MHRM 1
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
 1 CHR
 2 DATE 5 SEP 1880
 2 PLAC Bockum, Hamm, Nordrhein-Westfalen
@@ -38018,7 +38048,21 @@
 4 LATI N51.68
 4 LONG E7.73
 2 RELI katholisch
-1 BURI
+1 SOUR @S7@
+2 PAGE Deutschland, Nordrhein-Westfalen, Sterberegister 1874-1938
+2 _LINK https://www.myheritage.de/research/collection-10864/deutschland-nordrhein-westfalen-sterberegister-1874-1938?itemId=270916-&indId=externalindividual-96662d0057565ea10910b6128e8af14e&mrid=2a5a7cce0b44ac71467daff2ad34d363&action=showRecord&record
+3 CONC Title=+Clara+Witte
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-503437&indId=externalindividual-96662d0057565ea10910b6128e8af14e&mrid=2a5a7cce0b44ac71467daff2ad34d363&action=showRecord&recordTitle=Clara+Theodora+Witte
+1 BIRT
+2 DATE 3 SEP 1880
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 DEAT
 2 DATE 30 AUG 1905
 2 PLAC Bockum, Hamm, Nordrhein-Westfalen
 3 _LOC @L9@
@@ -38026,8 +38070,8 @@
 4 LATI N51.68
 4 LONG E7.73
 1 CHAN
-2 DATE 9 OCT 2020
-3 TIME 21:56:58
+2 DATE 10 OCT 2020
+3 TIME 10:57:10
 0 @I1325@ INDI
 1 RIN AB:I1325
 1 _UID 9827F45F6BF148509B269414A279A9ACDFA2
@@ -38114,7 +38158,7 @@
 4 LONG E7.73
 1 CHAN
 2 DATE 9 OCT 2020
-3 TIME 22:05:05
+3 TIME 22:45:26
 0 @I1327@ INDI
 1 RIN AB:I1327
 1 _UID D2A66BE43791458B87792AE9721951AAF81B
@@ -38146,6 +38190,7 @@
 2 _RDATE 9 OCT 2020
 2 _SDATE 9 OCT 2020
 1 FAMS @F377@
+1 FAMC @F405@
 1 BIRT
 2 DATE 24 JUL 1877
 2 PLAC Walstedde, Drensteinfurt, Kreis Warendorf, Nordrhein-Westfalen
@@ -38169,8 +38214,8 @@
 4 LONG E7.737694
 2 CAUS Natürlich / Altersschwäche
 1 CHAN
-2 DATE 9 OCT 2020
-3 TIME 22:09:04
+2 DATE 10 OCT 2020
+3 TIME 23:52:19
 0 @I1328@ INDI
 1 RIN AB:I1328
 1 _UID F113D658416D40C0A06312328C1C1F685699
@@ -38187,6 +38232,14 @@
 2 _MHSM 1
 2 _RDATE 9 OCT 2020
 2 _SDATE 9 OCT 2020
+1 BIRT
+2 DATE 4 FEB 1887
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+1 FAMC @F403@
 1 RESI
 2 DATE TO 1918
 2 PLAC Herbern, Ascheberg, Kreis Coesfeld, Nordrhein-Westfalen
@@ -38199,13 +38252,6 @@
 3 POST 59387
 3 STAE Nordrhein-Westfalen
 3 CTRY Deutschland
-1 BIRT
-2 DATE 4 FEB 1887
-2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
-3 _LOC @L7@
-3 MAP
-4 LATI N51.692278
-4 LONG E7.737694
 1 RESI
 2 DATE FROM 1918
 2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
@@ -38227,8 +38273,8 @@
 4 LONG E7.73
 2 CAUS Natürlich / Altersschwäche
 1 CHAN
-2 DATE 9 OCT 2020
-3 TIME 22:13:24
+2 DATE 10 OCT 2020
+3 TIME 23:20:52
 0 @I1329@ INDI
 1 RIN AB:I1329
 1 _UID DD00AD1C6AC84F32A608D7AC80061B457075
@@ -38407,6 +38453,7 @@
 2 _MHSM 1
 2 _RDATE 9 OCT 2020
 2 _SDATE 9 OCT 2020
+1 FAMC @F402@
 1 BIRT
 2 DATE 24 JUN 1916
 2 PLAC Bockum, Hamm, Nordrhein-Westfalen
@@ -38422,8 +38469,8 @@
 4 LATI N51.692278
 4 LONG E7.737694
 1 CHAN
-2 DATE 9 OCT 2020
-3 TIME 22:33:20
+2 DATE 10 OCT 2020
+3 TIME 23:13:43
 0 @I1334@ INDI
 1 RIN AB:I1334
 1 _UID 5451FD42DA5949CCA5FA06F346475B8F3B53
@@ -38448,6 +38495,2871 @@
 1 CHAN
 2 DATE 9 OCT 2020
 3 TIME 22:34:46
+0 @I1335@ INDI
+1 RIN AB:I1335
+1 _UID 2E8355618A314A84BA8CAE5C22A9FCDBE215
+1 NAME Maria /Post/
+2 SURN Post
+2 GIVN Maria
+1 SEX F
+1 FAMC @F376@
+1 SOUR @S5@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-504959&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 0
+2 _RDATE 9 OCT 2020
+2 _SDATE 9 OCT 2020
+1 SOUR @S7@
+2 PAGE Deutschland, Nordrhein-Westfalen, Sterberegister 1874-1938
+2 _LINK https://www.myheritage.de/research/collection-10864/deutschland-nordrhein-westfalen-sterberegister-1874-1938?itemId=545825-&indId=externalindividual-d2abed3692ff86035d0a18edcd3e5bbc&mrid=ad831d850d60cdd99effddfafdd0e2d4&action=showRecord&record
+3 CONC Title=+Maria+Post
+1 DEAT
+2 DATE 25 FEB 1912
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 BIRT
+2 DATE 25 FEB 1912
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 9 OCT 2020
+3 TIME 23:01:53
+0 @I1336@ INDI
+1 RIN AB:I1336
+1 _UID BCFEBA2B19FC4A0ABFF48906163B0F00AA5A
+1 NAME Gerhard Heinrich /Post/
+2 SURN Post
+2 GIVN Gerhard Heinrich
+1 SEX M
+1 RELI katholisch
+1 OCCU Betriebsarbeiter
+1 EVEN
+2 TYPE Military
+2 NOTE Gefreiter in einem Infanterie-Regiment
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-39&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 0
+2 _RDATE 9 OCT 2020
+2 _SDATE 9 OCT 2020
+1 FAMC @F376@
+1 FAMS @F379@
+1 BIRT
+2 DATE 1 OCT 1909
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 BURI
+2 DATE OCT 1980
+2 PLAC Südkirchen, Nordkirchen, Kreis Coesfeld, Nordrhein-Westfalen
+3 _LOC @L52@
+3 MAP
+4 LATI N51.701889
+4 LONG E7.549583
+1 DEAT
+2 DATE 4 OCT 1980
+2 PLAC Lüdinghausen, Kreis Coesfeld, Nordrhein-Westfalen
+3 _LOC @L51@
+3 MAP
+4 LATI N51.768278
+4 LONG E7.437889
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 10:22:45
+0 @I1337@ INDI
+1 RIN AB:I1337
+1 _UID 405B3F0EC6CF4724BA14F20DCDE1FC55B421
+1 NAME Paula Gertrud /Berens/
+2 SURN Berens
+2 GIVN Paula Gertrud
+2 _MARNM Post 
+1 SEX F
+1 FAMS @F379@
+1 RELI katholisch
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-26&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 1
+2 _RDATE 9 OCT 2020
+2 _SDATE 9 OCT 2020
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=1400050124&indId=externalindividual-9866052f25033808a09ac18d4f145795&mrid=3b6dae9bb292f9a5a3abc54b8224f0b4&action=showRecord&recordTitle=Paula+Gertrud+Post+%28geb
+3 CONC .+Berens%29
+1 BIRT
+2 DATE 6 MAY 1918
+2 PLAC Nordkirchen, Kreis Coesfeld, Nordrhein-Westfalen
+3 _LOC @L53@
+3 MAP
+4 LATI N51.738278
+4 LONG E7.525583
+1 BURI
+2 DATE 2008
+2 PLAC Südkirchen, Nordkirchen, Kreis Coesfeld, Nordrhein-Westfalen
+3 _LOC @L52@
+3 MAP
+4 LATI N51.701889
+4 LONG E7.549583
+1 DEAT
+2 DATE 3 FEB 2008
+2 PLAC Südkirchen, Nordkirchen, Kreis Coesfeld, Nordrhein-Westfalen
+3 _LOC @L52@
+3 MAP
+4 LATI N51.701889
+4 LONG E7.549583
+2 CAUS Natürlich / Altersschwäche
+2 NOTE um 8.45 Uhr
+1 CHAN
+2 DATE 9 OCT 2020
+3 TIME 23:27:35
+0 @I1338@ INDI
+1 RIN AB:I1338
+1 _UID BB2AFF5683DE46F9B6543994CEF63409B262
+1 NAME Gertrud /Post/
+2 SURN Post
+2 GIVN Gertrud
+2 NICK Traudchen
+2 NOTE hatte immer Nußschokolade dabei
+1 SEX F
+1 FAMC @F376@
+1 OCCU
+2 PLAC Münster, Nordrhein-Westfalen
+3 _LOC @L41@
+3 MAP
+4 LATI N51.956194
+4 LONG E7.620389
+2 NOTE arbeitete beim Weihbischof Dr. Portmann
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-503438&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 24 JAN 1907
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 DEAT
+2 DATE 23 SEP 1996
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+1 BURI
+2 DATE 26 SEP 1996
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 10:29:43
+0 @I1339@ INDI
+1 RIN AB:I1339
+1 _UID 4D59A7C0530141D6A09B150DBAC1BFABBA38
+1 NAME Franz /Post/
+2 SURN Post
+2 GIVN Franz
+1 SEX M
+1 FAMC @F376@
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-504960&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 SOUR @S7@
+2 PAGE Deutschland, Nordrhein-Westfalen, Sterberegister 1874-1938
+2 _LINK https://www.myheritage.de/research/collection-10864/deutschland-nordrhein-westfalen-sterberegister-1874-1938?itemId=668401-&indId=externalindividual-b1001bb421fd9549233c12529d783c23&mrid=ef04421d7f6198183312eb126a83f46a&action=showRecord&record
+3 CONC Title=+Franz+Post
+1 BIRT
+2 DATE OCT 1913
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 DEAT
+2 DATE 13 FEB 1914
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 10:31:29
+0 @I1340@ INDI
+1 RIN AB:I1340
+1 _UID 05C8C84238DA4F418439212EA8C02FDAF622
+1 NAME Clara /Post/
+2 SURN Post
+2 GIVN Clara
+1 SEX F
+1 FAMC @F376@
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-504958&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE NOV 1910
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 DEAT
+2 DATE 15 JUN 1911
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 10:33:12
+0 @I1341@ INDI
+1 RIN AB:I1341
+1 _UID 2778FB210A614BE78033F55915568A2C7A05
+1 NAME Theodor /Post/
+2 SURN Post
+2 GIVN Theodor
+1 SEX M
+1 FAMC @F376@
+1 OCCU Obergefreiter im zweiten Weltkrieg / Panzergrenadier-Regiment
+1 BURI
+2 PLAC Costermano sul Garda, Provinz Verona, Venetien, Italien
+3 _LOC @L56@
+3 MAP
+4 LATI N45.583333
+4 LONG E10.733333
+1 EVEN
+2 TYPE Military
+2 NOTE Obergefreiter im zweiten Weltkrieg / Panzergrenadier-Regiment
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-500164&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 18 APR 1908
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 DEAT
+2 DATE 14 JAN 1945
+2 PLAC Montagnana, Provinz Padua, Venetien, Italien
+3 _LOC @L55@
+3 MAP
+4 LATI N45.233333
+4 LONG E11.45
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 10:52:05
+0 @I1342@ INDI
+1 RIN AB:I1342
+1 _UID 46A9A172A5CC4032B16102D08C94BAFDA049
+1 NAME Bernard /Post/
+2 SURN Post
+2 GIVN Bernard
+1 SEX M
+1 FAMC @F376@
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-506458&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BURI
+2 DATE (19. Sept. 1905)
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 BIRT
+2 DATE APR 1905
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 10:53:47
+0 @I1343@ INDI
+1 RIN AB:I1343
+1 _UID 5ED63696ACC6439D89F32B8C4BB6D772CFCA
+1 NAME Maria Anna /Hoff/
+2 SURN Hoff
+2 GIVN Maria Anna
+2 _MARNM Witte 
+1 SEX F
+1 FAMS @F372@
+1 RESI
+2 PLAC Epe, Kreis Borken, Nordrhein-Westfalen
+3 _LOC @L57@
+3 MAP
+4 LATI N52.177778
+4 LONG E7.041667
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-505906&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 3 NOV 1883
+1 DEAT
+2 DATE 1 FEB 1965
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 11:02:56
+0 @I1344@ INDI
+1 RIN AB:I1344
+1 _UID B48E1FCCA8F34C6EB9B082B542F4A68B89AF
+1 NAME Bernhard /Witte/
+2 SURN Witte
+2 GIVN Bernhard
+1 SEX M
+1 FAMC @F372@
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-506675&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE BEF 1925
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 11:07:20
+0 @I1345@ INDI
+1 RIN AB:I1345
+1 _UID B3468B2E820C40DBB13FC3761A33CC61FE24
+1 NAME Elisabeth /Witte/
+2 SURN Witte
+2 GIVN Elisabeth
+2 _MARNM Hunke
+1 SEX F
+1 FAMC @F372@
+1 DEAT Y
+1 RESI
+2 PLAC Greven, Kreis Steinfurt, Nordrhein-Westfalen
+3 _LOC @L58@
+3 MAP
+4 LATI N52.1
+4 LONG E7.6
+1 SOUR @S7@
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-505910&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+2 PAGE Familienseite Post von Kai Post
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE AFT 1914
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 11:10:59
+1 FAMS @F380@
+0 @I1346@ INDI
+1 RIN AB:I1346
+1 _UID 4D42B4BA0F6E4AA29E36D3DADA0D470C21C3
+1 NAME Emil /Hunke/
+2 SURN Hunke
+2 GIVN Emil
+1 SEX M
+1 FAMS @F380@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-506184&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 11:11:45
+0 @I1347@ INDI
+1 RIN AB:I1347
+1 _UID 810F99B141A94B1FA57E8010D4E6CEE85110
+1 NAME Jürgen /Hunke/
+2 SURN Hunke
+2 GIVN Jürgen
+1 SEX M
+1 FAMC @F380@
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-506185&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 23 APR 1951
+1 DEAT
+2 DATE 20 AUG 2011
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 11:12:43
+0 @I1348@ INDI
+1 RIN AB:I1348
+1 _UID EC4EE48441CC4DE7BC081F0811D8B5D23E71
+1 NAME Hermann Theodor /Witte/
+2 SURN Witte
+2 GIVN Hermann Theodor
+1 SEX M
+1 FAMC @F372@
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-505909&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 25 SEP 1918
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 11:17:54
+1 FAMS @F381@
+0 @I1349@ INDI
+1 RIN AB:I1349
+1 _UID CD4726BCB78144CE85B7CC60CEFE072CA7DB
+1 NAME Hildegard /Ogurek/
+2 SURN Ogurek
+2 GIVN Hildegard
+2 _MARNM Witte
+1 SEX F
+1 FAMS @F381@
+1 DEAT Y
+1 SOUR @S7@
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-505951&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+2 PAGE Familienseite Post von Kai Post
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 FAMC @F382@
+1 BIRT
+2 DATE 13 DEC 1920
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+1 BURI
+2 DATE 14 MAY 1997
+2 PLAC Werne, Kreis Unna, Nordrhein-Westfalen
+3 _LOC @L59@
+3 MAP
+4 LATI N51.48
+4 LONG E7.3
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 19:25:20
+0 @I1350@ INDI
+1 RIN AB:I1350
+1 _UID 7B7806B584EA4196BD8D535F4F5F6FEEFA00
+1 NAME Julius /Ogurek/
+2 SURN Ogurek
+2 GIVN Julius
+1 SEX M
+1 FAMS @F382@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-506201&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 19:26:28
+0 @I1351@ INDI
+1 RIN AB:I1351
+1 _UID 6F2CBE645C49407EBB28CB4FD1A2C7B10803
+1 NAME Genoveva /Wojcieckowski/
+2 SURN Wojcieckowski
+2 GIVN Genoveva
+2 _MARNM Ogurek 
+1 SEX F
+1 FAMS @F382@
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-506202&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 15 MAR 1898
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 19:28:36
+0 @I1352@ INDI
+1 RIN AB:I1352
+1 _UID 4687BE6ED229449B947E2F085ABF9956247A
+1 NAME Heinrich /Mehringskötter/
+2 SURN Mehringskötter
+2 GIVN Heinrich
+1 SEX M
+1 FAMC @F370@
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500223&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 20 APR 1933
+1 DEAT
+2 DATE 13 JAN 1998
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 19:33:01
+0 @I1353@ INDI
+1 RIN AB:I1353
+1 _UID 69D8B93FD8984691B854288D3E6220333454
+1 NAME Bernhard /Mehringskötter/
+2 SURN Mehringskötter
+2 GIVN Bernhard
+1 SEX M
+1 FAMC @F370@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500222&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 FAMS @F383@
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 19:34:55
+0 @I1354@ INDI
+1 RIN AB:I1354
+1 _UID 285D9533C3884A3BA72E3D6B29FE082DF67D
+1 NAME Elisabeth /.../
+2 SURN ...
+2 GIVN Elisabeth
+2 _MARNM Mehringskötter
+1 SEX F
+1 FAMS @F383@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500236&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 19:34:29
+0 @I1355@ INDI
+1 RIN AB:I1355
+1 _UID 9021076E74C64392B89990FB472A88FA0473
+1 NAME Gertrud /Mehringskötter/
+2 SURN Mehringskötter
+2 GIVN Gertrud
+2 _MARNM Loch
+1 SEX F
+1 FAMC @F370@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500220&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 FAMS @F384@
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 19:38:51
+0 @I1356@ INDI
+1 RIN AB:I1356
+1 _UID FDE332B02ED24AB4BE6327BE8BE6C51915F5
+1 NAME Alfred /Loch/
+2 SURN Loch
+2 GIVN Alfred
+1 SEX M
+1 FAMS @F384@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500242&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 19:36:19
+0 @I1357@ INDI
+1 RIN AB:I1357
+1 _UID 632A02ED1BB441CBA935869AE5923C2C3447
+1 NAME Theodor /Mehringskötter/
+2 SURN Mehringskötter
+2 GIVN Theodor
+1 SEX M
+1 FAMC @F370@
+1 BIRT Y
+1 DEAT Y
+2 CAUS als Kind ertrunken
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500217&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 19:37:39
+0 @I1358@ INDI
+1 RIN AB:I1358
+1 _UID B3C52DF0802A41DC884570CC7E3FADF7C63A
+1 NAME Angela /Mehringskötter/
+2 SURN Mehringskötter
+2 GIVN Angela
+2 _MARNM Loch
+1 SEX F
+1 FAMC @F370@
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500218&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 FAMS @F385@
+1 BIRT
+2 DATE 9 MAY 1922
+1 DEAT
+2 DATE 18 AUG 1989
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 19:40:29
+0 @I1359@ INDI
+1 RIN AB:I1359
+1 _UID 6C65060876B14BDDB6EF4519F8BC19F0EEC7
+1 NAME Josef /Loch/
+2 SURN Loch
+2 GIVN Josef
+1 SEX M
+1 FAMS @F385@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500238&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 19:41:09
+0 @I1360@ INDI
+1 RIN AB:I1360
+1 _UID 3DEE37E2969C4DD9959E51C25E6AC438A6BD
+1 NAME Anna Maria /Klönne/
+2 SURN Klönne
+2 GIVN Anna Maria
+2 _RUFNAME Maria
+1 SEX F
+1 FAMC @F366@
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500171&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 SOUR @S7@
+2 PAGE Deutschland, Nordrhein-Westfalen, Sterberegister 1874-1938
+2 _LINK https://www.myheritage.de/research/collection-10864/deutschland-nordrhein-westfalen-sterberegister-1874-1938?itemId=270903-&indId=externalindividual-ab801a1724006a5b5cf7f75f2ba35d57&mrid=76dd72d8bc342618119a0da370a96eec&action=showRecord&record
+3 CONC Title=+Anna+Maria+Kl%C3%B6nne
+1 BIRT
+2 DATE 8 MAY 1904
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 DEAT
+2 DATE 21 JUN 1905
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 19:46:36
+0 @I1361@ INDI
+1 RIN AB:I1361
+1 _UID B692CF6DFBA74A7884A54D86D3957A16DCFA
+1 NAME Wilhelm /Klönne/
+2 SURN Klönne
+2 GIVN Wilhelm
+1 SEX M
+1 FAMC @F366@
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500172&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 SOUR @S7@
+2 PAGE Deutschland, Nordrhein-Westfalen, Sterberegister 1874-1938
+2 _LINK https://www.myheritage.de/research/collection-10864/deutschland-nordrhein-westfalen-sterberegister-1874-1938?itemId=664541-&indId=externalindividual-cb72428515f1c5f516fcd89492cee299&mrid=de39cc3526c6f0f31910b933b30a202d&action=showRecord&record
+3 CONC Title=+Wilhelm+Kl%C3%B6nne
+1 BIRT
+2 DATE 5 JUN 1895
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 DEAT
+2 DATE 10 JUL 1918
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 19:48:37
+0 @I1362@ INDI
+1 RIN AB:I1362
+1 _UID FF3185F2071E41A18D5ECCC375D5F98DF893
+1 NAME Franz Joseph /Klönne/
+2 SURN Klönne
+2 GIVN Franz Joseph
+1 SEX M
+1 FAMC @F366@
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500168&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 18 OCT 1885
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 DEAT
+2 DATE 15 NOV 1961
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 19:58:39
+0 @I1363@ INDI
+1 RIN AB:I1363
+1 _UID E7AB8C9848F9441CAFE088B8385A27290851
+1 NAME Friedrich Melchior /Klönne/
+2 SURN Klönne
+2 GIVN Friedrich Melchior
+1 SEX M
+1 FAMC @F366@
+1 RELI katholisch
+1 OCCU Maurer
+1 RESI
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+2 ADDR Vogelbrinckstrasse 4
+3 CITY Bockum-Hövel, Hamm
+3 POST 59075
+3 STAE Nordrhein-Westfalen
+3 CTRY Deutschland
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-19&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 FAMS @F386@
+1 BIRT
+2 DATE 1 SEP 1891
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 DEAT
+2 DATE 13 APR 1945
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 20:08:22
+0 @I1364@ INDI
+1 RIN AB:I1364
+1 _UID 1F9FEB5266FB4CFEA5440543058F07D345CF
+1 NAME Else Anna /Sommer/
+2 SURN Sommer
+2 GIVN Else Anna
+2 NICK Elisabeth 
+2 _MARNM Klönne
+1 SEX F
+1 FAMS @F386@
+1 RELI katholisch
+1 RESI
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+2 ADDR Vogelbrinckstrasse 4
+3 CITY Bockum-Hövel, Hamm
+3 POST 59075
+3 STAE Nordrhein-Westfalen
+3 CTRY Deutschland
+1 SOUR @S7@
+2 PAGE Klem Web Site von Dorsi Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-18&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 FAMC @F387@
+1 BIRT
+2 DATE 10 JUN 1895
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+1 DEAT
+2 DATE 10 AUG 1946
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+2 CAUS Typhus
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 20:05:46
+0 @I1365@ INDI
+1 RIN AB:I1365
+1 _UID D6005A3F5C0E494BB01830E60427F192F9A5
+1 NAME Heinrich /Sommer/
+2 SURN Sommer
+2 GIVN Heinrich
+1 SEX M
+1 FAMS @F387@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500268&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 20:06:36
+0 @I1366@ INDI
+1 RIN AB:I1366
+1 _UID CF32FD85DCEF4C61845EC7C182731C017726
+1 NAME Henriette /Böck/
+2 SURN Böck
+2 GIVN Henriette
+2 _MARNM Sommer 
+1 SEX F
+1 FAMS @F387@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500267&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 20:07:40
+0 @I1367@ INDI
+1 RIN AB:I1367
+1 _UID FE016589CB2045E9BF2DB29D5B4FD70FD1B7
+1 NAME Hans /Klönne/
+2 SURN Klönne
+2 GIVN Hans
+1 SEX M
+1 FAMC @F386@
+1 OCCU Elektriker
+1 RESI
+2 PLAC Salzgitter, Niedersachsen
+3 _LOC @L60@
+3 MAP
+4 LATI N52.15
+4 LONG E10.366667
+2 ADDR Stargarder Weg
+3 CITY Salzgitter
+3 POST 38259
+3 STAE Niedersachsen
+3 CTRY Deutschland
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-47&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 24 JUN 1942
+1 DEAT
+2 DATE 14 JUL 2018
+2 PLAC Braunschweig, Niedersachsen
+3 _LOC @L61@
+2 CAUS Gehirntumore und Metastasen
+2 NOTE Hatte 3 Gehirntumore und Metastasen. Konnte nach Rückkehr aus Urlaub an der Ostsee keine Flüssigkeiten mehr bei sich behalten. Kam dann ins Krankenhaus. Nach Untersuchungen Gehirntumore festgestellt. Wurde palliativ behandelt und ist dann friedl
+3 CONC ich eingeschlafen. Tumore wurden trotz halbjährlicher Kontrolle nicht vorher festgestellt.
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 20:17:49
+0 @I1368@ INDI
+1 RIN AB:I1368
+1 _UID 6668C5294D6A43FDBED4AD3A5E716E68D1FB
+1 NAME Fritz /Klönne/
+2 SURN Klönne
+2 GIVN Fritz
+1 SEX M
+1 FAMC @F386@
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-36&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 3
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 FAMS @F388@
+1 BIRT
+2 DATE 29 NOV 1935
+1 DEAT
+2 DATE 1 APR 1994
+2 CAUS Bauchspeicheldrüsenkrebs
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 20:23:17
+0 @I1369@ INDI
+1 RIN AB:I1369
+1 _UID C4E9817E7E5C4B729559F20EAFD987CD0D52
+1 NAME Christel Emm /Radtke/
+2 SURN Radtke
+2 GIVN Christel Emm
+2 _MARNM Klönne 
+2 _RUFNAME Christel 
+1 SEX F
+1 FAMS @F388@
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-49&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 3
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 FAMC @F400@
+1 BIRT
+2 DATE 25 JAN 1941
+1 DEAT
+2 DATE 21 JUL 2019
+1 BURI
+2 DATE 26 JUL 2019
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+2 NOTE 12 Uhr Seelenamt St. Stephanus anschließend Beisetzung Bockumer Friedhof
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 23:03:53
+0 @I1370@ INDI
+1 RIN AB:I1370
+1 _UID E1931DF57F9F41A091B81056521E0136DB1F
+1 NAME Anna /Klönne/
+2 SURN Klönne
+2 GIVN Anna
+2 _MARNM Vennenbernd 
+1 SEX F
+1 FAMC @F386@
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-20&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 9 MAY 1932
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 RELI katholisch
+2 DATE 12 MAY 1932
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+2 NOTE Kath. Pfarrkirche St. Stephanus
+1 DEAT
+2 DATE 26 JUL 2018
+2 PLAC Ochtrup, Kreis Steinfurt, Nordrhein-Westfalen
+3 _LOC @L62@
+3 MAP
+4 LATI N52.209778
+4 LONG E7.188694
+2 CAUS Lungenentzündung, Nierenversagen
+2 NOTE Ochtrup, Pius-Hospital
+1 BURI
+2 DATE 1 AUG 2018
+2 PLAC Friedhof Alte Maate, Ochtrup, Kreis Steinfurt, Nordrhein-Westfalen
+3 _LOC @L63@
+3 MAP
+4 LATI N52.212639
+4 LONG E7.188944
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 20:31:50
+0 @I1371@ INDI
+1 RIN AB:I1371
+1 _UID A1274FE584D84459ADAAB9494068095251FA
+1 NAME Theo /Klönne/
+2 SURN Klönne
+2 GIVN Theo
+1 SEX M
+1 FAMC @F386@
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-41&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 FAMS @F389@
+1 BIRT
+2 DATE 10 MAY 1928
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 20:35:25
+0 @I1372@ INDI
+1 RIN AB:I1372
+1 _UID B27BD72EBB934BA397DC7DEEE09B3F878DD1
+1 NAME Ilse
+2 GIVN Ilse
+2 _MARNM Klönne
+1 SEX F
+1 FAMS @F389@
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500015&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 16 SEP 1932
+1 DEAT
+2 DATE 1 SEP 2017
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 20:34:18
+0 @I1373@ INDI
+1 RIN AB:I1373
+1 _UID A6F770193A68427BBAC266324B5074E48CB9
+1 NAME Willi /Klönne/
+2 SURN Klönne
+2 GIVN Willi
+1 SEX M
+1 FAMC @F386@
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-53&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 FAMS @F390@
+1 BIRT
+2 DATE 12 JAN 1926
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+2 NOTE Geburtsregister Nr. 14/1926
+1 RELI katholisch
+2 DATE 17 JAN 1926
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 DEAT
+2 DATE 1965
+2 CAUS Herzinfakt
+2 NOTE Tod im Bett
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 20:38:13
+0 @I1374@ INDI
+1 RIN AB:I1374
+1 _UID 34169994502B4A3C9A3B5C5ECAE6852D6981
+1 NAME Heidrun Barbara /Klönne/
+2 SURN Klönne
+2 GIVN Heidrun Barbara
+2 _RUFNAME Heidrun 
+2 _MARNM Heidi
+1 SEX F
+1 FAMC @F390@
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500041&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 1954
+1 DEAT
+2 DATE 2014
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 20:37:46
+0 @I1375@ INDI
+1 RIN AB:I1375
+1 _UID B8E87D9F724A4D7DBCAC2062D24B852FFD8E
+1 NAME Fritz /Klönne/
+2 SURN Klönne
+2 GIVN Fritz
+1 SEX M
+1 FAMC @F386@
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500014&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE ABT 1921
+1 DEAT
+2 DATE ABT 1922
+2 CAUS Diphterie
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 20:39:29
+0 @I1376@ INDI
+1 RIN AB:I1376
+1 _UID 47C101B3D6D9409AB93C8CA64CC9853137E1
+1 NAME Heinrich /Klönne/
+2 SURN Klönne
+2 GIVN Heinrich
+2 NICK Heinz
+1 SEX M
+1 FAMC @F386@
+1 RELI katholisch
+1 OCCU Autogenschweißer
+1 BURI
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-11&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 FAMS @F391@
+1 BIRT
+2 DATE 21 MAR 1938
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+1 DEAT
+2 DATE 27 MAR 1964
+2 PLAC Dortmund, Nordrhein-Westfalen
+3 _LOC @L64@
+3 MAP
+4 LATI N51.51
+4 LONG E7.47
+2 CAUS Unfall
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 21:01:20
+0 @I1377@ INDI
+1 RIN AB:I1377
+1 _UID D54DB6ED7C134A2AAC5DAB8DD5EE02612F00
+1 NAME Doris Elisabeth Margarete /Reichelt/
+2 SURN Reichelt
+2 GIVN Doris Elisabeth Margarete
+2 _MARNM Klönne 
+1 SEX F
+1 FAMS @F391@
+1 RELI katholisch
+1 OCCU Verkäuferin
+1 BURI
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-12&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=1296794189&indId=externalindividual-ed8c568300147353e1bc5a3f16459931&mrid=81bc95a93b9b4e25593a6074bb151d52&action=showRecord&recordTitle=Doris+Elisabeth+Margarete
+3 CONC +Kl%C3%B6nne+%28geb.+Reichelt%29
+1 FAMC @F397@
+1 BIRT
+2 DATE 10 FEB 1942
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+1 DEAT
+2 DATE 1 OCT 1964
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+2 CAUS wahrscheinlich innerlich verblutet nach Geburt von Tochter Doris
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 22:18:36
+0 @I1378@ INDI
+1 RIN AB:I1378
+1 _UID 13409C99CFC8479CAA1DBC756E13DEF04934
+1 NAME Alwine /Klönne/
+2 SURN Klönne
+2 GIVN Alwine
+2 _MARNM Krull 
+1 SEX F
+1 FAMC @F386@
+1 SOUR @S7@
+2 PAGE Klem Web Site
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-45&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 FAMS @F392@
+1 BIRT
+2 DATE 6 APR 1934
+1 DEAT
+2 DATE 2012
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+2 CAUS alleine in Wohnung gestürzt; Beinbruch
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 21:03:59
+0 @I1379@ INDI
+1 RIN AB:I1379
+1 _UID B9B67056BDFE4CA8A07568EF6588AD947EC6
+1 NAME Eckard /Krull/
+2 SURN Krull
+2 GIVN Eckard
+1 SEX M
+1 FAMS @F392@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-46&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 21:03:28
+0 @I1380@ INDI
+1 RIN AB:I1380
+1 _UID 6314BAD6998D4A89B6A61AC1C7B386FD342F
+1 NAME Toni /Klönne/
+2 SURN Klönne
+2 GIVN Toni
+2 _MARNM Kurbjuhn 
+2 NOTE "Toni" ist vermutlich eine Koseform von "Antonia".
+1 SEX F
+1 FAMC @F386@
+1 DEAT Y
+1 NOTE "Toni" ist vermutlich eine Koseform von "Antonia".
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-44&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 FAMS @F393@
+1 BIRT
+2 DATE 27 NOV 1930
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 21:11:58
+0 @I1381@ INDI
+1 RIN AB:I1381
+1 _UID 66FB9F4C864C4D30ACDB2800FADA9A1DD5F5
+1 NAME Heiner /Kurbjuhn/
+2 SURN Kurbjuhn
+2 GIVN Heiner
+1 SEX M
+1 FAMS @F393@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500029&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 21:10:34
+0 @I1382@ INDI
+1 RIN AB:I1382
+1 _UID 96FBD8B6015946288D4614BEFE26DFD867A6
+1 NAME Rüdiger /Kurbjuhn/
+2 SURN Kurbjuhn
+2 GIVN Rüdiger
+2 NICK Hennes
+1 SEX M
+1 FAMC @F393@
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500030&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 12 DEC 1956
+1 DEAT
+2 DATE 20 MAR 2016
+2 CAUS multiple Sklerose 
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 21:11:42
+0 @I1383@ INDI
+1 RIN AB:I1383
+1 _UID 5652D6C2F60647BFA0647A805ED442B16544
+1 NAME Else /Klönne/
+2 SURN Klönne
+2 GIVN Else
+2 _MARNM Gräser 
+1 SEX F
+1 FAMC @F386@
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-43&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 FAMS @F394@
+1 BIRT
+2 DATE ABT 20 AUG 1927
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 21:15:50
+0 @I1384@ INDI
+1 RIN AB:I1384
+1 _UID E64EB8D74B824C848FDD4CF515AF151B015D
+1 NAME Hans /Gräser/
+2 SURN Gräser
+2 GIVN Hans
+1 SEX M
+1 FAMS @F394@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500025&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 21:14:09
+0 @I1385@ INDI
+1 RIN AB:I1385
+1 _UID FD9F925FBA904FAAAF85E8BD9EC90CE400F3
+1 NAME Jürgen /Gräser/
+2 SURN Gräser
+2 GIVN Jürgen
+1 SEX M
+1 FAMC @F394@
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500028&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 29 OCT 1959
+2 PLAC 14. Nov. 2005
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 21:15:26
+0 @I1386@ INDI
+1 RIN AB:I1386
+1 _UID FC83DE3F541441CF888C0ADA4991AA8818A6
+1 NAME Gertrud /Klönne/
+2 SURN Klönne
+2 GIVN Gertrud
+2 _MARNM Friedrich 
+1 SEX F
+1 FAMC @F386@
+1 RELI katholisch
+1 RESI
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+2 ADDR Rautenstrauchstrasse
+3 CITY Bockum-Hövel, Hamm
+3 POST 59075
+3 STAE Nordrhein-Westfalen
+3 CTRY Deutschland
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-42&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 FAMS @F395@
+1 BIRT
+2 DATE 24 JUN 1923
+1 DEAT
+2 DATE 1985
+2 CAUS Krebs
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 21:54:27
+0 @I1387@ INDI
+1 RIN AB:I1387
+1 _UID 53DCECA906A9480D9E0DB616C18B9B31576A
+1 NAME Jochen /Friedrich/
+2 SURN Friedrich
+2 GIVN Jochen
+1 SEX M
+1 FAMS @F395@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500020&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 21:53:45
+0 @I1388@ INDI
+1 RIN AB:I1388
+1 _UID 799B5690BD9E4CFCB47F611269B9467D28B4
+1 NAME Josef /Klönne/
+2 SURN Klönne
+2 GIVN Josef
+1 SEX M
+1 FAMC @F386@
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-35&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 5
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 FAMS @F396@
+1 BIRT
+2 DATE 14 SEP 1920
+1 DEAT
+2 DATE 15 JAN 1987
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 21:56:07
+0 @I1389@ INDI
+1 RIN AB:I1389
+1 _UID 931D786241634F0FA7810D9EEAA045DC0A68
+1 NAME Gertrud /Schweins/
+2 SURN Schweins
+2 GIVN Gertrud
+2 _MARNM Klönne 
+1 SEX F
+1 FAMS @F396@
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-37&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 3 FEB 1930
+1 DEAT
+2 DATE 26 AUG 2014
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+1 BURI
+2 DATE 29 AUG 2014
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 21:58:40
+0 @I1390@ INDI
+1 RIN AB:I1390
+1 _UID 8423510FFFB449A9AAEF4C2F933FB7519A4D
+1 NAME Friedrich /Stahlhut/
+2 SURN Stahlhut
+2 GIVN Friedrich
+1 SEX M
+1 FAMC @F365@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=1803754195&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 22:05:09
+0 @I1391@ INDI
+1 RIN AB:I1391
+1 _UID B3EE9F524D234964A3CE0DDBFC8E10A04222
+1 NAME Gertrud /Stahlhut/
+2 SURN Stahlhut
+2 GIVN Gertrud
+1 SEX F
+1 FAMC @F365@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=1803754136&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 22:05:53
+0 @I1392@ INDI
+1 RIN AB:I1392
+1 _UID ECB2A67F46A7481998CEC68B62A236AFB121
+1 NAME Theo /Stahlhut/
+2 SURN Stahlhut
+2 GIVN Theo
+1 SEX M
+1 FAMC @F365@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=1803754442&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 22:06:22
+0 @I1393@ INDI
+1 RIN AB:I1393
+1 _UID 7F655BDEC5E44C96A68A042FCB66EDE8117A
+1 NAME Anna /Nolte/
+2 SURN Nolte
+2 GIVN Anna
+2 _MARNM Stahlhut 
+1 SEX F
+1 FAMS @F364@
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=1792158532&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 24 SEP 1920
+2 PLAC Gerbershausen, Eichsfeld, Thüringen
+3 _LOC @L65@
+3 MAP
+4 LATI N51.337194
+4 LONG E9.9845
+1 DEAT
+2 DATE 6 AUG 1965
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 22:17:46
+0 @I1394@ INDI
+1 RIN AB:I1394
+1 _UID 6516DAF7D4554871829B786AE5BC85C11433
+1 NAME Gerhard Paul Albert /Reichelt/
+2 SURN Reichelt
+2 GIVN Gerhard Paul Albert
+1 SEX M
+1 FAMS @F397@
+1 OCCU Hauer
+1 RESI
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+2 ADDR Bülowstrasse 22
+3 CITY Bockum-Hövel, Hamm
+3 POST 59075
+3 STAE Nordrhein-Westfalen
+3 CTRY Deutschland
+1 RESI
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+2 ADDR Sieboldstrasse 8
+3 CITY Bockum-Hövel, Hamm
+3 POST 59075
+3 STAE Nordrhein-Westfalen
+3 CTRY Deutschland
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-54&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=1297887480&indId=externalindividual-aa640d59ff680f6481ebb077179fa727&mrid=0e3ed291919966b8408079e6355e95d5&action=showRecord&recordTitle=Gerhard+Paul+Albert+Reich
+3 CONC elt
+1 BIRT
+2 PLAC Ober Salzbrunn, Waldenburg, Niederschlesien, Preußen
+3 _LOC @L66@
+3 MAP
+4 LATI N50.783333
+4 LONG E16.25
+2 NOTE Der Ort "Ober Salzbrunn" (deutsch Bad Salzbrunn, bis 1935 Ober Salzbrunn, 1945–1946 polnisch Solice-Zdrój) entspricht heute "Szczawno-Zdrój".
+2 NOTE St.Amt Ober-Salzbrunn Nr. 310/1906
+2 DATE 18 JUN 1906
+1 DEAT
+2 DATE 29 DEC 1964
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 22:26:28
+0 @I1395@ INDI
+1 RIN AB:I1395
+1 _UID 421A0363078848F29E4B81899C69F2EB607F
+1 NAME Anna Margareta /Kestel/
+2 SURN Kestel
+2 GIVN Anna Margareta
+2 _MARNM Reichelt 
+1 SEX F
+1 FAMS @F397@
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-55&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=1297887479&indId=externalindividual-d2f1491d57689a43e6e99bcdaeaf9f42&mrid=c82a5d65b720fb7f8ea21af6f1b903cf&action=showRecord&recordTitle=Anna+Margareta+Reichelt+%
+3 CONC 28geb.+Kestel%29
+1 FAMC @F398@
+1 BIRT
+2 DATE 22 SEP 1914
+2 PLAC Wilhelmsthal, Kronach, Bayern
+3 _LOC @L67@
+3 MAP
+4 LATI N50.316667
+4 LONG E11.366667
+2 NOTE St.Amt Wilhelmsthal Nr. 30/1914
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 22:36:36
+0 @I1396@ INDI
+1 RIN AB:I1396
+1 _UID E860DBCBF8934619B57ED146CC1E3624666F
+1 NAME Paul /Kestel/
+2 SURN Kestel
+2 GIVN Paul
+1 SEX M
+1 FAMS @F398@
+1 _INET
+2 _MHRM 1
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-56&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=1300568303&indId=externalindividual-2db5edb2321a6a51603b1789b184e24e&mrid=1de4ab5fb6363c068e8f8fd1c213e9b8&action=showRecord&recordTitle=Paul+Kestel
+1 FAMS @F399@
+1 BIRT
+2 DATE 19 JUN 1889
+2 PLAC Wilhelmsthal, Kronach, Bayern
+3 _LOC @L67@
+3 MAP
+4 LATI N50.316667
+4 LONG E11.366667
+1 DEAT
+2 DATE 4 APR 1979
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 22:39:31
+0 @I1397@ INDI
+1 RIN AB:I1397
+1 _UID E9ADC591F01643BEB6DC82DB1B7CFFCF4708
+1 NAME Gertraud /Gehring/
+2 SURN Gehring
+2 GIVN Gertraud
+2 _MARNM Kestel 
+1 SEX F
+1 FAMS @F398@
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-57&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=1300568304&indId=externalindividual-91cbf4c08bb78693106d0c0b772adc7f&mrid=b72b0d37da1f07ea3697703074b8f40d&action=showRecord&recordTitle=Gertraud+Kestel+%28geb.+G
+3 CONC ehring%29
+1 BIRT
+2 DATE 17 MAR 1894
+2 PLAC Wilhelmsthal, Kronach, Bayern
+3 _LOC @L67@
+3 MAP
+4 LATI N50.316667
+4 LONG E11.366667
+1 DEAT
+2 DATE 26 SEP 1977
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 22:36:18
+0 @I1398@ INDI
+1 RIN AB:I1398
+1 _UID 0C555FE8FC234DE5A8764B1C7FFFF5BFB07F
+1 NAME Marie /Kestel/
+2 SURN Kestel
+2 GIVN Marie
+1 SEX F
+1 FAMC @F398@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S9@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-58&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 22:37:51
+0 @I1399@ INDI
+1 RIN AB:I1399
+1 _UID 4F0B3E6B2D7043C8B85B299EB00D2FCE3F56
+1 NAME Maria /Pietz/
+2 SURN Pietz
+2 GIVN Maria
+2 _MARNM Reichelt
+1 SEX F
+1 FAMS @F399@
+1 DEAT Y
+1 RESI
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+2 ADDR Bülowstrasse 22
+3 CITY Bockum-Hövel, Hamm
+3 POST 59075
+3 STAE Nordrhein-Westfalen
+3 CTRY Deutschland
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500149&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 15 FEB 1905
+2 PLAC Siedlinghausen, Winterberg, Hochsauerlandkreis, Nordrhein-Westfalen
+3 _LOC @L68@
+3 MAP
+4 LATI N51.253056
+4 LONG E8.471111
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 22:43:11
+0 @I1400@ INDI
+1 RIN AB:I1400
+1 _UID 7C96AB247B8E499C86BD288DFA547E25B8FD
+1 NAME Karl-Jakob /Radtke/
+2 SURN Radtke
+2 GIVN Karl-Jakob
+1 SEX M
+1 FAMS @F400@
+1 BURI
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500044&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 FAMC @F401@
+1 BIRT
+2 DATE 8 FEB 1908
+1 DEAT
+2 DATE 5 JUN 1993
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 22:49:50
+0 @I1401@ INDI
+1 RIN AB:I1401
+1 _UID 414DAD0F92F844C59EC037A63DF4FB579BB6
+1 NAME Jakob /Radtke/
+2 SURN Radtke
+2 GIVN Jakob
+1 SEX M
+1 FAMS @F401@
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500046&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 3
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 13 JUL 1870
+1 DEAT
+2 DATE 28 SEP 1935
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 22:50:59
+0 @I1402@ INDI
+1 RIN AB:I1402
+1 _UID D2482FC00BA84C59B03B3EA972506BCE2EB9
+1 NAME Pauline /Gappa/
+2 SURN Gappa
+2 GIVN Pauline
+2 _MARNM Radtke 
+1 SEX F
+1 FAMS @F401@
+1 BURI
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+2 NOTE Endgrablage: Grab 97
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500047&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 3
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 1 SEP 1870
+2 PLAC Kölnpin
+3 _LOC @L69@
+2 NOTE Der Geburtsort ist nicht identifiziertbar.
+1 DEAT
+2 DATE 25 OCT 1944
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 22:53:06
+0 @I1403@ INDI
+1 RIN AB:I1403
+1 _UID 5EA62F71818A45AFB153A2FE0E030509669F
+1 NAME Emma-Auguste /Brock/
+2 SURN Brock
+2 GIVN Emma-Auguste
+1 SEX F
+1 FAMS @F400@
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500045&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 29 JUL 1908
+2 PLAC Emsdetten, Kreis Steinfurt, Nordrhein-Westfalen
+3 _LOC @L70@
+3 MAP
+4 LATI N52.166667
+4 LONG E7.533333
+1 DEAT
+2 DATE 13 FEB 1996
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 22:58:22
+0 @I1404@ INDI
+1 RIN AB:I1404
+1 _UID 4105E895092C4757BA38F2B14A9C311F61B7
+1 NAME Günther Albert /Radtke/
+2 SURN Radtke
+2 GIVN Günther Albert
+2 _RUFNAME Günther
+1 SEX M
+1 FAMC @F400@
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500048&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 4
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 5 MAY 1936
+1 DEAT
+2 DATE 23 MAY 2011
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 23:03:59
+0 @I1405@ INDI
+1 RIN AB:I1405
+1 _UID DA573DE3D1F0435BA8F862DC1B8FFCE71B1B
+1 NAME Friedhelm Karl /Radtke/
+2 SURN Radtke
+2 GIVN Friedhelm Karl
+2 _RUFNAME Friedhelm 
+1 SEX M
+1 FAMC @F400@
+1 SOUR @S7@
+2 PAGE Klem Web Site von Doris Klem
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=200273691-1-500049&indId=externalindividual-c5b24035c884970aaa964205ef8955af&mrid=028023a4e4428d6527336a3f08998509&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 4
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 15 JAN 1942
+1 DEAT
+2 DATE 24 MAR 2011
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 23:05:10
+0 @I1406@ INDI
+1 RIN AB:I1406
+1 _UID FA5F6D49BF574EC793ABC55C47564477F164
+1 NAME Maria Elfriede /Radtke/
+2 SURN Radtke
+2 GIVN Maria Elfriede
+2 _MARNM Schinke 
+1 SEX F
+1 FAMC @F400@
+1 SOUR @S7@
+2 PAGE Priebs Web Site von Claudia Priebs
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=586359701-1-500063&indId=externalindividual-57496235569aef1a7b2674b18ab17aa3&mrid=f000665ec817f631fdfed500c802218a&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 4
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 20 JUL 1937
+1 DEAT
+2 DATE ABT 2 JAN 2019
+2 PLAC Spanien
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 23:06:56
+0 @I1407@ INDI
+1 RIN AB:I1407
+1 _UID 8E08465447D74987BCB708041947415D9BD7
+1 NAME Gerhardt /Spangardt/
+2 SURN Spangardt
+2 GIVN Gerhardt
+1 SEX M
+1 FAMS @F402@
+1 OCCU Steiger / Bergmann
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-505247&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 22 MAR 1880
+2 PLAC Borbeck, Essen, Nordrhein-Westfalen
+3 _LOC @L71@
+3 MAP
+4 LATI N51.473778
+4 LONG E6.950083
+1 DEAT
+2 DATE 7 DEC 1952
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 23:12:27
+0 @I1408@ INDI
+1 RIN AB:I1408
+1 _UID 0F0CAEE43DA743A78559016999DCE3EC0796
+1 NAME Maria /Düsing/
+2 SURN Düsing
+2 GIVN Maria
+2 _MARNM Spangardt 
+1 SEX F
+1 FAMS @F402@
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-505248&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 9 NOV 1880
+2 PLAC Borbeck, Essen, Nordrhein-Westfalen
+3 _LOC @L71@
+3 MAP
+4 LATI N51.473778
+4 LONG E6.950083
+1 DEAT
+2 DATE 9 MAR 1944
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 23:13:18
+0 @I1409@ INDI
+1 RIN AB:I1409
+1 _UID E1F08F9FEA694F3FA5E9FFAE5492A8650E6F
+1 NAME Gerhard /Spangardt/
+2 SURN Spangardt
+2 GIVN Gerhard
+1 SEX M
+1 FAMC @F402@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-506044&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 23:14:27
+0 @I1410@ INDI
+1 RIN AB:I1410
+1 _UID 145A47FF493C47F98BC4C9BF8E6E6DDC953F
+1 NAME Josephine /Spangardt/
+2 SURN Spangardt
+2 GIVN Josephine
+1 SEX F
+1 FAMC @F402@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-506045&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 23:15:14
+0 @I1411@ INDI
+1 RIN AB:I1411
+1 _UID 7D6BC2C3C73E41198AE27D961194C9692256
+1 NAME Wilhelmine /Spangardt/
+2 SURN Spangardt
+2 GIVN Wilhelmine
+1 SEX F
+1 FAMC @F402@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-505268&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 23:15:41
+0 @I1412@ INDI
+1 RIN AB:I1412
+1 _UID 6F56F8AB353E408B87A93CB954FEB1DFAD29
+1 NAME Theodor /Heimann/
+2 SURN Heimann
+2 GIVN Theodor
+1 SEX M
+1 FAMS @F403@
+1 OCCU Weber
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-500613&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 30 OCT 1853
+2 PLAC Herbern, Ascheberg, Kreis Coesfeld, Nordrhein-Westfalen
+3 _LOC @L46@
+3 MAP
+4 LATI N51.73
+4 LONG E7.65
+1 CHR
+2 DATE 31 OCT 1853
+2 PLAC Herbern, Ascheberg, Kreis Coesfeld, Nordrhein-Westfalen
+3 _LOC @L46@
+3 MAP
+4 LATI N51.73
+4 LONG E7.65
+1 DEAT
+2 DATE 25 APR 1941
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+2 CAUS Krankheit
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 23:18:58
+0 @I1413@ INDI
+1 RIN AB:I1413
+1 _UID 17378D17C54B43E7B0CBE0DD550724D0B4DB
+1 NAME Gertrud /Alfs (Aalfs)/
+2 SURN Alfs (Aalfs)
+2 GIVN Gertrud
+2 _MARNM Heimann 
+1 SEX F
+1 FAMS @F403@
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-500614&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 18 JUN 1853
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 RELI
+2 DATE 21 JUN 1853
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 DEAT
+2 DATE 12 JAN 1921
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 23:20:26
+0 @I1414@ INDI
+1 RIN AB:I1414
+1 _UID C112D016C0B24D94BB5E93E48F3FD898DA09
+1 NAME Maria Agnes /Heimann/
+2 SURN Heimann
+2 GIVN Maria Agnes
+1 SEX F
+1 FAMC @F403@
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-503159&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 SOUR @S7@
+2 PAGE Deutschland, Nordrhein-Westfalen, Sterberegister 1874-1938
+2 _LINK https://www.myheritage.de/research/collection-10864/deutschland-nordrhein-westfalen-sterberegister-1874-1938?itemId=323863-&indId=externalindividual-41852ff9658a8cfa4b289915e270f4da&mrid=6f6a37170395fd7a4313e057d574bb2a&action=showRecord&record
+3 CONC Title=+Agnes+Heimann
+1 BIRT
+2 DATE 16 JUL 1896
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 DEAT
+2 DATE 28 SEP 1902
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 23:22:35
+0 @I1415@ INDI
+1 RIN AB:I1415
+1 _UID 37455EF85BBD493281C0465FE10A8AD59588
+1 NAME Maria Anna /Heimann/
+2 SURN Heimann
+2 GIVN Maria Anna
+1 SEX F
+1 FAMC @F403@
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-503157&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 SOUR @S7@
+2 PAGE Deutschland, Nordrhein-Westfalen, Sterberegister 1874-1938
+2 _LINK https://www.myheritage.de/research/collection-10864/deutschland-nordrhein-westfalen-sterberegister-1874-1938?itemId=732764-&indId=externalindividual-3ae49d6f3545c7eb7e0af173189597bf&mrid=1765ea679acf7367810216468a2918ea&action=showRecord&record
+3 CONC Title=+Anna+Heimann
+1 BIRT
+2 DATE 10 OCT 1889
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 DEAT
+2 DATE 6 JUL 1904
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 23:33:10
+0 @I1416@ INDI
+1 RIN AB:I1416
+1 _UID 3CD490E72384461BB29F51F02B84941E82C3
+1 NAME Johann Bernhard /Heimann/
+2 SURN Heimann
+2 GIVN Johann Bernhard
+1 SEX M
+1 FAMC @F403@
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-503156&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 23 APR 1884
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 23:34:32
+0 @I1417@ INDI
+1 RIN AB:I1417
+1 _UID AFE26D969BA24E23A7B14B388FBD303DD63C
+1 NAME Elisabeth /Heimann/
+2 SURN Heimann
+2 GIVN Elisabeth
+2 NICK Schwester Liberata
+1 SEX F
+1 FAMC @F403@
+1 OCCU Ordensschwester in Bolivien
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-503160&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 5 MAY 1899
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 23:36:07
+0 @I1418@ INDI
+1 RIN AB:I1418
+1 _UID 3C2FC58ADFE5466FA09417EAA53021D7359C
+1 NAME Theodor /Heimann/
+2 SURN Heimann
+2 GIVN Theodor
+1 SEX F
+1 FAMC @F403@
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-503158&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 FAMS @F404@
+1 BIRT
+2 DATE 16 MAR 1893
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 DEAT
+2 DATE 9 MAY 1915
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 23:38:05
+0 @I1419@ INDI
+1 RIN AB:I1419
+1 _UID 4F8AB9BC0AE54C0290231863F72F73D72923
+1 NAME Clementine
+2 GIVN Clementine
+2 _MARNM Heimann
+1 SEX M
+1 FAMS @F404@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-505107&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 23:37:44
+0 @I1420@ INDI
+1 RIN AB:I1420
+1 _UID C06BB3458ACB4641BDB210CF068A8541A3F8
+1 NAME Gertrud /Heimann/
+2 SURN Heimann
+2 GIVN Gertrud
+1 SEX F
+1 FAMC @F403@
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-503155&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 28 SEP 1881
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 23:38:49
+0 @I1421@ INDI
+1 RIN AB:I1421
+1 _UID C85321532B064F0D88BB7BC24C3945359BD6
+1 NAME Caspar /Post/
+2 SURN Post
+2 GIVN Caspar
+1 SEX M
+1 FAMS @F405@
+1 RELI katholisch
+1 OCCU Landwirt, Tagelöhner
+2 PLAC Walstedde, Drensteinfurt, Kreis Warendorf, Nordrhein-Westfalen
+3 _LOC @L45@
+3 MAP
+4 LATI N51.762
+4 LONG E7.792
+1 RESI
+2 PLAC Walstedde, Drensteinfurt, Kreis Warendorf, Nordrhein-Westfalen
+3 _LOC @L45@
+3 MAP
+4 LATI N51.762
+4 LONG E7.792
+2 ADDR Dorfbauerschaft 55
+3 CITY Walstedde, Drensteinfurt
+3 POST 48317
+3 STAE Nordrhein-Westfalen
+3 CTRY Deutschland
+1 _INET
+2 _MHRM 1
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 19 OCT 1840
+2 PLAC Walstedde, Drensteinfurt, Kreis Warendorf, Nordrhein-Westfalen
+3 _LOC @L45@
+3 MAP
+4 LATI N51.762
+4 LONG E7.792
+1 CHR
+2 DATE 22 OCT 1840
+2 PLAC Walstedde, Drensteinfurt, Kreis Warendorf, Nordrhein-Westfalen
+3 _LOC @L45@
+3 MAP
+4 LATI N51.762
+4 LONG E7.792
+1 DEAT
+2 DATE 10 MAY 1928
+2 PLAC Drensteinfurt, Kreis Warendorf, Nordrhein-Westfalen
+3 _LOC @L72@
+3 MAP
+4 LATI N51.797778
+4 LONG E7.7415
+2 CAUS nach kurzer Krankheit
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 23:44:38
+0 @I1422@ INDI
+1 RIN AB:I1422
+1 _UID 7CABD631832B42A3AC6CB909E26F4308377C
+1 NAME Anna Gertrud /Averhage/
+2 SURN Averhage
+2 GIVN Anna Gertrud
+1 SEX F
+1 FAMS @F405@
+1 RELI katholisch
+1 _INET
+2 _MHRM 3
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-500365&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 BIRT
+2 DATE 27 APR 1841
+2 PLAC Enniger, Ennigerloh, Kreis Warendorf, Nordrhein-Westfalen
+3 _LOC @L73@
+3 MAP
+4 LATI N51.832583
+4 LONG E7.922278
+1 CHR
+2 DATE 28 APR 1841
+2 PLAC Enniger, Ennigerloh, Kreis Warendorf, Nordrhein-Westfalen
+3 _LOC @L73@
+3 MAP
+4 LATI N51.832583
+4 LONG E7.922278
+1 DEAT
+2 DATE AFT 1883
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 23:48:17
+0 @I1423@ INDI
+1 RIN AB:I1423
+1 _UID F873222B73A246ED8D450CF742AFDF6B1057
+1 NAME Franz Joseph /Post/
+2 SURN Post
+2 GIVN Franz Joseph
+1 SEX M
+1 FAMC @F405@
+1 OCCU Schreiner
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-503486&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 FAMS @F406@
+1 BIRT
+2 DATE 14 MAR 1883
+2 PLAC Walstedde, Drensteinfurt, Kreis Warendorf, Nordrhein-Westfalen
+3 _LOC @L45@
+3 MAP
+4 LATI N51.762
+4 LONG E7.792
+1 CHR
+2 DATE 17 MAR 1883
+2 PLAC Walstedde, Drensteinfurt, Kreis Warendorf, Nordrhein-Westfalen
+3 _LOC @L45@
+3 MAP
+4 LATI N51.762
+4 LONG E7.792
+1 DEAT
+2 DATE 9 JAN 1975
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 23:55:16
+0 @I1424@ INDI
+1 RIN AB:I1424
+1 _UID B359D460D38D4044AA3570E3B3D7B353E692
+1 NAME Anna /Fimpeler/
+2 SURN Fimpeler
+2 GIVN Anna
+2 _MARNM Post 
+1 SEX F
+1 FAMS @F406@
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 10 OCT 2020
+2 _SDATE 10 OCT 2020
+1 BIRT
+2 DATE 22 JUL 1887
+2 PLAC Recklinghausen, Kreis Recklinghausen, Nordrhein-Westfalen
+3 _LOC @L74@
+3 MAP
+4 LATI N51.6155
+4 LONG E7.197778
+1 DEAT
+2 DATE 17 MAY 1954
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 10 OCT 2020
+3 TIME 23:59:45
+0 @I1425@ INDI
+1 RIN AB:I1425
+1 _UID 0A3307A1AC9342CF8FB530741B89B3E55989
+1 NAME Franz /Post/
+2 SURN Post
+2 GIVN Franz
+1 SEX M
+1 FAMC @F406@
+1 RESI
+2 PLAC Neheim-Hüsten, Arnsberg, Hochsauerlandkreis, Nordrhein-Westfalen
+3 _LOC @L76@
+3 MAP
+4 LATI N51.43
+4 LONG E7.98
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-505098&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 11 OCT 2020
+2 _SDATE 11 OCT 2020
+1 FAMS @F407@
+1 BIRT
+2 DATE 26 JAN 1910
+2 PLAC Recklinghausen, Kreis Recklinghausen, Nordrhein-Westfalen
+3 _LOC @L74@
+3 MAP
+4 LATI N51.6155
+4 LONG E7.197778
+1 DEAT
+2 DATE 28 FEB 1998
+2 PLAC Neheim, Arnsberg, Hochsauerlandkreis, Nordrhein-Westfalen
+3 _LOC @L77@
+3 MAP
+4 LATI N51.45
+4 LONG E7.97
+1 CHAN
+2 DATE 11 OCT 2020
+3 TIME 0:07:29
+0 @I1426@ INDI
+1 RIN AB:I1426
+1 _UID 96B27A6D6A354F0897A6034773C48E0E7F99
+1 NAME Elisabeth /Schulte/
+2 SURN Schulte
+2 GIVN Elisabeth
+2 _MARNM Post 
+1 SEX F
+1 FAMS @F407@
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-505187&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 11 OCT 2020
+2 _SDATE 11 OCT 2020
+1 BIRT
+2 DATE 1 DEC 1911
+2 PLAC Arnsberg, Hochsauerlandkreis, Nordrhein-Westfalen
+3 _LOC @L78@
+3 MAP
+4 LATI N51.3995
+4 LONG E8.063083
+1 DEAT
+2 DATE 11 JUN 2006
+2 PLAC Neheim, Arnsberg, Hochsauerlandkreis, Nordrhein-Westfalen
+3 _LOC @L77@
+3 MAP
+4 LATI N51.45
+4 LONG E7.97
+1 CHAN
+2 DATE 11 OCT 2020
+3 TIME 0:10:47
+0 @I1427@ INDI
+1 RIN AB:I1427
+1 _UID 6CD372D35F694AAEABD0CD4FF4A53ADF8D7C
+1 NAME Klaus /Post/
+2 SURN Post
+2 GIVN Klaus
+1 SEX M
+1 FAMC @F407@
+1 RESI
+2 PLAC Rhynern, Hamm, Nordrhein-Westfalen
+3 _LOC @L80@
+3 MAP
+4 LATI N51.61
+4 LONG E7.866083
+1 SOUR @S7@
+2 PAGE Familienseite Post von Kai Post
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=78808933-1-505186&indId=externalindividual-2414280ba9565526819dbc747c962ece&mrid=0df934d011a84adcf181d995cbd64002&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 11 OCT 2020
+2 _SDATE 11 OCT 2020
+1 BIRT
+2 DATE 29 JUN 1938
+2 PLAC Warendorf, Nordrhein-Westfalen
+3 _LOC @L79@
+3 MAP
+4 LATI N51.952694
+4 LONG E7.991278
+1 DEAT
+2 DATE 17 JUL 2019
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+1 BURI
+2 DATE 26 JUL 2019
+2 PLAC Rhynern, Hamm, Nordrhein-Westfalen
+3 _LOC @L80@
+3 MAP
+4 LATI N51.61
+4 LONG E7.866083
+1 CHAN
+2 DATE 11 OCT 2020
+3 TIME 0:16:08
 0 @S1@ SOUR
 1 TITL Matricula
 0 @S2@ SOUR
@@ -41365,11 +44277,22 @@
 0 @F364@ FAM
 1 HUSB @I1279@
 1 CHIL @I1278@
+1 WIFE @I1393@
+1 MARR
+2 DATE 13 AUG 1945
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
 0 @F365@ FAM
 1 HUSB @I1280@
 1 CHIL @I1279@
 1 WIFE @I1281@
 1 MARR Y
+1 CHIL @I1390@
+1 CHIL @I1391@
+1 CHIL @I1392@
 0 @F366@ FAM
 1 HUSB @I1282@
 1 CHIL @I1281@
@@ -41383,6 +44306,10 @@
 4 LATI N51.68
 4 LONG E7.73
 1 CHIL @I1309@
+1 CHIL @I1360@
+1 CHIL @I1361@
+1 CHIL @I1362@
+1 CHIL @I1363@
 0 @F367@ FAM
 1 HUSB @I1284@
 1 CHIL @I1283@
@@ -41444,12 +44371,28 @@
 1 HUSB @I1310@
 1 CHIL @I1311@
 1 CHIL @I1312@
+1 CHIL @I1352@
+1 CHIL @I1353@
+1 CHIL @I1355@
+1 CHIL @I1357@
+1 CHIL @I1358@
 0 @F371@ FAM
 1 WIFE @I1312@
 1 HUSB @I1313@
 0 @F372@ FAM
 1 HUSB @I1314@
 1 CHIL @I1313@
+1 WIFE @I1343@
+1 MARR
+2 DATE 4 JUN 1914
+2 PLAC Epe, Kreis Borken, Nordrhein-Westfalen
+3 _LOC @L57@
+3 MAP
+4 LATI N52.177778
+4 LONG E7.041667
+1 CHIL @I1344@
+1 CHIL @I1345@
+1 CHIL @I1348@
 0 @F373@ FAM
 1 HUSB @I1315@
 1 CHIL @I1314@
@@ -41486,6 +44429,7 @@
 0 @F376@ FAM
 1 WIFE @I1326@
 1 HUSB @I1327@
+1 CHIL @I1335@
 1 MARR
 2 DATE 13 OCT 1903
 2 PLAC Bockum, Hamm, Nordrhein-Westfalen
@@ -41493,6 +44437,12 @@
 3 MAP
 4 LATI N51.68
 4 LONG E7.73
+1 CHIL @I1336@
+1 CHIL @I1338@
+1 CHIL @I1339@
+1 CHIL @I1340@
+1 CHIL @I1341@
+1 CHIL @I1342@
 0 @F377@ FAM
 1 HUSB @I1327@
 1 WIFE @I1328@
@@ -41518,6 +44468,264 @@
 4 LATI N51.68
 4 LONG E7.73
 1 CHIL @I1334@
+0 @F379@ FAM
+1 HUSB @I1336@
+1 WIFE @I1337@
+1 MARR
+2 DATE 1 APR 1942
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+2 TYPE CIVIL
+1 MARR
+2 DATE 30 NOV 1942
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+2 TYPE RELI
+1 ENGA
+2 DATE DEC 1942
+2 PLAC Nottuln, Kreis Coesfeld, Nordrhein-Westfalen
+3 _LOC @L54@
+3 MAP
+4 LATI N51.929083
+4 LONG E7.352778
+0 @F380@ FAM
+1 WIFE @I1345@
+1 HUSB @I1346@
+1 CHIL @I1347@
+0 @F381@ FAM
+1 HUSB @I1348@
+1 WIFE @I1349@
+1 MARR
+2 DATE 20 MAR 1944
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+0 @F382@ FAM
+1 HUSB @I1350@
+1 CHIL @I1349@
+1 WIFE @I1351@
+1 MARR
+2 DATE 16 SEP 1920
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+0 @F383@ FAM
+1 HUSB @I1353@
+1 WIFE @I1354@
+0 @F384@ FAM
+1 WIFE @I1355@
+1 HUSB @I1356@
+0 @F385@ FAM
+1 WIFE @I1358@
+1 HUSB @I1359@
+0 @F386@ FAM
+1 HUSB @I1363@
+1 WIFE @I1364@
+1 CHIL @I1367@
+1 MARR
+2 DATE 11 NOV 1919
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHIL @I1368@
+1 CHIL @I1370@
+1 CHIL @I1371@
+1 CHIL @I1373@
+1 CHIL @I1375@
+1 CHIL @I1376@
+1 CHIL @I1378@
+1 CHIL @I1380@
+1 CHIL @I1383@
+1 CHIL @I1386@
+1 CHIL @I1388@
+0 @F387@ FAM
+1 HUSB @I1365@
+1 CHIL @I1364@
+1 WIFE @I1366@
+0 @F388@ FAM
+1 HUSB @I1368@
+1 WIFE @I1369@
+0 @F389@ FAM
+1 HUSB @I1371@
+1 WIFE @I1372@
+0 @F390@ FAM
+1 HUSB @I1373@
+1 CHIL @I1374@
+0 @F391@ FAM
+1 HUSB @I1376@
+1 WIFE @I1377@
+1 MARR
+2 DATE 3 FEB 1961
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+2 TYPE CIVIL
+2 NOTE Eheschließung Nr. 19/1961, Standesamt Bockum-Hövel, Standesbeamter Langenkämper
+1 MARR
+2 DATE 8 MAY 1962
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+2 TYPE RELI
+2 NOTE Herz Jesu Pfarrkirche
+0 @F392@ FAM
+1 WIFE @I1378@
+1 HUSB @I1379@
+0 @F393@ FAM
+1 WIFE @I1380@
+1 HUSB @I1381@
+1 CHIL @I1382@
+0 @F394@ FAM
+1 WIFE @I1383@
+1 HUSB @I1384@
+1 CHIL @I1385@
+0 @F395@ FAM
+1 WIFE @I1386@
+1 HUSB @I1387@
+0 @F396@ FAM
+1 HUSB @I1388@
+1 WIFE @I1389@
+0 @F397@ FAM
+1 HUSB @I1394@
+1 CHIL @I1377@
+1 WIFE @I1395@
+1 MARR
+2 DATE 24 FEB 1933
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+0 @F398@ FAM
+1 HUSB @I1396@
+1 CHIL @I1395@
+1 WIFE @I1397@
+1 MARR
+2 DATE 25 OCT 1913
+2 PLAC Wilhelmsthal, Kronach, Bayern
+3 _LOC @L67@
+3 MAP
+4 LATI N50.316667
+4 LONG E11.366667
+1 CHIL @I1398@
+0 @F399@ FAM
+1 HUSB @I1396@
+1 WIFE @I1399@
+1 MARR
+2 DATE 24 DEC 1954
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+0 @F400@ FAM
+1 HUSB @I1400@
+1 CHIL @I1369@
+1 WIFE @I1403@
+1 MARR Y
+1 CHIL @I1404@
+1 CHIL @I1405@
+1 CHIL @I1406@
+0 @F401@ FAM
+1 HUSB @I1401@
+1 CHIL @I1400@
+1 WIFE @I1402@
+0 @F402@ FAM
+1 HUSB @I1407@
+1 CHIL @I1333@
+1 WIFE @I1408@
+1 CHIL @I1409@
+1 CHIL @I1410@
+1 CHIL @I1411@
+0 @F403@ FAM
+1 HUSB @I1412@
+1 CHIL @I1328@
+1 WIFE @I1413@
+1 MARR
+2 DATE 12 OCT 1880
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHIL @I1414@
+1 CHIL @I1415@
+1 CHIL @I1416@
+1 CHIL @I1417@
+1 CHIL @I1418@
+1 CHIL @I1420@
+0 @F404@ FAM
+1 WIFE @I1418@
+1 HUSB @I1419@
+0 @F405@ FAM
+1 HUSB @I1421@
+1 CHIL @I1327@
+1 WIFE @I1422@
+1 MARR
+2 DATE 27 APR 1870
+2 PLAC Walstedde, Drensteinfurt, Kreis Warendorf, Nordrhein-Westfalen
+3 _LOC @L45@
+3 MAP
+4 LATI N51.762
+4 LONG E7.792
+2 RELI katholisch
+2 TYPE RELI
+2 NOTE Sankt Lambertus
+1 CHIL @I1423@
+0 @F406@ FAM
+1 HUSB @I1423@
+1 WIFE @I1424@
+1 MARR
+2 DATE 12 JUL 1909
+2 PLAC Recklinghausen, Kreis Recklinghausen, Nordrhein-Westfalen
+3 _LOC @L74@
+3 MAP
+4 LATI N51.6155
+4 LONG E7.197778
+1 DIV
+2 DATE 12 JUL 1934
+2 PLAC Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L75@
+3 MAP
+4 LATI N51.7
+4 LONG E7.75
+1 CHIL @I1425@
+0 @F407@ FAM
+1 HUSB @I1425@
+1 WIFE @I1426@
+1 MARR
+2 DATE 6 JUN 1936
+2 PLAC Arnsberg, Hochsauerlandkreis, Nordrhein-Westfalen
+3 _LOC @L78@
+3 MAP
+4 LATI N51.3995
+4 LONG E8.063083
+2 TYPE CIVIL
+1 MARR
+2 DATE 15 AUG 1936
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 TYPE RELI
+1 CHIL @I1427@
 0 @SUBM@ SUBM
 1 NAME Michael Johne
 1 ADDR Michael Johne
@@ -41860,6 +45068,167 @@
 2 CONT http://gov.genealogy.net/item/show/BESWIGJO41EI
 1 _POST 59909
 1 _GOV BESWIGJO41EI
+0 @L51@ _LOC
+1 NAME Lüdinghausen, Kreis Coesfeld, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/L%C3%BCdinghausen
+2 CONT http://gov.genealogy.net/item/show/LUDSE1JO31RS
+1 _POST 59348
+1 _GOV LUDSE1JO31RS
+1 MAP
+2 LATI N51.768278
+2 LONG E7.437889
+0 @L52@ _LOC
+1 NAME Südkirchen, Nordkirchen, Kreis Coesfeld, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/Südkirchen
+2 CONT http://gov.genealogy.net/item/show/SUDHENJO31SQ
+1 _POST 59394
+1 _GOV SUDHENJO31SQ
+1 MAP
+2 LATI N51.701889
+2 LONG E7.549583
+0 @L53@ _LOC
+1 NAME Nordkirchen, Kreis Coesfeld, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/Nordkirchen
+2 CONT http://gov.genealogy.net/item/show/NORHE1JO31SR
+1 _POST 59394
+1 _GOV NORHE1JO31SR
+1 MAP
+2 LATI N51.738278
+2 LONG E7.525583
+0 @L54@ _LOC
+1 NAME Nottuln, Kreis Coesfeld, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/Nottuln
+2 CONT http://gov.genealogy.net/item/show/EMMICHJO31PW
+1 _POST 48301
+1 _GOV EMMICHJO31PW
+1 MAP
+2 LATI N51.929083
+2 LONG E7.352778
+0 @L55@ _LOC
+1 NAME Montagnana, Provinz Padua, Venetien, Italien
+1 SOUR https://de.wikipedia.org/wiki/Montagnana
+2 CONT http://gov.genealogy.net/item/show/MONANAJN55RF
+1 MAP
+2 LATI N45.233333
+2 LONG E11.45
+1 _POST 35044
+1 _GOV MONANAJN55RF
+0 @L56@ _LOC
+1 NAME Costermano sul Garda, Provinz Verona, Venetien, Italien
+1 SOUR https://de.wikipedia.org/wiki/Costermano_sul_Garda,
+2 CONT http://gov.genealogy.net/item/show/COSANOJN55IO
+1 _POST 37010
+1 _GOV COSANOJN55IO
+1 MAP
+2 LATI N45.583333
+2 LONG E10.733333
+0 @L57@ _LOC
+1 NAME Epe, Kreis Borken, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/Epe_(Westfalen)
+2 CONT http://gov.genealogy.net/item/show/EPEEP1JO32ME
+1 _POST 48599
+1 _GOV EPEEP1JO32ME
+1 MAP
+2 LATI N52.177778
+2 LONG E7.041667
+0 @L58@ _LOC
+1 NAME Greven, Kreis Steinfurt, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/Greven
+2 CONT http://gov.genealogy.net/item/show/GREVENJO32TC
+1 _POST 48268
+1 _GOV GREVENJO32TC
+1 MAP
+2 LATI N52.1
+2 LONG E7.6
+0 @L59@ _LOC
+1 NAME Werne, Kreis Unna, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/Werne
+2 CONT http://gov.genealogy.net/item/show/WERRNEJO31PL
+1 _POST 59368
+1 _GOV WERRNEJO31PL
+1 MAP
+2 LATI N51.48
+2 LONG E7.3
+0 @L60@ _LOC
+1 NAME Salzgitter, Niedersachsen
+1 SOUR https://de.wikipedia.org/wiki/Salzgitter
+2 CONT http://gov.genealogy.net/item/show/adm_133102
+1 _POST 38226, 38228, 38229, 38239, 38259
+1 _GOV adm_133102
+1 MAP
+2 LATI N52.15
+2 LONG E10.366667
+0 @L61@ _LOC
+1 NAME Braunschweig, Niedersachsen
+1 SOUR https://de.wikipedia.org/wiki/Braunschweig
+2 CONT http://gov.genealogy.net/item/show/BRAEIGJO52GG
+1 _POST 38100–38126
+1 _GOV BRAEIGJO52GG
+0 @L62@ _LOC
+1 NAME Ochtrup, Kreis Steinfurt, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/Ochtrup
+2 CONT http://gov.genealogy.net/item/show/OCHRU1JO32OF
+1 _POST 48607
+1 _GOV OCHRU1JO32OF
+1 MAP
+2 LATI N52.209778
+2 LONG E7.188694
+0 @L63@ _LOC
+1 NAME Friedhof Alte Maate, Ochtrup, Kreis Steinfurt, Nordrhein-Westfalen
+1 _POST 48607
+1 _GOV OCHRU1JO32OF
+1 MAP
+2 LATI N52.212639
+2 LONG E7.188944
+0 @L64@ _LOC
+1 NAME Dortmund, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/Dortmund
+2 CONT http://gov.genealogy.net/item/show/DORUNDJO31RM
+1 _POST 44135–44388
+1 _GOV DORUNDJO31RM
+1 MAP
+2 LATI N51.51
+2 LONG E7.47
+0 @L65@ _LOC
+1 NAME Gerbershausen, Eichsfeld, Thüringen
+1 SOUR https://de.wikipedia.org/wiki/Gerbershausen
+2 CONT http://gov.genealogy.net/item/show/GERSEN_O5631
+1 _POST 37318
+1 _GOV GERSEN_O5631
+1 MAP
+2 LATI N51.337194
+2 LONG E9.9845
+0 @L66@ _LOC
+1 NAME Ober Salzbrunn, Waldenburg, Niederschlesien, Preußen
+1 NOTE Der Ort "Ober Salzbrunn" (deutsch Bad Salzbrunn, bis 1935 Ober Salzbrunn, 1945–1946 polnisch Solice-Zdrój) entspricht heute "Szczawno-Zdrój".
+1 SOUR https://de.wikipedia.org/wiki/Szczawno-Zdrój
+2 CONT http://gov.genealogy.net/item/show/object_308194
+1 _POST 58-310
+1 _GOV object_308194
+1 MAP
+2 LATI N50.783333
+2 LONG E16.25
+0 @L67@ _LOC
+1 NAME Wilhelmsthal, Kronach, Bayern
+1 SOUR https://de.wikipedia.org/wiki/Wilhelmsthal
+2 CONT http://gov.genealogy.net/item/show/object_320870
+1 _POST 96352
+1 _GOV object_320870
+1 MAP
+2 LATI N50.316667
+2 LONG E11.366667
+0 @L68@ _LOC
+1 NAME Siedlinghausen, Winterberg, Hochsauerlandkreis, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/Siedlinghausen
+2 CONT http://gov.genealogy.net/item/show/SIESENJO41FF
+1 _POST 59955
+1 _GOV SIESENJO41FF
+1 MAP
+2 LATI N51.253056
+2 LONG E8.471111
+0 @L69@ _LOC
+1 NAME Kölnpin
+1 NOTE Der Ort ist nicht identifiziertbar.
 0 @L7@ _LOC
 1 NAME Bockum-Hövel, Hamm, Nordrhein-Westfalen
 1 _POST 59075
@@ -41867,6 +45236,93 @@
 1 MAP
 2 LATI N51.692278
 2 LONG E7.737694
+0 @L70@ _LOC
+1 NAME Emsdetten, Kreis Steinfurt, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/Emsdetten
+2 CONT http://gov.genealogy.net/item/show/EMSTE1JO32SE
+1 _POST 48282
+1 _GOV EMSTE1JO32SE
+1 MAP
+2 LATI N52.166667
+2 LONG E7.533333
+0 @L71@ _LOC
+1 NAME Borbeck, Essen, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/Borbeck-Mitte
+2 CONT http://gov.genealogy.net/item/show/BORECKJO31ML
+1 _POST 45359
+1 _GOV BORECKJO31ML
+1 MAP
+2 LATI N51.473778
+2 LONG E6.950083
+0 @L72@ _LOC
+1 NAME Drensteinfurt, Kreis Warendorf, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/Drensteinfurt
+2 CONT http://gov.genealogy.net/item/show/DREUR2JO31UT
+1 _POST 48317
+1 _GOV DREUR2JO31UT
+1 MAP
+2 LATI N51.797778
+2 LONG E7.7415
+0 @L73@ _LOC
+1 NAME Enniger, Ennigerloh, Kreis Warendorf, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/Enniger
+2 CONT http://gov.genealogy.net/item/show/ENNGERJO31XU
+1 _POST 59320
+1 _GOV ENNGERJO31XU
+1 MAP
+2 LATI N51.832583
+2 LONG E7.922278
+0 @L74@ _LOC
+1 NAME Recklinghausen, Kreis Recklinghausen, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/Recklinghausen
+2 CONT http://gov.genealogy.net/item/show/RECSENJO31OO
+1 _POST 45657–45665
+1 _GOV RECSENJO31OO
+1 MAP
+2 LATI N51.6155
+2 LONG E7.197778
+0 @L75@ _LOC
+1 NAME Hövel, Hamm, Nordrhein-Westfalen
+1 SOUR http://gov.genealogy.net/item/show/HOVVE1JO31VQ
+1 _GOV HOVVE1JO31VQ
+1 MAP
+2 LATI N51.7
+2 LONG E7.75
+0 @L76@ _LOC
+1 NAME Neheim-Hüsten, Arnsberg, Hochsauerlandkreis, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/Neheim-H%C3%BCsten
+2 CONT http://gov.genealogy.net/item/show/NEHTENJO31XK
+1 _POST 59846
+1 _GOV NEHTENJO31XK
+1 MAP
+2 LATI N51.43
+2 LONG E7.98
+0 @L77@ _LOC
+1 NAME Neheim, Arnsberg, Hochsauerlandkreis, Nordrhein-Westfalen
+1 SOUR http://gov.genealogy.net/item/show/NEHEIMJO31XK
+1 _POST 59755
+1 _GOV NEHEIMJO31XK
+1 MAP
+2 LATI N51.45
+2 LONG E7.97
+0 @L78@ _LOC
+1 NAME Arnsberg, Hochsauerlandkreis, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/Arnsberg
+2 CONT http://gov.genealogy.net/item/show/ARNERGJO41AJ
+1 _POST 59755, 59757, 59759, 59821, 59823
+1 _GOV ARNERGJO41AJ
+1 MAP
+2 LATI N51.3995
+2 LONG E8.063083
+0 @L79@ _LOC
+1 NAME Warendorf, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/Warendorf
+2 CONT http://gov.genealogy.net/item/show/WARORFJO31XW
+1 _POST 48231
+1 _GOV WARORFJO31XW
+1 MAP
+2 LATI N51.952694
+2 LONG E7.991278
 0 @L8@ _LOC
 1 NAME Waldenburg, Niederschlesien, Preußen
 1 _GOV WALURGJO80DS
@@ -41874,6 +45330,15 @@
 2 LATI N50.764694
 2 LONG E16.278889
 1 NOTE Der Wohnort "Waldenburg" entspricht heute "Wałbrzych" in Polen.
+0 @L80@ _LOC
+1 NAME Rhynern, Hamm, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/Hamm-Rhynern
+2 CONT http://gov.genealogy.net/item/show/RHYERNJO31WO
+1 _POST 59069
+1 _GOV RHYERNJO31WO
+1 MAP
+2 LATI N51.61
+2 LONG E7.866083
 0 @L9@ _LOC
 1 NAME Bockum, Hamm, Nordrhein-Westfalen
 1 NOTE Der Ortsteil "Bockum" entspricht heute dem Stadtteil "Bockum-Hövel".
