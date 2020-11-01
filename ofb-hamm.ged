@@ -3,8 +3,8 @@
 2 VERS 3.17
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
-1 DATE 18 OCT 2020
-2 TIME 23:33:35
+1 DATE 1 NOV 2020
+2 TIME 18:59:29
 1 SUBM @SUBM@
 1 FILE ofb-hamm.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I1501@
-1 _HOME @I1501@
+2 _NAVI @I1684@
+1 _HOME @I1684@
 0 @I1@ INDI
 1 RIN AB:I1
 1 _UID 4EB661D5ACFE49AAAB528691A2E80DB03210
@@ -35644,6 +35644,7 @@
 1 NAME Theodor /Ueter/
 2 SURN Ueter
 2 GIVN Theodor
+2 NICK Theo
 1 SEX M
 1 SOUR @S5@
 2 DATA
@@ -35655,9 +35656,11 @@
 2 _MHSM 0
 2 _RDATE 9 OCT 2020
 2 _SDATE 9 OCT 2020
-1 FAMS @F359@
+1 FAMS @F484@
 1 BIRT
 2 DATE 1910
+1 DEAT
+2 DATE 1996
 1 BURI
 2 SOUR @S5@
 3 DATA
@@ -35666,44 +35669,9 @@
 3 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg)
 2 DATE 1996
 2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
-1 DEAT
-2 DATE 1996
 1 CHAN
-2 DATE 9 OCT 2020
-3 TIME 9:51:50
-0 @I1252@ INDI
-1 RIN AB:I1252
-1 _UID F6FF761D419647A48F481A28050CBCD2029C
-1 NAME Elisabeth
-2 GIVN Elisabeth
-2 _MARNM Ueter
-1 SEX F
-1 FAMS @F359@
-1 SOUR @S5@
-2 DATA
-3 DATE 2019
-2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=8&b=&lang=de
-2 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg)
-1 _INET
-2 _MHRM 0
-2 _MHSM 0
-2 _RDATE 9 OCT 2020
-2 _SDATE 9 OCT 2020
-1 DEAT
-2 DATE 1912
-1 BIRT
-2 DATE 1912
-1 BURI
-2 SOUR @S5@
-3 DATA
-4 DATE 2019
-3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=8&b=&lang=de
-3 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg)
-2 DATE 1912
-2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
-1 CHAN
-2 DATE 9 OCT 2020
-3 TIME 9:52:35
+2 DATE 1 NOV 2020
+3 TIME 18:46:21
 0 @I1253@ INDI
 1 RIN AB:I1253
 1 _UID A984C22E9BCC4DC5B20E2041186086A85D60
@@ -41323,7 +41291,7 @@
 4 LATI N51.762
 4 LONG E7.792
 2 ADDR Dorfbauerschaft 55
-3 CITY Walstedde, Drensteinfurt
+3 CITY Walstedde, Drensteinfurt, Kreis Warendorf, Nordrhein-Westfalen
 3 POST 48317
 3 STAE Nordrhein-Westfalen
 3 CTRY Deutschland
@@ -43726,6 +43694,9 @@
 1 FAMS @F425@
 1 NOTE alternative Vorname: Hennrich/Henrich
 1 NOTE alternativer Nachname: Frie
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=475002566&action=showRecord
 1 BIRT
 2 DATE 14 DEC 1841
 2 PLAC Bockum, Hamm, Nordrhein-Westfalen
@@ -43749,44 +43720,68 @@
 4 LATI N51.68
 4 LONG E7.73
 1 CHAN
-2 DATE 18 OCT 2020
-3 TIME 13:11:15
+2 DATE 31 OCT 2020
+3 TIME 14:26:00
 0 @I1493@ INDI
 1 RIN AB:I1493
 1 _UID AB1A02B54D2D46D4998016F84E93C56D4ACA
 1 NAME Gottfried /Frye/
 2 SURN Frye
 2 GIVN Gottfried
+2 NOTE alternativer Vorname: Godfried / Gottfried Friedrich
+2 NOTE alternativer Nachname: Frigge
 1 SEX M
 1 FAMS @F424@
-1 BIRT Y
-1 DEAT Y
-1 CHAN
-2 DATE 17 OCT 2020
-3 TIME 14:09:35
 1 _INET
 2 _MHRM 0
 2 _MHSM 0
 2 _RDATE 18 OCT 2020
 2 _SDATE 18 OCT 2020
+1 NOTE alternativer Vorname: Godfried / Gottfried Friedrich
+1 NOTE alternativer Nachname: Frigge
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=831820856&action=showRecord
+1 FAMC @F462@
+1 BIRT
+2 DATE 1792
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 DEAT
+2 DATE 17 FEB 1863
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 24 OCT 2020
+3 TIME 20:31:37
 0 @I1494@ INDI
 1 RIN AB:I1494
 1 _UID EDDB81E977A04983ADEEBF063BE461998EE6
-1 NAME Maria Anna /Kranz/
+1 NAME Maria Catharine /Kranz/
 2 SURN Kranz
-2 GIVN Maria Anna
+2 GIVN Maria Catharine
 1 SEX F
 1 FAMS @F424@
 1 BIRT Y
 1 DEAT Y
-1 CHAN
-2 DATE 17 OCT 2020
-3 TIME 14:09:39
 1 _INET
 2 _MHRM 0
 2 _MHSM 0
 2 _RDATE 18 OCT 2020
-2 _SDATE 18 OCT 2020
+2 _SDATE 24 OCT 2020
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=376052599&action=showRecord
+1 FAMC @F463@
+1 CHAN
+2 DATE 24 OCT 2020
+3 TIME 20:53:59
 0 @I1495@ INDI
 1 RIN AB:I1495
 1 _UID 8C2A196B7E634F03A1616C5FED34F54C9CF5
@@ -46446,6 +46441,7 @@
 1 SOUR @S7@
 2 PAGE Limbrock Web Site von Christa Mühlenhoff
 2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-500123&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord&recordTitle=Theodor+Harfeld
+1 FAMC @F468@
 1 BIRT
 2 DATE 14 JUL 1925
 1 BURI
@@ -46459,8 +46455,8 @@
 1 DEAT
 2 DATE 11 MAY 2009
 1 CHAN
-2 DATE 18 OCT 2020
-3 TIME 18:36:23
+2 DATE 31 OCT 2020
+3 TIME 14:34:44
 0 @I1580@ INDI
 1 RIN AB:I1580
 1 _UID 84792249E7FF49489FA695295045072EAC2B
@@ -47568,6 +47564,2143 @@
 1 CHAN
 2 DATE 18 OCT 2020
 3 TIME 23:31:16
+0 @I1617@ INDI
+1 RIN AB:I1617
+1 _UID A78CC3A9D0C540EE98D0F63F7439330DEC55
+1 NAME Theodor Hermann /Frigge/
+2 SURN Frigge
+2 GIVN Theodor Hermann
+1 SEX M
+1 FAMS @F462@
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=1335608816&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 0
+2 _RDATE 24 OCT 2020
+2 _SDATE 24 OCT 2020
+1 BIRT
+2 DATE 1757
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 DEAT
+2 DATE 14 MAR 1811
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 24 OCT 2020
+3 TIME 20:33:14
+0 @I1618@ INDI
+1 RIN AB:I1618
+1 _UID D64DB6AD710842E192F9F1F0C2191E53DA58
+1 NAME Anna Maria /Holz/
+2 SURN Holz
+2 GIVN Anna Maria
+1 SEX F
+1 FAMS @F462@
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=1335608789&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 0
+2 _RDATE 24 OCT 2020
+2 _SDATE 24 OCT 2020
+1 BIRT
+2 DATE 1761
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 DEAT
+2 DATE 10 MAR 1811
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 24 OCT 2020
+3 TIME 20:34:06
+0 @I1619@ INDI
+1 RIN AB:I1619
+1 _UID A466032E61FD4AAF895C7FF7337DB2B10021
+1 NAME Johann Bernhard /Kranz/
+2 SURN Kranz
+2 GIVN Johann Bernhard
+1 SEX M
+1 FAMS @F463@
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=1335605284&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 24 OCT 2020
+2 _SDATE 24 OCT 2020
+1 BIRT
+2 DATE 1771
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 DEAT
+2 DATE 30 OCT 1814
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 24 OCT 2020
+3 TIME 20:36:29
+0 @I1620@ INDI
+1 RIN AB:I1620
+1 _UID 368FC12C8F244A8BBFDECDAF87DB0FBF835F
+1 NAME Josef /Kranz/
+2 SURN Kranz
+2 GIVN Josef
+1 SEX M
+1 FAMC @F463@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=1335603001&action=showRecord
+1 CHAN
+2 DATE 24 OCT 2020
+3 TIME 20:36:50
+0 @I1621@ INDI
+1 RIN AB:I1621
+1 _UID 71D8BAC057904813B5553739BD4D59402292
+1 NAME Godefrid /Frye/
+2 SURN Frye
+2 GIVN Godefrid
+1 SEX M
+1 FAMC @F424@
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=735710689&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 0
+2 _RDATE 24 OCT 2020
+2 _SDATE 24 OCT 2020
+1 BIRT
+2 DATE 29 DEC 1837
+1 CHR
+2 DATE 31 DEC 1837
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+2 RELI katholisch
+1 DEAT
+2 DATE 21 MAY 1841
+1 CHAN
+2 DATE 24 OCT 2020
+3 TIME 20:45:13
+0 @I1622@ INDI
+1 RIN AB:I1622
+1 _UID FD862F21A2924475BE6E5B338C07EE1C17DC
+1 NAME Gerhard /Frigge/
+2 SURN Frigge
+2 GIVN Gerhard
+1 SEX M
+1 FAMC @F424@
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=59938686&action=showRecord
+1 _INET
+2 _MHRM 3
+2 _MHSM 0
+2 _RDATE 24 OCT 2020
+2 _SDATE 24 OCT 2020
+1 CHR
+2 DATE 19 JUL 1825
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+2 RELI katholisch
+2 NOTE Sankt Stephanus
+1 BIRT
+2 DATE 19 JUL 1825
+1 CHAN
+2 DATE 24 OCT 2020
+3 TIME 20:53:31
+0 @I1623@ INDI
+1 RIN AB:I1623
+1 _UID BDA2F1495D394EE5B6D9AF2BCEF9483B1597
+1 NAME Johann Heinrich /Frye/
+2 SURN Frye
+2 GIVN Johann Heinrich
+1 SEX M
+1 FAMC @F424@
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=186646446&action=showRecord
+1 _INET
+2 _MHRM 2
+2 _MHSM 0
+2 _RDATE 24 OCT 2020
+2 _SDATE 24 OCT 2020
+1 SOUR @S7@
+2 PAGE Deutschland, Nordrhein-Westfalen, Sterberegister 1874-1938
+2 _LINK https://www.myheritage.de/research/collection-10864/deutschland-nordrhein-westfalen-sterberegister-1874-1938?itemId=914385-&indId=externalindividual-66c6c76ff480a0d4ae8805bdc0199521&mrid=09e4187c131453d2a6aba141a7fa0f3c&action=showRecord&record
+3 CONC Title=+Heinrich+Frye
+1 BIRT
+2 DATE 16 DEC 1841
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten
+1 CHR
+2 DATE 16 DEC 1841
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+2 RELI katholisch
+1 DEAT
+2 DATE 25 NOV 1917
+2 SOUR @S7@
+3 _LINK https://www.myheritage.de/research/collection-10864/deutschland-nordrhein-westfalen-sterberegister-1874-1938?itemId=914385-&indId=externalindividual-66c6c76ff480a0d4ae8805bdc0199521&mrid=09e4187c131453d2a6aba141a7fa0f3c&action=showRecord&record
+4 CONC Title=+Heinrich+Frye
+3 PAGE Deutschland, Nordrhein-Westfalen, Sterberegister 1874-1938
+1 CHAN
+2 DATE 24 OCT 2020
+3 TIME 20:52:04
+0 @I1624@ INDI
+1 RIN AB:I1624
+1 _UID 181518DC05E04B79BE77BF91D7D5266B8C54
+1 NAME Johann Bernhard /Frigge/
+2 SURN Frigge
+2 GIVN Johann Bernhard
+1 SEX M
+1 FAMC @F424@
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=1335606629&action=showRecord
+1 _INET
+2 _MHRM 2
+2 _MHSM 0
+2 _RDATE 24 OCT 2020
+2 _SDATE 24 OCT 2020
+1 SOUR @S7@
+2 PAGE Deutschland, Geburten und Taufen, 1558-1898
+2 _LINK https://www.myheritage.de/research/collection-30037/deutschland-geburten-und-taufen-1558-1898?itemId=10606852-&indId=externalindividual-dcca6cbff7bb7b95372a04b0c324382f&mrid=66f78cb06a0585ff9a745c3c5c6dc7aa&action=showRecord&recordTitle=Johann+
+3 CONC Bernard+Frigge
+1 BIRT
+2 DATE 22 OCT 1822
+1 CHR
+2 DATE 24 OCT 1822
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+2 RELI katholisch
+2 NOTE Sankt Stephanus
+1 CHAN
+2 DATE 24 OCT 2020
+3 TIME 20:55:48
+0 @I1625@ INDI
+1 RIN AB:I1625
+1 _UID 2C516E79F7644D77BC4C753812C320325F86
+1 NAME Theodor Henrich /Frigge/
+2 SURN Frigge
+2 GIVN Theodor Henrich
+1 SEX M
+1 FAMC @F424@
+1 DEAT Y
+1 _INET
+2 _MHRM 3
+2 _MHSM 0
+2 _RDATE 24 OCT 2020
+2 _SDATE 24 OCT 2020
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=158176611&action=showRecord
+1 SOUR @S7@
+2 PAGE Deutschland, Geburten und Taufen, 1558-1898
+2 _LINK https://www.myheritage.de/research/collection-30037/deutschland-geburten-und-taufen-1558-1898?itemId=10634293-&indId=externalindividual-2a691f5d07a300dfd80e0f5e2d03fa69&mrid=20f0e370136e1f5c747aad9e30fa3bd9&action=showRecord&recordTitle=Theodor
+3 CONC +Henrich+Frigge
+1 FAMS @F464@
+1 BIRT
+2 DATE 27 AUG 1826
+1 CHR
+2 DATE 29 AUG 1826
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+2 RELI katholisch
+2 NOTE Sankt Stephanus
+1 CHAN
+2 DATE 24 OCT 2020
+3 TIME 21:00:24
+0 @I1626@ INDI
+1 RIN AB:I1626
+1 _UID DC4EDFAB638A4F4DB42B5DF0D24189FB0053
+1 NAME Anna Sibilla Catharina /Rohe/
+2 SURN Rohe
+2 GIVN Anna Sibilla Catharina
+1 SEX F
+1 FAMS @F464@
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=1335606576&action=showRecord
+1 _INET
+2 _MHRM 2
+2 _MHSM 0
+2 _RDATE 24 OCT 2020
+2 _SDATE 24 OCT 2020
+1 FAMC @F465@
+1 BIRT
+2 DATE 1829
+1 CHAN
+2 DATE 24 OCT 2020
+3 TIME 20:59:51
+0 @I1627@ INDI
+1 RIN AB:I1627
+1 _UID C30DCB45E6CE47FBA72D370A44B0DF0FCDA5
+1 NAME Joan Henrich /Rohe/
+2 SURN Rohe
+2 GIVN Joan Henrich
+1 SEX M
+1 FAMS @F465@
+1 BIRT Y
+1 DEAT Y
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 24 OCT 2020
+2 _SDATE 24 OCT 2020
+1 CHAN
+2 DATE 24 OCT 2020
+3 TIME 21:00:01
+0 @I1628@ INDI
+1 RIN AB:I1628
+1 _UID B0F920377F8B41CE9388EC06B5CDC6CC3A60
+1 NAME Maria Sophie /Frigge/
+2 SURN Frigge
+2 GIVN Maria Sophie
+1 SEX F
+1 FAMC @F424@
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=345347540&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 0
+2 _RDATE 24 OCT 2020
+2 _SDATE 24 OCT 2020
+1 SOUR @S7@
+2 PAGE Deutschland, Geburten und Taufen, 1558-1898
+2 _LINK https://www.myheritage.de/research/collection-30037/deutschland-geburten-und-taufen-1558-1898?itemId=10665860-&indId=externalindividual-ba3b0297deb17d63a6be2ecf6b9e2355&mrid=41c6aee7e381c82abb84816931adb5ce&action=showRecord&recordTitle=Marie+S
+3 CONC ophie+Frigge
+1 BIRT
+2 DATE 19 JUL 1834
+1 CHR
+2 DATE 20 JUL 1834
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+2 RELI katholisch
+2 NOTE Sankt Stephanus
+1 CHAN
+2 DATE 24 OCT 2020
+3 TIME 21:02:07
+0 @I1629@ INDI
+1 RIN AB:I1629
+1 _UID 9EA30474AD8144DCA1AC059AB98421348556
+1 NAME Ferdinand /Frigge/
+2 SURN Frigge
+2 GIVN Ferdinand
+1 SEX M
+1 FAMC @F424@
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=376100755&action=showRecord
+1 _INET
+2 _MHRM 3
+2 _MHSM 0
+2 _RDATE 24 OCT 2020
+2 _SDATE 24 OCT 2020
+1 SOUR @S7@
+2 PAGE Deutschland, Geburten und Taufen, 1558-1898
+2 _LINK https://www.myheritage.de/research/collection-30037/deutschland-geburten-und-taufen-1558-1898?itemId=10599007-&indId=externalindividual-64923b931e555f4e0712ef02c54ae0d7&mrid=c3489b4f3a1de9b7a52f3a286b25f166&action=showRecord&recordTitle=Ferdina
+3 CONC nd+Frigge
+1 FAMS @F466@
+1 BIRT
+2 DATE 5 AUG 1830
+1 CHR
+2 DATE 7 AUG 1830
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+2 RELI katholisch
+2 NOTE Sankt Stephanus
+1 CHAN
+2 DATE 24 OCT 2020
+3 TIME 21:05:29
+0 @I1630@ INDI
+1 RIN AB:I1630
+1 _UID B2CA784D6E7B422289A88E899CD5D394AEB0
+1 NAME Clara /Gurries/
+2 SURN Gurries
+2 GIVN Clara
+2 _MARNM Frigge
+1 SEX F
+1 FAMS @F466@
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=655528132&action=showRecord
+1 _INET
+2 _MHRM 3
+2 _MHSM 0
+2 _RDATE 24 OCT 2020
+2 _SDATE 24 OCT 2020
+1 SOUR @S7@
+2 PAGE Deutschland, Geburten und Taufen, 1558-1898
+2 _LINK https://www.myheritage.de/research/collection-30037/deutschland-geburten-und-taufen-1558-1898?itemId=5171392-&indId=externalindividual-a719663c9a744bc4b123f8f1e84ee946&mrid=80fc7a136f6f75beaf1002aef7d6f0ba&action=showRecord&recordTitle=Clara+Gu
+3 CONC rries
+1 FAMC @F467@
+1 BIRT
+2 DATE 27 JAN 1837
+2 NOTE Das echte Geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
+1 CHR
+2 DATE 27 JAN 1837
+2 PLAC Körbecke, Möhnesee, Kreis Soest, Nordrhein-Westfalen
+3 _LOC @L93@
+3 MAP
+4 LATI N51.497778
+4 LONG E8.130083
+2 RELI katholisch
+1 CHAN
+2 DATE 31 OCT 2020
+3 TIME 14:21:08
+0 @I1631@ INDI
+1 RIN AB:I1631
+1 _UID 37C31349A9A14CE0B229117E7B22FCD4A3F4
+1 NAME Frans Anton /Gurries/
+2 SURN Gurries
+2 GIVN Frans Anton
+2 NOTE alternativer Nachname: GURRES
+1 SEX M
+1 FAMS @F467@
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=506174864&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 2
+2 _RDATE 31 OCT 2020
+2 _SDATE 31 OCT 2020
+1 NOTE alternativer Nachname: GURRES
+1 BIRT
+2 DATE 21 MAY 1805
+2 PLAC Körbecke, Möhnesee, Kreis Soest, Nordrhein-Westfalen
+3 _LOC @L93@
+3 MAP
+4 LATI N51.497778
+4 LONG E8.130083
+1 CHAN
+2 DATE 31 OCT 2020
+3 TIME 13:46:22
+0 @I1632@ INDI
+1 RIN AB:I1632
+1 _UID 6FA070AC57EA487AB6E9CFAB631D4F203649
+1 NAME Anna Christina /Gosselke/
+2 SURN Gosselke
+2 GIVN Anna Christina
+1 SEX F
+1 FAMS @F467@
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=363327924&action=showRecord
+1 _INET
+2 _MHRM 2
+2 _MHSM 7
+2 _RDATE 31 OCT 2020
+2 _SDATE 31 OCT 2020
+1 SOUR @S7@
+2 PAGE Deutschland, Todesfälle und Beerdigungen, 1582-1958
+2 _LINK https://www.myheritage.de/research/collection-30055/deutschland-todesfalle-und-beerdigungen-1582-1958?itemId=2717800-&indId=externalindividual-f16d4eeaf0192531d30e6352cdb01171&mrid=e1aedb55ee4028ffd0f01c58fde0b55c&action=showRecord&recordTitle=
+3 CONC Christina+Gosselke
+1 BIRT
+2 DATE 15 DEC 1810
+2 PLAC Körbecke, Möhnesee, Kreis Soest, Nordrhein-Westfalen
+3 _LOC @L93@
+3 MAP
+4 LATI N51.497778
+4 LONG E8.130083
+1 CHR
+2 DATE 16 DEC 1810
+2 PLAC Körbecke, Möhnesee, Kreis Soest, Nordrhein-Westfalen
+3 _LOC @L93@
+3 MAP
+4 LATI N51.497778
+4 LONG E8.130083
+2 RELI katholisch
+1 DEAT
+2 DATE 17 JUL 1855
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+1 BURI
+2 DATE 20 JUL 1855
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+1 CHAN
+2 DATE 31 OCT 2020
+3 TIME 13:44:33
+0 @I1633@ INDI
+1 RIN AB:I1633
+1 _UID FC692DC6FAA142C3B6EADB27E0E1E466A5C9
+1 NAME Theresia /Gurries/
+2 SURN Gurries
+2 GIVN Theresia
+1 SEX F
+1 FAMC @F467@
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=418113392&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 31 OCT 2020
+2 _SDATE 31 OCT 2020
+1 BIRT
+2 DATE 3 FEB 1832
+2 PLAC Körbecke, Möhnesee, Kreis Soest, Nordrhein-Westfalen
+3 _LOC @L93@
+3 MAP
+4 LATI N51.497778
+4 LONG E8.130083
+1 CHR
+2 DATE 5 FEB 1832
+2 PLAC Körbecke, Möhnesee, Kreis Soest, Nordrhein-Westfalen
+3 _LOC @L93@
+3 MAP
+4 LATI N51.497778
+4 LONG E8.130083
+2 RELI katholisch
+1 CHAN
+2 DATE 31 OCT 2020
+3 TIME 13:49:01
+0 @I1634@ INDI
+1 RIN AB:I1634
+1 _UID 37E41AB949724A3898D83D8972D10A1FCDFC
+1 NAME John Bernard /Gurries/
+2 SURN Gurries
+2 GIVN John Bernard
+1 SEX M
+1 FAMC @F467@
+1 _INET
+2 _MHRM 24
+2 _MHSM 2
+2 _RDATE 31 OCT 2020
+2 _SDATE 31 OCT 2020
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=329783893&action=showRecord
+1 SOUR @S7@
+2 PAGE BillionGraves
+2 _LINK https://www.myheritage.de/research/collection-10147/billiongraves?itemId=41724233-&indId=externalindividual-ba423c9e23e3d2ba233a87d53b003eb9&mrid=2771c49dfb3c825da7570de62068c632&action=showRecord&recordTitle=John+Gurries
+1 BIRT
+2 DATE 14 JUN 1848
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+1 CHR
+2 DATE 16 JUN 1848
+2 PLAC Altenrüthen, Rüthen, Kreis Soest, Nordrhein-Westfalen
+3 _LOC @L94@
+3 MAP
+4 LATI N51.496694
+4 LONG E8.4065
+2 RELI protestantisch
+2 NOTE Sankt Gervasius Und Protastius
+1 IMMI
+2 DATE 1876
+2 PLAC Baltimore, Maryland, USA
+3 _LOC @L96@
+3 MAP
+4 LATI N39.290389
+4 LONG W76.612194
+1 BURI
+2 PLAC Catholic Cemetary, Gilroy, Santa Clara Country, California, USA
+2 DATE 1932
+1 DEAT
+2 DATE NOV 1932
+2 PLAC Gilroy, Santa Clara Country, California, USA
+3 _LOC @L95@
+3 MAP
+4 LATI N37.005778
+4 LONG W121.568
+1 CHAN
+2 DATE 31 OCT 2020
+3 TIME 14:19:43
+0 @I1635@ INDI
+1 RIN AB:I1635
+1 _UID 636E8028FDB94FF6A613C8C1F0FD24B57C13
+1 NAME Carl August /Gurries/
+2 SURN Gurries
+2 GIVN Carl August
+1 SEX M
+1 FAMC @F467@
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=354073874&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 1
+2 _RDATE 31 OCT 2020
+2 _SDATE 31 OCT 2020
+1 BIRT
+2 DATE 29 SEP 1834
+2 PLAC Körbecke, Möhnesee, Kreis Soest, Nordrhein-Westfalen
+3 _LOC @L93@
+3 MAP
+4 LATI N51.497778
+4 LONG E8.130083
+1 CHR
+2 DATE 30 SEP 1834
+2 PLAC Körbecke, Möhnesee, Kreis Soest, Nordrhein-Westfalen
+3 _LOC @L93@
+3 MAP
+4 LATI N51.497778
+4 LONG E8.130083
+1 CHAN
+2 DATE 31 OCT 2020
+3 TIME 14:22:39
+0 @I1636@ INDI
+1 RIN AB:I1636
+1 _UID 081C3F28F0A84FCBB9C2AA85F8D1F650F689
+1 NAME Maria Francisca /Gurries/
+2 SURN Gurries
+2 GIVN Maria Francisca
+1 SEX F
+1 FAMC @F467@
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=961941021&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 31 OCT 2020
+2 _SDATE 31 OCT 2020
+1 BIRT
+2 DATE 1 JAN 1845
+2 PLAC Körbecke, Möhnesee, Kreis Soest, Nordrhein-Westfalen
+3 _LOC @L93@
+3 MAP
+4 LATI N51.497778
+4 LONG E8.130083
+1 CHR
+2 DATE 4 JAN 1845
+2 PLAC Körbecke, Möhnesee, Kreis Soest, Nordrhein-Westfalen
+3 _LOC @L93@
+3 MAP
+4 LATI N51.497778
+4 LONG E8.130083
+1 CHAN
+2 DATE 31 OCT 2020
+3 TIME 14:24:10
+0 @I1637@ INDI
+1 RIN AB:I1637
+1 _UID 6B3A8C36292C41739AF1A406E3E7EF43A1A0
+1 NAME Anne Marie /Frigge/
+2 SURN Frigge
+2 GIVN Anne Marie
+1 SEX F
+1 FAMC @F424@
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE FamilySearch Stammbaum
+2 _LINK https://www.myheritage.de/research/collection-40001/familysearch-stammbaum?itemId=511747385&action=showRecord
+1 _INET
+2 _MHRM 3
+2 _MHSM 0
+2 _RDATE 31 OCT 2020
+2 _SDATE 31 OCT 2020
+1 SOUR @S7@
+2 PAGE Deutschland, Geburten und Taufen, 1558-1898
+2 _LINK https://www.myheritage.de/research/collection-30037/deutschland-geburten-und-taufen-1558-1898?itemId=10668330-&indId=externalindividual-ceb33dd99489fb5e758e4991e1f5dc48&mrid=3bb45aa7c8c4bfeb658f1f77b0a51857&action=showRecord&recordTitle=Anne+Ma
+3 CONC rie+Frigge
+1 BIRT
+2 DATE 2 NOV 1821
+2 NOTE Das echte geburtsdatum ist nicht bekannt. Die Geburtsdaten resultieren als Annahme aus den Taufdaten.
+1 CHR
+2 DATE 2 NOV 1821
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+2 RELI katholisch
+2 NOTE Sankt Stephanus
+1 CHAN
+2 DATE 31 OCT 2020
+3 TIME 14:29:24
+0 @I1638@ INDI
+1 RIN AB:I1638
+1 _UID 7AE6E9E6BD824A6E8D635A5B4E87E5FF8450
+1 NAME Theodor /Harfeld/
+2 SURN Harfeld
+2 GIVN Theodor
+1 SEX M
+1 FAMS @F468@
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-500086&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 31 OCT 2020
+2 _SDATE 31 OCT 2020
+1 FAMC @F469@
+1 BIRT
+2 DATE 18 MAR 1892
+1 DEAT
+2 DATE 27 SEP 1957
+1 CHAN
+2 DATE 31 OCT 2020
+3 TIME 15:08:46
+0 @I1639@ INDI
+1 RIN AB:I1639
+1 _UID C05354087FBB47B5A725AE01A4CE15FBA270
+1 NAME Hedwig /Harfeld/
+2 SURN Harfeld
+2 GIVN Hedwig
+2 _MARNM Freimark 
+1 SEX F
+1 FAMC @F468@
+1 BURI
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+1 SOUR @S7@
+2 PAGE Limbrock Web Site in Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-500090&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 31 OCT 2020
+2 _SDATE 31 OCT 2020
+1 BIRT
+2 DATE 26 AUG 1921
+1 DEAT
+2 DATE 12 APR 1975
+1 CHAN
+2 DATE 31 OCT 2020
+3 TIME 14:36:04
+0 @I1640@ INDI
+1 RIN AB:I1640
+1 _UID 8A63E588869F481F872EE85525831D5EFB27
+1 NAME Gerhard /Harfeld/
+2 SURN Harfeld
+2 GIVN Gerhard
+1 SEX M
+1 FAMS @F469@
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-19&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 1
+2 _RDATE 31 OCT 2020
+2 _SDATE 31 OCT 2020
+1 SOUR @S7@
+2 PAGE Deutschland, Nordrhein-Westfalen, Sterberegister 1874-1938
+2 _LINK https://www.myheritage.de/research/collection-10864/deutschland-nordrhein-westfalen-sterberegister-1874-1938?itemId=545857-&indId=externalindividual-2c29f2c5e5be50fadd3ce7ef9c96260a&mrid=acbc4853ea4052419b9a0f17391d65e5&action=showRecord&record
+3 CONC Title=+Gerhard+Harfeld
+1 FAMC @F470@
+1 BIRT
+2 DATE 7 NOV 1859
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 DEAT
+2 DATE 3 AUG 1912
+1 CHAN
+2 DATE 31 OCT 2020
+3 TIME 14:43:00
+0 @I1641@ INDI
+1 RIN AB:I1641
+1 _UID 5A8E579FEBD04A8491EA4473884F65BC919B
+1 NAME Jodokus /Harfeld/
+2 SURN Harfeld
+2 GIVN Jodokus
+1 SEX M
+1 FAMS @F470@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-500130&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 CHAN
+2 DATE 31 OCT 2020
+3 TIME 14:46:37
+0 @I1642@ INDI
+1 RIN AB:I1642
+1 _UID 5C124F45C1C947699C1C7D54A9E21ABC2637
+1 NAME Maria Anna /Loecke/
+2 SURN Loecke
+2 GIVN Maria Anna
+1 SEX F
+1 FAMS @F470@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-500131&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 CHAN
+2 DATE 31 OCT 2020
+3 TIME 14:51:37
+0 @I1643@ INDI
+1 RIN AB:I1643
+1 _UID AF56521928FF45E9A132D23CE935C4DF679B
+1 NAME Sofia /Stemberg/
+2 SURN Stemberg
+2 GIVN Sofia
+2 _MARNM Harfeld 
+1 SEX F
+1 FAMS @F469@
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-20&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 31 OCT 2020
+2 _SDATE 31 OCT 2020
+1 SOUR @S7@
+2 PAGE Deutschland, Nordrhein-Westfalen, Sterberegister 1874-1938
+2 _LINK https://www.myheritage.de/research/collection-10864/deutschland-nordrhein-westfalen-sterberegister-1874-1938?s=627132181&itemId=291171-&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&action=showRecord&recordTitle=+Sofia+Stemberg
+1 BIRT
+2 DATE 15 FEB 1858
+2 PLAC Heessen, Hamm, Nordrhein-Westfalen
+3 _LOC @L1@
+3 MAP
+4 LATI N51.7032777777778
+4 LONG E7.83
+1 DEAT
+2 DATE 26 JAN 1934
+1 CHAN
+2 DATE 31 OCT 2020
+3 TIME 15:07:46
+0 @I1644@ INDI
+1 RIN AB:I1644
+1 _UID 82D533700F6F405CAEB072C8070859E5F9E9
+1 NAME Johannes /Harfeld/
+2 SURN Harfeld
+2 GIVN Johannes
+1 SEX M
+1 FAMC @F469@
+1 BIRT Y
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-500092&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 31 OCT 2020
+2 _SDATE 31 OCT 2020
+1 DEAT
+2 DATE ABT 1944
+1 CHAN
+2 DATE 31 OCT 2020
+3 TIME 15:11:43
+0 @I1645@ INDI
+1 RIN AB:I1645
+1 _UID BC957D4099DA4657A8113F17543DF733E8B2
+1 NAME Maria /Harfeld/
+2 SURN Harfeld
+2 GIVN Maria
+1 SEX F
+1 FAMC @F469@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-500116&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 31 OCT 2020
+2 _SDATE 31 OCT 2020
+1 CHAN
+2 DATE 31 OCT 2020
+3 TIME 15:13:03
+0 @I1646@ INDI
+1 RIN AB:I1646
+1 _UID D5C80F4E2FC04D0799DBD0DC8BAAB2F438F8
+1 NAME Heinrich /Harfeld/
+2 SURN Harfeld
+2 GIVN Heinrich
+1 SEX M
+1 FAMC @F469@
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-500117&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 31 OCT 2020
+2 _SDATE 31 OCT 2020
+1 FAMS @F471@
+1 BIRT
+2 DATE 24 JUN 1890
+1 DEAT
+2 DATE 17 JAN 1957
+1 CHAN
+2 DATE 31 OCT 2020
+3 TIME 15:21:13
+0 @I1647@ INDI
+1 RIN AB:I1647
+1 _UID E6352C1295EC4AF39C3C23E6369AC369F4C5
+1 NAME Rosa
+2 GIVN Rosa
+2 _MARNM Harfeld
+1 SEX F
+1 FAMS @F471@
+1 BURI
+2 PLAC Elsfleth, Wesermarsch, Niedersachsen
+3 _LOC @L97@
+3 MAP
+4 LATI N53.236194
+4 LONG E8.461278
+1 BIRT
+2 DATE 26 AUG 1903
+1 DEAT
+2 DATE 30 JUL 2000
+1 CHAN
+2 DATE 31 OCT 2020
+3 TIME 15:20:14
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 31 OCT 2020
+2 _SDATE 31 OCT 2020
+0 @I1648@ INDI
+1 RIN AB:I1648
+1 _UID BC697FC6442C41DAABD18E317CD4AA5D87A4
+1 NAME Anna /Harfeld/
+2 SURN Harfeld
+2 GIVN Anna
+2 _MARNM Karwinkel 
+1 SEX F
+1 FAMC @F469@
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-5&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 31 OCT 2020
+2 _SDATE 31 OCT 2020
+1 FAMS @F472@
+1 BIRT
+2 DATE 22 MAY 1893
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+1 DEAT
+2 DATE 19 NOV 1973
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+1 CHAN
+2 DATE 31 OCT 2020
+3 TIME 15:23:56
+0 @I1649@ INDI
+1 RIN AB:I1649
+1 _UID 41B454B38A7D4AD5A47E864A570F4287433F
+1 NAME Heinrich /Karwinkel/
+2 SURN Karwinkel
+2 GIVN Heinrich
+1 SEX M
+1 FAMS @F472@
+1 OCCU Maurer
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-4&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 31 OCT 2020
+2 _SDATE 31 OCT 2020
+1 FAMC @F473@
+1 BIRT
+2 DATE 10 APR 1890
+1 DEAT
+2 DATE 15 APR 1940
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 17:13:48
+0 @I1650@ INDI
+1 RIN AB:I1650
+1 _UID 9468F217BAF84FCEB4D888904891BF8898D4
+1 NAME Gerhard /Karwinkel/
+2 SURN Karwinkel
+2 GIVN Gerhard
+1 SEX M
+1 FAMS @F473@
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-17&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 BIRT
+2 DATE 9 JUN 1854
+1 DEAT
+2 DATE 3 JUN 1940
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 17:11:47
+0 @I1651@ INDI
+1 RIN AB:I1651
+1 _UID 32CAF7C11DBC42CE83FD22754129748D1F93
+1 NAME Maria /Weber/
+2 SURN Weber
+2 GIVN Maria
+1 SEX F
+1 FAMS @F473@
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-18&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 BIRT
+2 DATE 10 JUN 1860
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 DEAT
+2 DATE 25 SEP 1939
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 17:13:26
+0 @I1652@ INDI
+1 RIN AB:I1652
+1 _UID 5D7912C5E5184EF284287D5DE1D097A25AF1
+1 NAME Johannes /Karwinkel/
+2 SURN Karwinkel
+2 GIVN Johannes
+1 SEX M
+1 FAMC @F473@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-500094&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 17:16:46
+0 @I1653@ INDI
+1 RIN AB:I1653
+1 _UID 1EBBCF4827D04762BEFD39D8272BC93BB21E
+1 NAME Wilhelmine /Karwinkel/
+2 SURN Karwinkel
+2 GIVN Wilhelmine
+2 _MARNM De Vries 
+1 SEX F
+1 FAMC @F473@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-500141&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 17:18:14
+0 @I1654@ INDI
+1 RIN AB:I1654
+1 _UID 0078A26527D7481DA6B2F5350DD6282998EF
+1 NAME Anna /Karwinkel/
+2 SURN Karwinkel
+2 GIVN Anna
+2 _MARNM Limbrock 
+1 SEX F
+1 FAMC @F472@
+1 RELI katholisch
+1 OCCU Schneiderin
+1 BURI
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-2&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 FAMS @F474@
+1 BIRT
+2 DATE 25 OCT 1930
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHR
+2 DATE 30 OCT 1930
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+2 RELI katholisch
+2 NOTE Stephanuskirche Bockum
+1 DEAT
+2 DATE 7 MAY 1994
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 17:27:12
+0 @I1655@ INDI
+1 RIN AB:I1655
+1 _UID 2F2898B1DD3F4725A54EED9A3A450053749D
+1 NAME Johannes /Limbrock/
+2 SURN Limbrock
+2 GIVN Johannes
+1 SEX M
+1 FAMS @F474@
+1 RELI katholisch
+1 OCCU Maschinist
+1 BURI
+2 PLAC Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L75@
+3 MAP
+4 LATI N51.7
+4 LONG E7.75
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-1&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 FAMC @F476@
+1 BIRT
+2 DATE 3 FEB 1931
+2 PLAC Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L75@
+3 MAP
+4 LATI N51.7
+4 LONG E7.75
+1 CHR
+2 DATE 7 FEB 1931
+2 PLAC Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L75@
+3 MAP
+4 LATI N51.7
+4 LONG E7.75
+2 RELI katholisch
+2 NOTE Kapelle St. Joseph Krankenhaus Hövel
+1 DEAT
+2 DATE 11 DEC 1996
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 18:15:45
+0 @I1656@ INDI
+1 RIN AB:I1656
+1 _UID 5F4441D2E71B464A9A9E470EF44B83CE650E
+1 NAME Johannes Anton /Karwinkel/
+2 SURN Karwinkel
+2 GIVN Johannes Anton
+1 SEX M
+1 FAMC @F472@
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-500035&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 BIRT
+2 DATE 23 OCT 1925
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHR
+2 DATE 27 OCT 1925
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+2 NOTE Stephanuskirche Bockum
+1 DEAT
+2 DATE 22 FEB 1945
+2 PLAC Görlitz, Landkreis Görlitz, Sachsen
+3 _LOC @L98@
+3 MAP
+4 LATI N51.136278
+4 LONG E14.969583
+2 CAUS während des Zweiten Weltkriegs gefallen
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 17:32:24
+0 @I1657@ INDI
+1 RIN AB:I1657
+1 _UID 16138FD0F9F240F3AE2459EE6B7E298C5D28
+1 NAME Anna Sophia /Karwinkel/
+2 SURN Karwinkel
+2 GIVN Anna Sophia
+1 SEX F
+1 FAMC @F472@
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-500037&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 0
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 SOUR @S7@
+2 PAGE Deutschland, Nordrhein-Westfalen, Sterberegister 1874-1938
+2 _LINK https://www.myheritage.de/research/collection-10864/deutschland-nordrhein-westfalen-sterberegister-1874-1938?itemId=772662-&indId=externalindividual-f7c0afebbc1bd97b90c4258d8773c5e8&mrid=ad5ebffd38a3cd87c92e9a2580e64395&action=showRecord&record
+3 CONC Title=+Anna+Sophia+Karwinkel
+1 BIRT
+2 DATE 31 DEC 1920
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHR
+2 DATE 2 JAN 1921
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+2 NOTE Stephanuskirche Bockum
+1 DEAT
+2 DATE 3 DEC 1921
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 17:35:44
+0 @I1658@ INDI
+1 RIN AB:I1658
+1 _UID 61EF1A1435344C57A5E29492F9AC1B625968
+1 NAME Heinrich /Karwinkel/
+2 SURN Karwinkel
+2 GIVN Heinrich
+1 SEX M
+1 FAMC @F472@
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-500036&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 2
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 SOUR @S7@
+2 PAGE Deutschland, Nordrhein-Westfalen, Sterberegister 1874-1938
+2 _LINK https://www.myheritage.de/research/collection-10864/deutschland-nordrhein-westfalen-sterberegister-1874-1938?itemId=834627-&indId=externalindividual-789c1e073baea2afe54847993a89f9c8&mrid=1d0b138fbba125376306fa685df55d42&action=showRecord&record
+3 CONC Title=+Heinrich+Karwinkel
+1 BIRT
+2 DATE 12 FEB 1922
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHR
+2 DATE 15 FEB 1922
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+2 NOTE Stephanuskirche Bockum
+1 DEAT
+2 DATE 5 OCT 1922
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 17:39:15
+0 @I1659@ INDI
+1 RIN AB:I1659
+1 _UID 611F32136C8F48F6B14FF9F2DBC29D7FA2EB
+1 NAME Elisabeth Wilhelmine /Karwinkel/
+2 SURN Karwinkel
+2 GIVN Elisabeth Wilhelmine
+2 _MARNM Vilbusch
+1 SEX F
+1 FAMC @F472@
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-500015&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 FAMS @F475@
+1 BIRT
+2 DATE 9 OCT 1927
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHR
+2 DATE 9 OCT 1927
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+2 NOTE Stephanuskirche Bockum
+1 DEAT
+2 DATE 9 APR 2018
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 17:41:51
+0 @I1660@ INDI
+1 RIN AB:I1660
+1 _UID 5BCFEC1CC79D4690BAC1C0D1CAB303D3CBCA
+1 NAME Paul /Vilbusch/
+2 SURN Vilbusch
+2 GIVN Paul
+1 SEX M
+1 FAMS @F475@
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-500016&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 BIRT
+2 DATE 5 NOV 1926
+1 DEAT
+2 DATE 8 APR 2002
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 17:43:20
+0 @I1661@ INDI
+1 RIN AB:I1661
+1 _UID FCB0ADFEC77B4F64BB3258074A19A80AADD9
+1 NAME Ursula /Vilbusch/
+2 SURN Vilbusch
+2 GIVN Ursula
+2 _MARNM Langerbein 
+1 SEX F
+1 FAMC @F475@
+1 BURI
+2 PLAC Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L75@
+3 MAP
+4 LATI N51.7
+4 LONG E7.75
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-500018&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 BIRT
+2 DATE 24 OCT 1962
+1 DEAT
+2 DATE 6 NOV 1993
+2 CAUS Verkehrsunfall
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 17:44:26
+0 @I1662@ INDI
+1 RIN AB:I1662
+1 _UID DFA04553C7664E2BB54AD0B45E8A797A1B26
+1 NAME Gerhard /Harfeld/
+2 SURN Harfeld
+2 GIVN Gerhard
+1 SEX M
+1 FAMC @F468@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-500104&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 17:46:58
+0 @I1663@ INDI
+1 RIN AB:I1663
+1 _UID 8CD573485618434394F1FE08E84D056F4489
+1 NAME Bernadine /Wegener/
+2 SURN Wegener
+2 GIVN Bernadine
+2 _MARNM Harfeld 
+1 SEX F
+1 FAMS @F468@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-500088&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 17:48:12
+0 @I1664@ INDI
+1 RIN AB:I1664
+1 _UID E1566CFAE53749E7A085997D1EAE7A7BE561
+1 NAME Johannes Bernard /Limbrock/
+2 SURN Limbrock
+2 GIVN Johannes Bernard
+1 SEX M
+1 FAMS @F476@
+1 OCCU Bergmann
+1 BURI
+2 PLAC Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L75@
+3 MAP
+4 LATI N51.7
+4 LONG E7.75
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-6&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 FAMC @F477@
+1 FAMS @F482@
+1 BIRT
+2 DATE 25 FEB 1903
+2 PLAC Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L75@
+3 MAP
+4 LATI N51.7
+4 LONG E7.75
+1 DEAT
+2 DATE 31 JUL 1958
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 18:26:04
+0 @I1665@ INDI
+1 RIN AB:I1665
+1 _UID 5DBF09AFEF374DC7A6F928C1105A66B31975
+1 NAME Johannes /Limbrock/
+2 SURN Limbrock
+2 GIVN Johannes
+1 SEX M
+1 FAMS @F477@
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-11&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 FAMC @F478@
+1 BIRT
+2 DATE 27 OCT 1870
+1 DEAT
+2 DATE 10 JAN 1932
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 17:52:17
+0 @I1666@ INDI
+1 RIN AB:I1666
+1 _UID 72DC148B664A4185BC98BFB97D014A877E89
+1 NAME Heinrich /Limbrock/
+2 SURN Limbrock
+2 GIVN Heinrich
+1 SEX M
+1 FAMS @F478@
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-13&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 BIRT
+2 DATE 7 SEP 1835
+1 DEAT
+2 DATE 22 SEP 1872
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 17:53:30
+0 @I1667@ INDI
+1 RIN AB:I1667
+1 _UID 7C588A7951C3478CA09652736A53ED36996E
+1 NAME Gertrud /Starkmann/
+2 SURN Starkmann
+2 GIVN Gertrud
+1 SEX F
+1 FAMS @F477@
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-12&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 FAMC @F479@
+1 BIRT
+2 DATE 27 NOV 1865
+1 DEAT
+2 DATE 1948
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 18:05:24
+0 @I1668@ INDI
+1 RIN AB:I1668
+1 _UID 22C1C074705A45DF844F533AADD49BE76824
+1 NAME Heinrich /Starkmann/
+2 SURN Starkmann
+2 GIVN Heinrich
+1 SEX M
+1 FAMS @F479@
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-15&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 2
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 SOUR @S7@
+2 PAGE Deutschland, Nordrhein-Westfalen, Sterberegister 1874-1938
+2 _LINK https://www.myheritage.de/research/collection-10864/deutschland-nordrhein-westfalen-sterberegister-1874-1938?itemId=224920-&indId=externalindividual-69f8fc47da7c00cc7a733c5ec5de06ca&mrid=b7345a366916ddf9c0469e38b7554913&action=showRecord&record
+3 CONC Title=+Heinrich+Starkmann
+1 FAMC @F480@
+1 BIRT
+2 DATE 10 APR 1841
+2 PLAC Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L75@
+3 MAP
+4 LATI N51.7
+4 LONG E7.75
+1 DEAT
+2 DATE 25 MAR 1910
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 18:10:06
+0 @I1669@ INDI
+1 RIN AB:I1669
+1 _UID 805A88AF4EFA44BC9E11E64A2403A96E76D9
+1 NAME Bernhard Heinrich /Starkmann/
+2 SURN Starkmann
+2 GIVN Bernhard Heinrich
+1 SEX M
+1 FAMS @F480@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 18:09:33
+0 @I1670@ INDI
+1 RIN AB:I1670
+1 _UID 2C8B20099F9040FBB30ADB52C837771AC478
+1 NAME Gertrud /Kemper/
+2 SURN Kemper
+2 GIVN Gertrud
+1 SEX F
+1 FAMS @F480@
+1 BIRT Y
+1 DEAT Y
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 18:09:43
+0 @I1671@ INDI
+1 RIN AB:I1671
+1 _UID A57EF58753A14407A089E48A64086960AA4C
+1 NAME Ludowika /Eickhoff/
+2 SURN Eickhoff
+2 GIVN Ludowika
+2 _MARNM Starkmann 
+1 SEX F
+1 FAMS @F479@
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-16&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 1
+2 _MHSM 1
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 SOUR @S7@
+2 PAGE Deutschland, Nordrhein-Westfalen, Sterberegister 1874-1938
+2 _LINK https://www.myheritage.de/research/collection-10864/deutschland-nordrhein-westfalen-sterberegister-1874-1938?itemId=709674-&indId=externalindividual-0f805ee3dfe559d6cc9f7fa08176a606&mrid=d0ff0a2342e407c160ea49be9cce2976&action=showRecord&record
+3 CONC Title=+Ludowika+Eickhoff
+1 BIRT
+2 DATE 25 JUL 1834
+2 PLAC Rhynern, Hamm, Nordrhein-Westfalen
+3 _LOC @L80@
+3 MAP
+4 LATI N51.61
+4 LONG E7.866083
+1 DEAT
+2 DATE 22 NOV 1922
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 18:13:30
+0 @I1672@ INDI
+1 RIN AB:I1672
+1 _UID 4128653022764DA781C5D8C70372ECB08031
+1 NAME Gertrud Anna Elisabeth /Limbrock/
+2 SURN Limbrock
+2 GIVN Gertrud Anna Elisabeth
+2 _MARNM Rohmann 
+1 SEX F
+1 FAMC @F476@
+1 BURI
+2 PLAC Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L75@
+3 MAP
+4 LATI N51.7
+4 LONG E7.75
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-500024&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 FAMS @F481@
+1 BIRT
+2 DATE 31 MAR 1937
+1 CHR
+2 DATE 5 APR 1937
+2 PLAC Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L75@
+3 MAP
+4 LATI N51.7
+4 LONG E7.75
+2 NOTE Kapelle St. Joseph Krankenhaus Hövel
+1 DEAT
+2 DATE 4 JUL 2015
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 18:17:52
+0 @I1673@ INDI
+1 RIN AB:I1673
+1 _UID 133BC24305184E4B8EBAF1293471672DA4B2
+1 NAME Hermann /Rohmann/
+2 SURN Rohmann
+2 GIVN Hermann
+1 SEX M
+1 FAMS @F481@
+1 BURI
+2 PLAC Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L75@
+3 MAP
+4 LATI N51.7
+4 LONG E7.75
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-500025&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 BIRT
+2 DATE 22 JAN 1930
+1 DEAT
+2 DATE 19 FEB 2018
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 18:19:25
+0 @I1674@ INDI
+1 RIN AB:I1674
+1 _UID CA9ABFF88D794F0FA1799A0E6E9F7231F1FF
+1 NAME Elisabeth /Eickhoff/
+2 SURN Eickhoff
+2 GIVN Elisabeth
+2 _MARNM Limbrock 
+1 SEX F
+1 FAMS @F476@
+1 BURI
+2 PLAC Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L75@
+3 MAP
+4 LATI N51.7
+4 LONG E7.75
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-7&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 BIRT
+2 DATE 24 FEB 1904
+2 PLAC Walstedde, Drensteinfurt, Kreis Warendorf, Nordrhein-Westfalen
+3 _LOC @L45@
+3 MAP
+4 LATI N51.762
+4 LONG E7.792
+1 DEAT
+2 DATE 4 MAY 1945
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 18:25:19
+0 @I1675@ INDI
+1 RIN AB:I1675
+1 _UID F04F265EA64841FEA3C1ABE94F7D3826120A
+1 NAME Bernardine /Schmersträter/
+2 SURN Schmersträter
+2 GIVN Bernardine
+2 _MARNM Limbrock 
+1 SEX F
+1 FAMS @F482@
+1 BURI
+2 PLAC Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L75@
+3 MAP
+4 LATI N51.7
+4 LONG E7.75
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-65&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 2
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 FAMC @F483@
+1 BIRT
+2 DATE 19 JUL 1908
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 DEAT
+2 DATE 26 OCT 1993
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 18:37:40
+0 @I1676@ INDI
+1 RIN AB:I1676
+1 _UID F1287282AE32451BBA0194D825EADB64C224
+1 NAME Johann Bernard /Schmersträter/
+2 SURN Schmersträter
+2 GIVN Johann Bernard
+1 SEX M
+1 FAMS @F483@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-500040&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 18:36:38
+0 @I1677@ INDI
+1 RIN AB:I1677
+1 _UID 1ED4DB4C63804BDFB09A7A528CB982C0C356
+1 NAME Elisabeth /Frie/
+2 SURN Frie
+2 GIVN Elisabeth
+2 _MARNM Schmersträter 
+1 SEX F
+1 FAMS @F483@
+1 BIRT Y
+1 DEAT Y
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-500041&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 18:37:13
+0 @I1678@ INDI
+1 RIN AB:I1678
+1 _UID 8C3EFA729A8F474CB27B29FB8FB7EA8D0033
+1 NAME Käthe /Schmersträter/
+2 SURN Schmersträter
+2 GIVN Käthe
+1 SEX F
+1 FAMC @F483@
+1 BURI
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-500042&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 BIRT
+2 DATE 3 SEP 1919
+1 DEAT
+2 DATE 7 NOV 1974
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 18:38:54
+0 @I1679@ INDI
+1 RIN AB:I1679
+1 _UID A349D5F72F3E49FC96985BF594F3C6E61B9A
+1 NAME Elisabeth /Schmersträter/
+2 SURN Schmersträter
+2 GIVN Elisabeth
+2 _MARNM Ueter 
+1 SEX F
+1 FAMC @F483@
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-500043&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 FAMS @F484@
+1 SOUR @S5@
+2 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg)
+2 DATA
+3 DATE 2019
+2 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=8&b=&lang=de
+1 BIRT
+2 DATE 1912
+1 BURI
+2 SOUR @S5@
+3 PAGE Friedhof Bockum, Bockum-Hövel (Hamm, Arnsberg)
+3 DATA
+4 DATE 2019
+3 _LINK https://grabsteine.genealogy.net/tomb.php?cem=6568&tomb=8&b=&lang=de
+2 DATE 2004
+2 PLAC Nordenfriedhof, Bockum-Hövel, Hamm, Nordrhein-Westfalen
+1 DEAT
+2 DATE 2004
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 18:53:31
+0 @I1680@ INDI
+1 RIN AB:I1680
+1 _UID 57FCA0EFE6F34A3586F326F26A44CABCFF48
+1 NAME Maria /Schmersträter/
+2 SURN Schmersträter
+2 GIVN Maria
+2 _MARNM Wagner 
+1 SEX F
+1 FAMC @F483@
+1 BURI
+2 PLAC Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L75@
+3 MAP
+4 LATI N51.7
+4 LONG E7.75
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-500045&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 7
+2 _MHSM 1
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 FAMS @F485@
+1 BIRT
+2 DATE 1914
+1 DEAT
+2 DATE 1987
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 18:49:55
+0 @I1681@ INDI
+1 RIN AB:I1681
+1 _UID F40E5A451380444BB3616075F9F7FD13ACCC
+1 NAME Walter /Wagner/
+2 SURN Wagner
+2 GIVN Walter
+1 SEX M
+1 FAMS @F485@
+1 BURI
+2 PLAC Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L75@
+3 MAP
+4 LATI N51.7
+4 LONG E7.75
+1 SOUR @S7@
+2 PAGE Limbrock Web Site von Christa Mühlenhoff
+2 _LINK https://www.myheritage.de/research/collection-1/myheritage-stammbaume?itemId=220847601-1-500046&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&mrid=e8d45ec2a937bbf0340fa0bcdae29469&action=showRecord
+1 _INET
+2 _MHRM 0
+2 _MHSM 1
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 BIRT
+2 DATE 1924
+1 DEAT
+2 DATE 2005
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 18:51:06
+0 @I1682@ INDI
+1 RIN AB:I1682
+1 _UID 1921C572A7B34582A1BDA8F79D0786A45D07
+1 NAME Maria /Schmersträter/
+2 SURN Schmersträter
+2 GIVN Maria
+1 SEX F
+1 FAMC @F483@
+1 _INET
+2 _MHRM 1
+2 _MHSM 0
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 SOUR @S7@
+2 PAGE Deutschland, Nordrhein-Westfalen, Sterberegister 1874-1938
+2 _LINK https://www.myheritage.de/research/collection-10864/deutschland-nordrhein-westfalen-sterberegister-1874-1938?itemId=270909-&indId=externalindividual-3ba3af127afd73977b512b43c1b2c334&mrid=0c688bba9535125f5699a07b0eadc4c7&action=showRecord&record
+3 CONC Title=+Maria+Schmerstr%C3%A4ter
+1 BIRT
+2 DATE ABT 1897
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 DEAT
+2 DATE 26 JUL 1905
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 18:55:41
+0 @I1683@ INDI
+1 RIN AB:I1683
+1 _UID 616A08DC127A49B1A4E655682ED9927A8F5C
+1 NAME Hermann /Schmersträter/
+2 SURN Schmersträter
+2 GIVN Hermann
+1 SEX M
+1 FAMC @F483@
+1 _INET
+2 _MHRM 1
+2 _MHSM 0
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 SOUR @S7@
+2 PAGE Deutschland, Nordrhein-Westfalen, Sterberegister 1874-1938
+2 _LINK https://www.myheritage.de/research/collection-10864/deutschland-nordrhein-westfalen-sterberegister-1874-1938?itemId=171091-&indId=externalindividual-2441a0f9d7f87ff9b2959be2f8e6b8f3&mrid=c613acc08f939450e4e7ff0ef3222a03&action=showRecord&record
+3 CONC Title=+Hermann+Schmerstr%C3%A4ter
+1 BIRT
+2 DATE ABT 1901
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 DEAT
+2 DATE 23 SEP 1907
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 18:57:50
+0 @I1684@ INDI
+1 RIN AB:I1684
+1 _UID E7D6D00B36DF4E0D9D2455A686E3B4B89988
+1 NAME ... /Schmersträter/
+2 SURN Schmersträter
+2 GIVN ...
+1 SEX F
+1 FAMC @F483@
+1 SOUR @S7@
+2 PAGE Deutschland, Nordrhein-Westfalen, Sterberegister 1874-1938
+2 _LINK https://www.myheritage.de/research/collection-10864/deutschland-nordrhein-westfalen-sterberegister-1874-1938?s=627132181&itemId=732784-F&indId=externalindividual-ce82ac07b348df9dac8f8f41d749e860&action=showRecord&recordTitle=+Unbekannt+Schmerst
+3 CONC r%C3%A4ter
+1 _INET
+2 _MHRM 0
+2 _MHSM 0
+2 _RDATE 1 NOV 2020
+2 _SDATE 1 NOV 2020
+1 BIRT
+2 DATE 16 DEC 1904
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 DEAT
+2 DATE 16 DEC 1904
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+2 CAUS Totgeburt
+1 CHAN
+2 DATE 1 NOV 2020
+3 TIME 18:59:04
 0 @S1@ SOUR
 1 TITL Matricula
 0 @S2@ SOUR
@@ -50469,9 +52602,6 @@
 1 WIFE @I1249@
 1 MARR Y
 1 CHIL @I1250@
-0 @F359@ FAM
-1 HUSB @I1251@
-1 WIFE @I1252@
 0 @F360@ FAM
 1 HUSB @I1256@
 1 WIFE @I1257@
@@ -51042,6 +53172,23 @@
 1 HUSB @I1493@
 1 CHIL @I1492@
 1 WIFE @I1494@
+1 CHIL @I1621@
+1 CHIL @I1622@
+1 CHIL @I1623@
+1 CHIL @I1624@
+1 MARR
+2 DATE 28 NOV 1820
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+2 RELI katholisch
+2 TYPE RELI
+1 CHIL @I1625@
+1 CHIL @I1628@
+1 CHIL @I1629@
+1 CHIL @I1637@
 0 @F425@ FAM
 1 HUSB @I1492@
 1 WIFE @I1495@
@@ -51241,6 +53388,220 @@
 1 CHIL @I1613@
 1 CHIL @I1614@
 1 CHIL @I1615@
+0 @F462@ FAM
+1 HUSB @I1617@
+1 CHIL @I1493@
+1 WIFE @I1618@
+0 @F463@ FAM
+1 HUSB @I1619@
+1 CHIL @I1494@
+1 CHIL @I1620@
+0 @F464@ FAM
+1 HUSB @I1625@
+1 WIFE @I1626@
+1 MARR
+2 DATE 21 OCT 1856
+0 @F465@ FAM
+1 HUSB @I1627@
+1 CHIL @I1626@
+0 @F466@ FAM
+1 HUSB @I1629@
+1 WIFE @I1630@
+1 MARR
+2 DATE 6 OCT 1864
+2 PLAC Hamm, Nordrhein-Westfalen
+3 _LOC @L2@
+3 MAP
+4 LATI N51.6626944444444
+4 LONG E7.766
+2 RELI katholisch
+2 TYPE RELI
+0 @F467@ FAM
+1 HUSB @I1631@
+1 CHIL @I1630@
+1 WIFE @I1632@
+1 MARR
+2 DATE 11 SEP 1830
+2 PLAC Körbecke, Möhnesee, Kreis Soest, Nordrhein-Westfalen
+3 _LOC @L93@
+3 MAP
+4 LATI N51.497778
+4 LONG E8.130083
+1 CHIL @I1633@
+1 CHIL @I1634@
+1 CHIL @I1635@
+1 CHIL @I1636@
+0 @F468@ FAM
+1 HUSB @I1638@
+1 CHIL @I1579@
+1 CHIL @I1639@
+1 CHIL @I1662@
+1 WIFE @I1663@
+0 @F469@ FAM
+1 HUSB @I1640@
+1 CHIL @I1638@
+1 WIFE @I1643@
+1 MARR
+2 DATE 26 APR 1888
+2 PLAC Drensteinfurt, Kreis Warendorf, Nordrhein-Westfalen
+3 _LOC @L72@
+3 MAP
+4 LATI N51.797778
+4 LONG E7.7415
+1 CHIL @I1644@
+1 CHIL @I1645@
+1 CHIL @I1646@
+1 CHIL @I1648@
+0 @F470@ FAM
+1 HUSB @I1641@
+1 CHIL @I1640@
+1 WIFE @I1642@
+0 @F471@ FAM
+1 HUSB @I1646@
+1 WIFE @I1647@
+0 @F472@ FAM
+1 WIFE @I1648@
+1 HUSB @I1649@
+1 MARR
+2 DATE 7 MAY 1919
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHIL @I1654@
+1 CHIL @I1656@
+1 CHIL @I1657@
+1 CHIL @I1658@
+1 CHIL @I1659@
+0 @F473@ FAM
+1 HUSB @I1650@
+1 CHIL @I1649@
+1 WIFE @I1651@
+1 MARR
+2 DATE 2 AUG 1887
+2 PLAC Drensteinfurt, Kreis Warendorf, Nordrhein-Westfalen
+3 _LOC @L72@
+3 MAP
+4 LATI N51.797778
+4 LONG E7.7415
+1 CHIL @I1652@
+1 CHIL @I1653@
+0 @F474@ FAM
+1 WIFE @I1654@
+1 HUSB @I1655@
+1 MARR
+2 DATE 7 MAR 1957
+2 PLAC Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L75@
+3 MAP
+4 LATI N51.7
+4 LONG E7.75
+2 TYPE CIVIL
+1 MARR
+2 DATE 25 JUN 1957
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+2 TYPE RELI
+0 @F475@ FAM
+1 WIFE @I1659@
+1 HUSB @I1660@
+1 MARR
+2 DATE 9 SEP 1959
+2 PLAC Bockum, Hamm, Nordrhein-Westfalen
+3 _LOC @L9@
+3 MAP
+4 LATI N51.68
+4 LONG E7.73
+1 CHIL @I1661@
+0 @F476@ FAM
+1 HUSB @I1664@
+1 CHIL @I1655@
+1 CHIL @I1672@
+1 WIFE @I1674@
+1 MARR
+2 DATE 30 SEP 1929
+2 PLAC Drensteinfurt, Kreis Warendorf, Nordrhein-Westfalen
+3 _LOC @L72@
+3 MAP
+4 LATI N51.797778
+4 LONG E7.7415
+2 TYPE CIVIL
+1 MARR
+2 DATE 1 OCT 1929
+2 PLAC Walstedde, Drensteinfurt, Kreis Warendorf, Nordrhein-Westfalen
+3 _LOC @L45@
+3 MAP
+4 LATI N51.762
+4 LONG E7.792
+2 TYPE RELI
+0 @F477@ FAM
+1 HUSB @I1665@
+1 CHIL @I1664@
+1 WIFE @I1667@
+1 MARR Y
+0 @F478@ FAM
+1 HUSB @I1666@
+1 CHIL @I1665@
+0 @F479@ FAM
+1 HUSB @I1668@
+1 CHIL @I1667@
+1 WIFE @I1671@
+0 @F480@ FAM
+1 HUSB @I1669@
+1 CHIL @I1668@
+1 WIFE @I1670@
+0 @F481@ FAM
+1 WIFE @I1672@
+1 HUSB @I1673@
+1 MARR
+2 DATE 28 JUN 1961
+2 PLAC Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L75@
+3 MAP
+4 LATI N51.7
+4 LONG E7.75
+0 @F482@ FAM
+1 HUSB @I1664@
+1 WIFE @I1675@
+1 MARR
+2 DATE 27 AUG 1945
+2 PLAC Bockum-Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L7@
+3 MAP
+4 LATI N51.692278
+4 LONG E7.737694
+2 TYPE CIVIL
+1 MARR
+2 DATE 12 SEP 1945
+2 PLAC Hövel, Hamm, Nordrhein-Westfalen
+3 _LOC @L75@
+3 MAP
+4 LATI N51.7
+4 LONG E7.75
+2 TYPE RELI
+2 NOTE St. Pankratius Hövel
+0 @F483@ FAM
+1 HUSB @I1676@
+1 CHIL @I1675@
+1 WIFE @I1677@
+1 CHIL @I1678@
+1 CHIL @I1679@
+1 CHIL @I1680@
+1 CHIL @I1682@
+1 CHIL @I1683@
+1 CHIL @I1684@
+0 @F484@ FAM
+1 WIFE @I1679@
+1 HUSB @I1251@
+1 MARR
+2 DATE 19 NOV 1936
+0 @F485@ FAM
+1 WIFE @I1680@
+1 HUSB @I1681@
 0 @SUBM@ SUBM
 1 NAME Michael Johne
 1 ADDR Michael Johne
@@ -51959,4 +54320,60 @@
 1 MAP
 2 LATI N52.33
 2 LONG E17.73
+0 @L93@ _LOC
+1 NAME Körbecke, Möhnesee, Kreis Soest, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/K%C3%B6rbecke_(M%C3%B6hnesee)
+2 CONT http://gov.genealogy.net/item/show/KORCKEJO41BL
+1 _POST 59519
+1 _GOV KORCKEJO41BL
+1 MAP
+2 LATI N51.497778
+2 LONG E8.130083
+0 @L94@ _LOC
+1 NAME Altenrüthen, Rüthen, Kreis Soest, Nordrhein-Westfalen
+1 SOUR https://de.wikipedia.org/wiki/Altenr%C3%BCthen
+2 CONT http://gov.genealogy.net/item/show/ALTHENJO41EL
+1 _POST 59602
+1 _GOV ALTHENJO41EL
+1 MAP
+2 LATI N51.496694
+2 LONG E8.4065
+0 @L95@ _LOC
+1 NAME Gilroy, Santa Clara Country, California, USA
+1 SOUR https://de.wikipedia.org/wiki/Gilroy
+2 CONT https://en.wikipedia.org/wiki/Gilroy%2C_California
+2 CONT http://gov.genealogy.net/item/show/GILROYCM97FA
+1 _POST 95020, 95021
+1 _GOV GILROYCM97FA
+1 MAP
+2 LATI N37.005778
+2 LONG W121.568
+0 @L96@ _LOC
+1 NAME Baltimore, Maryland, USA
+1 SOUR https://en.wikipedia.org/wiki/Baltimore
+2 CONT https://de.wikipedia.org/wiki/Baltimore
+2 CONT http://gov.genealogy.net/item/show/BALOREFM19QG
+1 _POST 21201-21298
+1 _GOV BALOREFM19QG
+1 MAP
+2 LATI N39.290389
+2 LONG W76.612194
+0 @L97@ _LOC
+1 NAME Elsfleth, Wesermarsch, Niedersachsen
+1 SOUR https://de.wikipedia.org/wiki/Elsfleth
+2 CONT http://gov.genealogy.net/item/show/ELSETHJO43FF
+1 _POST 26931
+1 _GOV ELSETHJO43FF
+1 MAP
+2 LATI N53.236194
+2 LONG E8.461278
+0 @L98@ _LOC
+1 NAME Görlitz, Landkreis Görlitz, Sachsen
+1 SOUR https://de.wikipedia.org/wiki/G%C3%B6rlitz
+2 CONT http://gov.genealogy.net/item/show/adm_144003
+1 _POST 02826–02828
+1 _GOV adm_144003
+1 MAP
+2 LATI N51.136278
+2 LONG E14.969583
 0 TRLR
